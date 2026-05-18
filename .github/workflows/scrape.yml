@@ -1,0 +1,103 @@
+name: Scrape REE Grid Data
+
+on:
+  schedule:
+    - cron: '0 6 1-15 * *'   # daily 06:00 UTC, first half of month
+    - cron: '0 6 * * 1'      # every Monday year-round (safety net)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        run: python scrape_ree.py
+
+      - name: Validate scraper output
+        run: |
+          FILE=$(ls -1 output/raw/all_data_*.csv 2>/dev/null | sort | tail -1)
+          if [ -z "$FILE" ]; then
+            echo "::error::No all_data CSV found in output/raw/"
+            exit 1
+          fi
+          ROW_COUNT=$(tail -n +2 "$FILE" | wc -l | tr -d ' ')
+          if [ "$ROW_COUNT" -eq 0 ]; then
+            echo "::error::all_data CSV has no data rows"
+            exit 1
+          fi
+          echo "Validated: $FILE ($ROW_COUNT data rows)"
+
+      - name: Run cleaner
+        run: python clean_ree.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/
+          if git diff --cached --quiet; then
+            echo "No changes detected — skipping commit"
+          else
+            CHANGED=$(git diff --cached --name-only)
+            DATE=$(date -u +%Y-%m-%d)
+            git commit -m "$(cat <<EOF
+          data: monthly update detected ${DATE}
+
+          Changed files:
+          ${CHANGED}
+          EOF
+          )"
+            git push
+          fi
+
+      - name: Open issue on failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          gh label create scraper-broken --color d73a4a \
+            --description "Automated scraper is failing" --force 2>/dev/null || true
+
+          EXISTING=$(gh issue list --label scraper-broken --state open \
+            --limit 1 --json number -q '.[0].number' 2>/dev/null)
+
+          if [ -n "$EXISTING" ]; then
+            gh issue comment "$EXISTING" \
+              --body "Still failing as of $(date -u +%Y-%m-%d). [Run logs]($RUN_URL)"
+            exit 0
+          fi
+
+          gh issue create \
+            --title "REE scraper failure $(date -u +%Y-%m-%d)" \
+            --label scraper-broken \
+            --body "$(cat <<EOF
+          The REE grid data scraper failed.
+
+          **Run logs:** $RUN_URL
+
+          ## Likely cause
+
+          The \`AJAX_LIBRARIES\` Drupal cache key in \`scrape_ree.py\` is stale.
+          REE periodically rebuilds their site cache, invalidating the key.
+
+          ## How to fix
+
+          See the **Maintenance** section of README.md for instructions on
+          capturing the new key from browser DevTools.
+          EOF
+          )"

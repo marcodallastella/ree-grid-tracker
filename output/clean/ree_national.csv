@@ -1,0 +1,93 @@
+﻿scope,scope_detail,technology,status,grid,capacidad_acceso_mw,potencia_instalada_mw
+NACIONAL,Nacional,almacenamiento,Con permisos,RdD,6001.0,8083.0
+NACIONAL,Nacional,almacenamiento,Con permisos,RdT,5077.0,17547.0
+NACIONAL,Nacional,almacenamiento,En curso,RdD,3285.95,3631.22
+NACIONAL,Nacional,almacenamiento,En curso,RdT,10887.79,12104.13
+NACIONAL,Nacional,almacenamiento,Puesta en servicio,RdD,14.04,24.37
+NACIONAL,Nacional,almacenamiento,Puesta en servicio,RdT,,111.6
+NACIONAL,Nacional,bombeo,Con permisos,RdD,,
+NACIONAL,Nacional,bombeo,Con permisos,RdT,2797.0,2816.0
+NACIONAL,Nacional,bombeo,En curso,RdD,,
+NACIONAL,Nacional,bombeo,En curso,RdT,1285.0,1285.0
+NACIONAL,Nacional,bombeo,Puesta en servicio,RdD,,
+NACIONAL,Nacional,bombeo,Puesta en servicio,RdT,5377.85,5453.93
+NACIONAL,Nacional,eolica,Con permisos,RdD,3891.0,4940.0
+NACIONAL,Nacional,eolica,Con permisos,RdT,13356.0,19606.0
+NACIONAL,Nacional,eolica,En curso,RdD,1807.19,2006.13
+NACIONAL,Nacional,eolica,En curso,RdT,10209.09,11012.61
+NACIONAL,Nacional,eolica,Puesta en servicio,RdD,9068.94,10282.0
+NACIONAL,Nacional,eolica,Puesta en servicio,RdT,14968.19,22228.65
+NACIONAL,Nacional,fotovoltaica,Con permisos,RdD,13410.0,17147.0
+NACIONAL,Nacional,fotovoltaica,Con permisos,RdT,37497.0,56998.0
+NACIONAL,Nacional,fotovoltaica,En curso,RdD,5416.4,6027.8
+NACIONAL,Nacional,fotovoltaica,En curso,RdT,9545.86,12795.24
+NACIONAL,Nacional,fotovoltaica,Puesta en servicio,RdD,9956.27,12528.85
+NACIONAL,Nacional,fotovoltaica,Puesta en servicio,RdT,13563.73,28511.86
+NACIONAL,Nacional,hibridacion,Con permisos,RdD,1472.0,
+NACIONAL,Nacional,hibridacion,Con permisos,RdT,9429.0,
+NACIONAL,Nacional,hibridacion,En curso,RdD,233.97,
+NACIONAL,Nacional,hibridacion,En curso,RdT,3001.06,
+NACIONAL,Nacional,hibridacion,Puesta en servicio,RdD,2854.26,
+NACIONAL,Nacional,hibridacion,Puesta en servicio,RdT,20634.36,
+NACIONAL,Nacional,hidraulica,Con permisos,RdD,47.0,101.0
+NACIONAL,Nacional,hidraulica,Con permisos,RdT,191.0,495.0
+NACIONAL,Nacional,hidraulica,En curso,RdD,,15.2
+NACIONAL,Nacional,hidraulica,En curso,RdT,,3.5
+NACIONAL,Nacional,hidraulica,Puesta en servicio,RdD,6041.85,6048.93
+NACIONAL,Nacional,hidraulica,Puesta en servicio,RdT,6402.18,6908.14
+NACIONAL,Nacional,otras,Con permisos,RdD,522.0,760.0
+NACIONAL,Nacional,otras,Con permisos,RdT,173.0,676.0
+NACIONAL,Nacional,otras,En curso,RdD,55.18,79.39
+NACIONAL,Nacional,otras,En curso,RdT,4581.56,6104.88
+NACIONAL,Nacional,otras,Puesta en servicio,RdD,6383.03,6805.23
+NACIONAL,Nacional,otras,Puesta en servicio,RdT,35451.59,39376.28
+NACIONAL,Nacional,termosolar,Con permisos,RdD,50.0,81.0
+NACIONAL,Nacional,termosolar,Con permisos,RdT,,
+NACIONAL,Nacional,termosolar,Puesta en servicio,RdD,520.5,570.5
+NACIONAL,Nacional,termosolar,Puesta en servicio,RdT,1246.8,1698.6
+PENINSULAR,Peninsular,almacenamiento,Con permisos,RdD,4870.0,6701.0
+PENINSULAR,Peninsular,almacenamiento,Con permisos,RdT,4661.0,16840.0
+PENINSULAR,Peninsular,almacenamiento,En curso,RdD,3267.35,3612.37
+PENINSULAR,Peninsular,almacenamiento,En curso,RdT,10771.79,11988.13
+PENINSULAR,Peninsular,almacenamiento,Puesta en servicio,RdD,10.04,19.17
+PENINSULAR,Peninsular,almacenamiento,Puesta en servicio,RdT,,106.52
+PENINSULAR,Peninsular,bombeo,Con permisos,RdD,,
+PENINSULAR,Peninsular,bombeo,Con permisos,RdT,2797.0,2816.0
+PENINSULAR,Peninsular,bombeo,En curso,RdD,,
+PENINSULAR,Peninsular,bombeo,En curso,RdT,1285.0,1285.0
+PENINSULAR,Peninsular,bombeo,Puesta en servicio,RdD,,
+PENINSULAR,Peninsular,bombeo,Puesta en servicio,RdT,5377.85,5453.93
+PENINSULAR,Peninsular,eolica,Con permisos,RdD,3801.0,4812.0
+PENINSULAR,Peninsular,eolica,Con permisos,RdT,13158.0,19383.0
+PENINSULAR,Peninsular,eolica,En curso,RdD,1807.19,2006.13
+PENINSULAR,Peninsular,eolica,En curso,RdT,10200.69,11004.21
+PENINSULAR,Peninsular,eolica,Puesta en servicio,RdD,8931.18,10118.29
+PENINSULAR,Peninsular,eolica,Puesta en servicio,RdT,14600.12,21745.43
+PENINSULAR,Peninsular,fotovoltaica,Con permisos,RdD,12659.0,16034.0
+PENINSULAR,Peninsular,fotovoltaica,Con permisos,RdT,37143.0,56381.0
+PENINSULAR,Peninsular,fotovoltaica,En curso,RdD,5398.4,6006.57
+PENINSULAR,Peninsular,fotovoltaica,En curso,RdT,9495.26,12727.52
+PENINSULAR,Peninsular,fotovoltaica,Puesta en servicio,RdD,9577.85,12098.71
+PENINSULAR,Peninsular,fotovoltaica,Puesta en servicio,RdT,13394.78,28274.56
+PENINSULAR,Peninsular,hibridacion,Con permisos,RdD,1277.0,
+PENINSULAR,Peninsular,hibridacion,Con permisos,RdT,9266.0,
+PENINSULAR,Peninsular,hibridacion,En curso,RdD,233.97,
+PENINSULAR,Peninsular,hibridacion,En curso,RdT,3001.06,
+PENINSULAR,Peninsular,hibridacion,Puesta en servicio,RdD,2805.69,
+PENINSULAR,Peninsular,hibridacion,Puesta en servicio,RdT,20450.31,
+PENINSULAR,Peninsular,hidraulica,Con permisos,RdD,36.0,90.0
+PENINSULAR,Peninsular,hidraulica,Con permisos,RdT,191.0,495.0
+PENINSULAR,Peninsular,hidraulica,En curso,RdD,,15.2
+PENINSULAR,Peninsular,hidraulica,En curso,RdT,,3.5
+PENINSULAR,Peninsular,hidraulica,Puesta en servicio,RdD,6041.09,6048.17
+PENINSULAR,Peninsular,hidraulica,Puesta en servicio,RdT,6402.18,6908.14
+PENINSULAR,Peninsular,otras,Con permisos,RdD,520.0,745.0
+PENINSULAR,Peninsular,otras,Con permisos,RdT,173.0,574.0
+PENINSULAR,Peninsular,otras,En curso,RdD,55.18,79.39
+PENINSULAR,Peninsular,otras,En curso,RdT,4581.56,6104.88
+PENINSULAR,Peninsular,otras,Puesta en servicio,RdD,6356.76,6781.26
+PENINSULAR,Peninsular,otras,Puesta en servicio,RdT,31155.93,35168.22
+PENINSULAR,Peninsular,termosolar,Con permisos,RdD,50.0,81.0
+PENINSULAR,Peninsular,termosolar,Con permisos,RdT,,
+PENINSULAR,Peninsular,termosolar,Puesta en servicio,RdD,520.5,570.5
+PENINSULAR,Peninsular,termosolar,Puesta en servicio,RdT,1246.8,1698.6

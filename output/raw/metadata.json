@@ -1,0 +1,56 @@
+{
+  "scrape_date": "2026-04-13",
+  "data_source": "https://www.ree.es/es/clientes/generador/acceso-conexion/conoce-el-estado-de-las-solicitudes",
+  "note": "Data updated monthly by REE, as of end of previous month",
+  "total_nodes": 678,
+  "total_data_points": 11100,
+  "voltages": [
+    400,
+    220,
+    132,
+    66
+  ],
+  "group": "GI",
+  "technologies": {
+    "eolica": "Eólica",
+    "fotovoltaica": "Fotovoltaica",
+    "almacenamiento": "Baterías",
+    "hibridacion": "Hibridación",
+    "termosolar": "Termosolar",
+    "hidraulica": "Hidráulica",
+    "bombeo": "Bombeo",
+    "otras": "Otras tecnologías"
+  },
+  "statuses": [
+    "En curso",
+    "Con permisos",
+    "Puesta en servicio"
+  ],
+  "grids": {
+    "RdT": "Red de Transporte",
+    "RdD": "Red de Distribución"
+  },
+  "sections": {
+    "capacidad_acceso": "Capacidad de acceso de instalaciones (MW)",
+    "potencia_instalada": "Potencia instalada de módulos (MW)"
+  },
+  "ccaas_scraped": [
+    "Andalucía",
+    "Aragón",
+    "Asturias",
+    "Canarias",
+    "Cantabria",
+    "Castilla y León",
+    "Castilla La Mancha",
+    "Cataluña",
+    "Comunidad Valenciana",
+    "Extremadura",
+    "Galicia",
+    "Baleares",
+    "La Rioja",
+    "Madrid",
+    "Murcia",
+    "Navarra",
+    "País Vasco"
+  ]
+}
