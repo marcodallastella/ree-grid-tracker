@@ -425,21 +425,22 @@ def main():
     if not args.nodes_only:
         agg_rows = scrape_aggregates(session, args.delay)
         all_data_rows.extend(agg_rows)
-        write_csv(str(out / f"aggregates_{today}.csv"), agg_rows, CSV_COLUMNS)
+        write_csv(str(out / "aggregates.csv"), agg_rows, CSV_COLUMNS)
 
     # ── Step 3: Nodes ──
     if not args.aggregates_only:
         node_rows = scrape_node_data(session, all_nodes, args.delay)
         all_data_rows.extend(node_rows)
-        write_csv(str(out / f"nodes_data_{today}.csv"), node_rows, CSV_COLUMNS)
+        write_csv(str(out / "nodes_data.csv"), node_rows, CSV_COLUMNS)
 
     # ── Step 4: Combined ──
     if not args.nodes_only and not args.aggregates_only:
-        write_csv(str(out / f"all_data_{today}.csv"), all_data_rows, CSV_COLUMNS)
+        write_csv(str(out / "all_data.csv"), all_data_rows, CSV_COLUMNS)
 
     # ── Metadata ──
     meta = {
         "scrape_date": today,
+        "data_month": today[:7],
         "data_source": PAGE_URL,
         "note": "Data updated monthly by REE, as of end of previous month",
         "total_nodes": len(all_nodes),

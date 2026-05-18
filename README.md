@@ -8,23 +8,32 @@ Scrapes and tidies grid access & connection request data from [Red Eléctrica de
 REE/
 ├── scrape_ree.py       Scrapes raw data from REE's API
 ├── clean_ree.py        Cleans, geo-enriches, and tidies the raw data
+├── requirements.txt    Pinned Python dependencies
 ├── geo/                Reference files used by clean_ree.py
 │   ├── georef-spain-comunidad-autonoma.geojson
 │   ├── spain-provinces.geojson
 │   ├── spain-municipalities.json
 │   └── diccionario25.xlsx
 └── output/
-    ├── raw/            Scraper outputs (date-stamped, one run at a time)
-    │   ├── all_data_{date}.csv
-    │   ├── aggregates_{date}.csv
-    │   ├── nodes_data_{date}.csv
+    ├── raw/
+    │   ├── all_data.csv            Current scraper output
+    │   ├── aggregates.csv
+    │   ├── nodes_data.csv
     │   ├── nodes_geo.csv
     │   ├── nodes_geo.json
-    │   └── metadata.json
-    └── clean/          Tidy outputs from clean_ree.py
-        ├── ree_nodes.csv
+    │   ├── metadata.json
+    │   └── snapshots/              Month-stamped archive
+    │       ├── all_data_2026-04.csv
+    │       ├── aggregates_2026-04.csv
+    │       └── ...
+    └── clean/
+        ├── ree_nodes.csv           Current tidy outputs
         ├── ree_ccaa.csv
-        └── ree_national.csv
+        ├── ree_national.csv
+        └── snapshots/              Month-stamped archive
+            ├── ree_nodes_2026-04.csv
+            ├── ree_ccaa_2026-04.csv
+            └── ...
 ```
 
 ## Automated workflow (GitHub Actions)

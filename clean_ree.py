@@ -27,13 +27,7 @@ warnings.filterwarnings("ignore", category=UserWarning)
 # =====================================================================
 # Config — adjust paths as needed
 # =====================================================================
-def _find_latest_raw():
-    candidates = sorted(Path("output/raw").glob("all_data_*.csv"))
-    if not candidates:
-        raise FileNotFoundError("No all_data_*.csv found in output/raw/")
-    return candidates[-1]
-
-INPUT           = _find_latest_raw()
+INPUT           = Path("output/raw/all_data.csv")
 CCAA_GEOJSON    = Path("geo/georef-spain-comunidad-autonoma.geojson")
 PROV_GEOJSON    = Path("geo/spain-provinces.geojson")
 MUNI_TOPOJSON   = Path("geo/spain-municipalities.json")

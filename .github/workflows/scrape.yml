@@ -29,20 +29,52 @@ jobs:
 
       - name: Validate scraper output
         run: |
-          FILE=$(ls -1 output/raw/all_data_*.csv 2>/dev/null | sort | tail -1)
-          if [ -z "$FILE" ]; then
-            echo "::error::No all_data CSV found in output/raw/"
+          if [ ! -f output/raw/all_data.csv ]; then
+            echo "::error::output/raw/all_data.csv not found"
             exit 1
           fi
-          ROW_COUNT=$(tail -n +2 "$FILE" | wc -l | tr -d ' ')
+          ROW_COUNT=$(tail -n +2 output/raw/all_data.csv | wc -l | tr -d ' ')
           if [ "$ROW_COUNT" -eq 0 ]; then
-            echo "::error::all_data CSV has no data rows"
+            echo "::error::all_data.csv has no data rows"
             exit 1
           fi
-          echo "Validated: $FILE ($ROW_COUNT data rows)"
+          echo "Validated: all_data.csv ($ROW_COUNT data rows)"
 
       - name: Run cleaner
         run: python clean_ree.py
+
+      - name: Create month snapshots
+        run: |
+          MONTH=$(python -c "import json; print(json.load(open('output/raw/metadata.json'))['data_month'])")
+          echo "Snapshot month: $MONTH"
+
+          snapshot_if_new() {
+            local src="$1" dir="$2" base="$3"
+            local dst="${dir}/${base}_${MONTH}.csv"
+            mkdir -p "$dir"
+
+            if [ -f "$dst" ]; then
+              echo "  Exists: $dst"
+              return
+            fi
+
+            latest=$(ls -1 "${dir}/${base}_"*.csv 2>/dev/null | sort | tail -1)
+            if [ -n "$latest" ] && cmp -s "$src" "$latest"; then
+              echo "  Unchanged from $(basename "$latest") — skipping"
+              return
+            fi
+
+            cp "$src" "$dst"
+            echo "  Created: $dst"
+          }
+
+          for f in all_data aggregates nodes_data; do
+            snapshot_if_new "output/raw/${f}.csv" "output/raw/snapshots" "$f"
+          done
+
+          for f in ree_nodes ree_ccaa ree_national; do
+            snapshot_if_new "output/clean/${f}.csv" "output/clean/snapshots" "$f"
+          done
 
       - name: Commit if changed
         run: |
