@@ -2719,6 +2719,20 @@
 6971.0,VIRTUS 400,Castilla y León,Burgos,Valle de Valdebezana,400.0,43.002276644428,-3.8452381153438,eolica,Con permisos,RdT,41.0,41.0
 6971.0,VIRTUS 400,Castilla y León,Burgos,Valle de Valdebezana,400.0,43.002276644428,-3.8452381153438,eolica,Puesta en servicio,RdD,,
 6971.0,VIRTUS 400,Castilla y León,Burgos,Valle de Valdebezana,400.0,43.002276644428,-3.8452381153438,eolica,Puesta en servicio,RdT,237.35,237.35
+6960.0,VALLEJERA 220,Castilla y León,Burgos,Vallejera,220.0,42.168605060882,-4.1694015940771,almacenamiento,En curso,RdD,,
+6960.0,VALLEJERA 220,Castilla y León,Burgos,Vallejera,220.0,42.168605060882,-4.1694015940771,almacenamiento,En curso,RdT,218.0,224.92
+6960.0,VALLEJERA 220,Castilla y León,Burgos,Vallejera,220.0,42.168605060882,-4.1694015940771,almacenamiento,Puesta en servicio,RdD,,
+6960.0,VALLEJERA 220,Castilla y León,Burgos,Vallejera,220.0,42.168605060882,-4.1694015940771,almacenamiento,Puesta en servicio,RdT,,28.78
+6960.0,VALLEJERA 220,Castilla y León,Burgos,Vallejera,220.0,42.168605060882,-4.1694015940771,eolica,En curso,RdD,,
+6960.0,VALLEJERA 220,Castilla y León,Burgos,Vallejera,220.0,42.168605060882,-4.1694015940771,eolica,En curso,RdT,715.31,723.81
+6960.0,VALLEJERA 220,Castilla y León,Burgos,Vallejera,220.0,42.168605060882,-4.1694015940771,eolica,Puesta en servicio,RdD,,
+6960.0,VALLEJERA 220,Castilla y León,Burgos,Vallejera,220.0,42.168605060882,-4.1694015940771,eolica,Puesta en servicio,RdT,203.45,272.75
+6960.0,VALLEJERA 220,Castilla y León,Burgos,Vallejera,220.0,42.168605060882,-4.1694015940771,fotovoltaica,En curso,RdD,,
+6960.0,VALLEJERA 220,Castilla y León,Burgos,Vallejera,220.0,42.168605060882,-4.1694015940771,fotovoltaica,En curso,RdT,461.02,482.45
+6960.0,VALLEJERA 220,Castilla y León,Burgos,Vallejera,220.0,42.168605060882,-4.1694015940771,fotovoltaica,Puesta en servicio,RdD,,
+6960.0,VALLEJERA 220,Castilla y León,Burgos,Vallejera,220.0,42.168605060882,-4.1694015940771,fotovoltaica,Puesta en servicio,RdT,,107.79
+6960.0,VALLEJERA 220,Castilla y León,Burgos,Vallejera,220.0,42.168605060882,-4.1694015940771,hibridacion,Puesta en servicio,RdD,,
+6960.0,VALLEJERA 220,Castilla y León,Burgos,Vallejera,220.0,42.168605060882,-4.1694015940771,hibridacion,Puesta en servicio,RdT,110.3,
 12878.0,LA LORA 400,Castilla y León,Burgos,Villadiego,400.0,42.590933059319,-3.859710339563,almacenamiento,Con permisos,RdD,,
 12878.0,LA LORA 400,Castilla y León,Burgos,Villadiego,400.0,42.590933059319,-3.859710339563,almacenamiento,Con permisos,RdT,,1.0
 12878.0,LA LORA 400,Castilla y León,Burgos,Villadiego,400.0,42.590933059319,-3.859710339563,almacenamiento,En curso,RdD,,
