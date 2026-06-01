@@ -1500,7 +1500,7 @@
 12843.0,INCA 66,Baleares,Illes Balears,Inca,66.0,39.714093165258,2.9176652093101,almacenamiento,En curso,RdD,,
 12843.0,INCA 66,Baleares,Illes Balears,Inca,66.0,39.714093165258,2.9176652093101,almacenamiento,En curso,RdT,18.0,18.0
 12843.0,INCA 66,Baleares,Illes Balears,Inca,66.0,39.714093165258,2.9176652093101,fotovoltaica,Con permisos,RdD,23.0,32.0
-12843.0,INCA 66,Baleares,Illes Balears,Inca,66.0,39.714093165258,2.9176652093101,fotovoltaica,Con permisos,RdT,44.0,46.0
+12843.0,INCA 66,Baleares,Illes Balears,Inca,66.0,39.714093165258,2.9176652093101,fotovoltaica,Con permisos,RdT,21.0,21.0
 12843.0,INCA 66,Baleares,Illes Balears,Inca,66.0,39.714093165258,2.9176652093101,fotovoltaica,Puesta en servicio,RdD,1.72,3.79
 12843.0,INCA 66,Baleares,Illes Balears,Inca,66.0,39.714093165258,2.9176652093101,fotovoltaica,Puesta en servicio,RdT,,
 12843.0,INCA 66,Baleares,Illes Balears,Inca,66.0,39.714093165258,2.9176652093101,hibridacion,Puesta en servicio,RdD,1.17,
@@ -1517,11 +1517,11 @@
 12911.0,LLUCMAJOR 66,Baleares,Illes Balears,Llucmajor,66.0,39.498127758048,2.9005169898214,fotovoltaica,Con permisos,RdT,,
 12911.0,LLUCMAJOR 66,Baleares,Illes Balears,Llucmajor,66.0,39.498127758048,2.9005169898214,fotovoltaica,Puesta en servicio,RdD,21.56,22.23
 12911.0,LLUCMAJOR 66,Baleares,Illes Balears,Llucmajor,66.0,39.498127758048,2.9005169898214,fotovoltaica,Puesta en servicio,RdT,,
-12941.0,MANACOR 66,Baleares,Illes Balears,Manacor,66.0,39.573553163808,3.1905756748782,almacenamiento,Con permisos,RdD,,13.0
+12941.0,MANACOR 66,Baleares,Illes Balears,Manacor,66.0,39.573553163808,3.1905756748782,almacenamiento,Con permisos,RdD,,18.0
 12941.0,MANACOR 66,Baleares,Illes Balears,Manacor,66.0,39.573553163808,3.1905756748782,almacenamiento,Con permisos,RdT,,
 12941.0,MANACOR 66,Baleares,Illes Balears,Manacor,66.0,39.573553163808,3.1905756748782,almacenamiento,En curso,RdD,8.95,8.95
 12941.0,MANACOR 66,Baleares,Illes Balears,Manacor,66.0,39.573553163808,3.1905756748782,almacenamiento,En curso,RdT,,
-12941.0,MANACOR 66,Baleares,Illes Balears,Manacor,66.0,39.573553163808,3.1905756748782,fotovoltaica,Con permisos,RdD,13.0,58.0
+12941.0,MANACOR 66,Baleares,Illes Balears,Manacor,66.0,39.573553163808,3.1905756748782,fotovoltaica,Con permisos,RdD,11.0,55.0
 12941.0,MANACOR 66,Baleares,Illes Balears,Manacor,66.0,39.573553163808,3.1905756748782,fotovoltaica,Con permisos,RdT,,
 12941.0,MANACOR 66,Baleares,Illes Balears,Manacor,66.0,39.573553163808,3.1905756748782,fotovoltaica,En curso,RdD,8.0,8.0
 12941.0,MANACOR 66,Baleares,Illes Balears,Manacor,66.0,39.573553163808,3.1905756748782,fotovoltaica,En curso,RdT,,
@@ -1533,15 +1533,15 @@
 12941.0,MANACOR 66,Baleares,Illes Balears,Manacor,66.0,39.573553163808,3.1905756748782,otras,Con permisos,RdT,,
 12941.0,MANACOR 66,Baleares,Illes Balears,Manacor,66.0,39.573553163808,3.1905756748782,otras,Puesta en servicio,RdD,3.5,3.5
 12941.0,MANACOR 66,Baleares,Illes Balears,Manacor,66.0,39.573553163808,3.1905756748782,otras,Puesta en servicio,RdT,,
-13477.0,MARRATXI 66,Baleares,Illes Balears,Marratxí,66.0,39.611750399656,2.7265899415339,almacenamiento,Con permisos,RdD,9.0,18.0
+13477.0,MARRATXI 66,Baleares,Illes Balears,Marratxí,66.0,39.611750399656,2.7265899415339,almacenamiento,Con permisos,RdD,9.0,16.0
 13477.0,MARRATXI 66,Baleares,Illes Balears,Marratxí,66.0,39.611750399656,2.7265899415339,almacenamiento,Con permisos,RdT,,
 13477.0,MARRATXI 66,Baleares,Illes Balears,Marratxí,66.0,39.611750399656,2.7265899415339,almacenamiento,Puesta en servicio,RdD,,1.2
 13477.0,MARRATXI 66,Baleares,Illes Balears,Marratxí,66.0,39.611750399656,2.7265899415339,almacenamiento,Puesta en servicio,RdT,,
-13477.0,MARRATXI 66,Baleares,Illes Balears,Marratxí,66.0,39.611750399656,2.7265899415339,fotovoltaica,Con permisos,RdD,21.0,45.0
+13477.0,MARRATXI 66,Baleares,Illes Balears,Marratxí,66.0,39.611750399656,2.7265899415339,fotovoltaica,Con permisos,RdD,21.0,40.0
 13477.0,MARRATXI 66,Baleares,Illes Balears,Marratxí,66.0,39.611750399656,2.7265899415339,fotovoltaica,Con permisos,RdT,,
 13477.0,MARRATXI 66,Baleares,Illes Balears,Marratxí,66.0,39.611750399656,2.7265899415339,fotovoltaica,Puesta en servicio,RdD,,2.78
 13477.0,MARRATXI 66,Baleares,Illes Balears,Marratxí,66.0,39.611750399656,2.7265899415339,fotovoltaica,Puesta en servicio,RdT,,
-13477.0,MARRATXI 66,Baleares,Illes Balears,Marratxí,66.0,39.611750399656,2.7265899415339,hibridacion,Con permisos,RdD,19.0,
+13477.0,MARRATXI 66,Baleares,Illes Balears,Marratxí,66.0,39.611750399656,2.7265899415339,hibridacion,Con permisos,RdD,14.0,
 13477.0,MARRATXI 66,Baleares,Illes Balears,Marratxí,66.0,39.611750399656,2.7265899415339,hibridacion,Con permisos,RdT,,
 13477.0,MARRATXI 66,Baleares,Illes Balears,Marratxí,66.0,39.611750399656,2.7265899415339,hibridacion,Puesta en servicio,RdD,2.54,
 13477.0,MARRATXI 66,Baleares,Illes Balears,Marratxí,66.0,39.611750399656,2.7265899415339,hibridacion,Puesta en servicio,RdT,,
@@ -1560,17 +1560,15 @@
 12966.0,MERCADAL 132,Baleares,Illes Balears,"Mercadal, Es",132.0,39.977153713517,4.0957280567651,almacenamiento,Con permisos,RdD,,4.0
 12966.0,MERCADAL 132,Baleares,Illes Balears,"Mercadal, Es",132.0,39.977153713517,4.0957280567651,almacenamiento,Con permisos,RdT,,15.0
 12966.0,MERCADAL 132,Baleares,Illes Balears,"Mercadal, Es",132.0,39.977153713517,4.0957280567651,fotovoltaica,Con permisos,RdD,4.0,5.0
-12966.0,MERCADAL 132,Baleares,Illes Balears,"Mercadal, Es",132.0,39.977153713517,4.0957280567651,fotovoltaica,Con permisos,RdT,15.0,45.0
+12966.0,MERCADAL 132,Baleares,Illes Balears,"Mercadal, Es",132.0,39.977153713517,4.0957280567651,fotovoltaica,Con permisos,RdT,,25.0
 12966.0,MERCADAL 132,Baleares,Illes Balears,"Mercadal, Es",132.0,39.977153713517,4.0957280567651,fotovoltaica,Puesta en servicio,RdD,1.2,6.53
-12966.0,MERCADAL 132,Baleares,Illes Balears,"Mercadal, Es",132.0,39.977153713517,4.0957280567651,fotovoltaica,Puesta en servicio,RdT,,
+12966.0,MERCADAL 132,Baleares,Illes Balears,"Mercadal, Es",132.0,39.977153713517,4.0957280567651,fotovoltaica,Puesta en servicio,RdT,15.47,20.0
 12966.0,MERCADAL 132,Baleares,Illes Balears,"Mercadal, Es",132.0,39.977153713517,4.0957280567651,hibridacion,Con permisos,RdD,,
 12966.0,MERCADAL 132,Baleares,Illes Balears,"Mercadal, Es",132.0,39.977153713517,4.0957280567651,hibridacion,Con permisos,RdT,25.0,
 12966.0,MERCADAL 132,Baleares,Illes Balears,"Mercadal, Es",132.0,39.977153713517,4.0957280567651,hibridacion,Puesta en servicio,RdD,4.59,
 12966.0,MERCADAL 132,Baleares,Illes Balears,"Mercadal, Es",132.0,39.977153713517,4.0957280567651,hibridacion,Puesta en servicio,RdT,,
 7048.0,ARENAL 66,Baleares,Illes Balears,Palma,66.0,39.526457906072,2.7729298690989,almacenamiento,Con permisos,RdD,,4.0
 7048.0,ARENAL 66,Baleares,Illes Balears,Palma,66.0,39.526457906072,2.7729298690989,almacenamiento,Con permisos,RdT,,
-7048.0,ARENAL 66,Baleares,Illes Balears,Palma,66.0,39.526457906072,2.7729298690989,almacenamiento,En curso,RdD,10.0,10.0
-7048.0,ARENAL 66,Baleares,Illes Balears,Palma,66.0,39.526457906072,2.7729298690989,almacenamiento,En curso,RdT,,
 7048.0,ARENAL 66,Baleares,Illes Balears,Palma,66.0,39.526457906072,2.7729298690989,fotovoltaica,Con permisos,RdD,57.0,77.0
 7048.0,ARENAL 66,Baleares,Illes Balears,Palma,66.0,39.526457906072,2.7729298690989,fotovoltaica,Con permisos,RdT,,
 7048.0,ARENAL 66,Baleares,Illes Balears,Palma,66.0,39.526457906072,2.7729298690989,fotovoltaica,Puesta en servicio,RdD,8.5,8.5
@@ -1608,13 +1606,11 @@
 7382.0,SON OMS 66,Baleares,Illes Balears,Palma,66.0,39.537415574235,2.7341736267598,fotovoltaica,Con permisos,RdD,10.0,10.0
 7382.0,SON OMS 66,Baleares,Illes Balears,Palma,66.0,39.537415574235,2.7341736267598,fotovoltaica,Con permisos,RdT,,
 12666.0,SON ORLANDIS 66,Baleares,Illes Balears,Palma,66.0,39.600241695794,2.7442304751271,almacenamiento,Con permisos,RdD,,
-12666.0,SON ORLANDIS 66,Baleares,Illes Balears,Palma,66.0,39.600241695794,2.7442304751271,almacenamiento,Con permisos,RdT,9.0,29.0
+12666.0,SON ORLANDIS 66,Baleares,Illes Balears,Palma,66.0,39.600241695794,2.7442304751271,almacenamiento,Con permisos,RdT,9.0,9.0
 12666.0,SON ORLANDIS 66,Baleares,Illes Balears,Palma,66.0,39.600241695794,2.7442304751271,almacenamiento,En curso,RdD,,
 12666.0,SON ORLANDIS 66,Baleares,Illes Balears,Palma,66.0,39.600241695794,2.7442304751271,almacenamiento,En curso,RdT,98.0,98.0
 12666.0,SON ORLANDIS 66,Baleares,Illes Balears,Palma,66.0,39.600241695794,2.7442304751271,fotovoltaica,Con permisos,RdD,,
-12666.0,SON ORLANDIS 66,Baleares,Illes Balears,Palma,66.0,39.600241695794,2.7442304751271,fotovoltaica,Con permisos,RdT,61.0,64.0
-12666.0,SON ORLANDIS 66,Baleares,Illes Balears,Palma,66.0,39.600241695794,2.7442304751271,hibridacion,Con permisos,RdD,,
-12666.0,SON ORLANDIS 66,Baleares,Illes Balears,Palma,66.0,39.600241695794,2.7442304751271,hibridacion,Con permisos,RdT,18.0,
+12666.0,SON ORLANDIS 66,Baleares,Illes Balears,Palma,66.0,39.600241695794,2.7442304751271,fotovoltaica,Con permisos,RdT,61.0,63.0
 12707.0,COLISEO 66,Baleares,Illes Balears,Palma,66.0,39.583792598843,2.6546272944775,almacenamiento,Con permisos,RdD,27.0,29.0
 12707.0,COLISEO 66,Baleares,Illes Balears,Palma,66.0,39.583792598843,2.6546272944775,almacenamiento,Con permisos,RdT,,
 12769.0,FALCA 66,Baleares,Illes Balears,Palma,66.0,39.581245552547,2.6395203174731,almacenamiento,Con permisos,RdD,10.0,10.0
@@ -1645,7 +1641,7 @@
 13480.0,POLIGONO BALEARES 66,Baleares,Illes Balears,Palma,66.0,39.608369099249,2.6592312600272,fotovoltaica,Puesta en servicio,RdT,,
 13480.0,POLIGONO BALEARES 66,Baleares,Illes Balears,Palma,66.0,39.608369099249,2.6592312600272,hibridacion,Con permisos,RdD,16.0,
 13480.0,POLIGONO BALEARES 66,Baleares,Illes Balears,Palma,66.0,39.608369099249,2.6592312600272,hibridacion,Con permisos,RdT,,
-13482.0,RAFAL 66,Baleares,Illes Balears,Palma,66.0,39.591400925424,2.6325138772293,almacenamiento,Con permisos,RdD,20.0,21.0
+13482.0,RAFAL 66,Baleares,Illes Balears,Palma,66.0,39.591400925424,2.6325138772293,almacenamiento,Con permisos,RdD,20.0,20.0
 13482.0,RAFAL 66,Baleares,Illes Balears,Palma,66.0,39.591400925424,2.6325138772293,almacenamiento,Con permisos,RdT,,
 13482.0,RAFAL 66,Baleares,Illes Balears,Palma,66.0,39.591400925424,2.6325138772293,fotovoltaica,Con permisos,RdD,1.0,4.0
 13482.0,RAFAL 66,Baleares,Illes Balears,Palma,66.0,39.591400925424,2.6325138772293,fotovoltaica,Con permisos,RdT,,
@@ -1659,8 +1655,6 @@
 7069.0,SA POBLA 66,Baleares,Illes Balears,"Pobla, Sa",66.0,39.763602602532,3.0317986638702,fotovoltaica,Puesta en servicio,RdT,,
 13481.0,POLLENSA 66,Baleares,Illes Balears,Pollença,66.0,39.884387021747,3.0562771082203,almacenamiento,Con permisos,RdD,40.0,53.0
 13481.0,POLLENSA 66,Baleares,Illes Balears,Pollença,66.0,39.884387021747,3.0562771082203,almacenamiento,Con permisos,RdT,,
-13481.0,POLLENSA 66,Baleares,Illes Balears,Pollença,66.0,39.884387021747,3.0562771082203,fotovoltaica,Con permisos,RdD,1.0,1.0
-13481.0,POLLENSA 66,Baleares,Illes Balears,Pollença,66.0,39.884387021747,3.0562771082203,fotovoltaica,Con permisos,RdT,,
 7381.0,SANTA EULALIA 66,Baleares,Illes Balears,Sant Joan de Labritja,66.0,39.006337464376,1.4903347185546,fotovoltaica,Puesta en servicio,RdD,2.48,2.5
 7381.0,SANTA EULALIA 66,Baleares,Illes Balears,Sant Joan de Labritja,66.0,39.006337464376,1.4903347185546,fotovoltaica,Puesta en servicio,RdT,,
 13467.0,SAN JORGE 66,Baleares,Illes Balears,Sant Josep de sa Talaia,66.0,38.90458826526,1.3781841116692,almacenamiento,Con permisos,RdD,7.0,7.0
@@ -1689,13 +1683,13 @@
 13468.0,TORRENT 66,Baleares,Illes Balears,Santa Eulària des Riu,66.0,38.935836988594,1.432717417721,hibridacion,Con permisos,RdT,,
 13468.0,TORRENT 66,Baleares,Illes Balears,Santa Eulària des Riu,66.0,38.935836988594,1.432717417721,otras,Puesta en servicio,RdD,1.8,1.8
 13468.0,TORRENT 66,Baleares,Illes Balears,Santa Eulària des Riu,66.0,38.935836988594,1.432717417721,otras,Puesta en servicio,RdT,,
-7055.0,CAN PICAFORT 66,Baleares,Illes Balears,Santa Margalida,66.0,39.747341047747,3.1560081600849,almacenamiento,Con permisos,RdD,,5.0
+7055.0,CAN PICAFORT 66,Baleares,Illes Balears,Santa Margalida,66.0,39.747341047747,3.1560081600849,almacenamiento,Con permisos,RdD,,2.0
 7055.0,CAN PICAFORT 66,Baleares,Illes Balears,Santa Margalida,66.0,39.747341047747,3.1560081600849,almacenamiento,Con permisos,RdT,,
-7055.0,CAN PICAFORT 66,Baleares,Illes Balears,Santa Margalida,66.0,39.747341047747,3.1560081600849,fotovoltaica,Con permisos,RdD,14.0,43.0
+7055.0,CAN PICAFORT 66,Baleares,Illes Balears,Santa Margalida,66.0,39.747341047747,3.1560081600849,fotovoltaica,Con permisos,RdD,17.0,25.0
 7055.0,CAN PICAFORT 66,Baleares,Illes Balears,Santa Margalida,66.0,39.747341047747,3.1560081600849,fotovoltaica,Con permisos,RdT,,
 7055.0,CAN PICAFORT 66,Baleares,Illes Balears,Santa Margalida,66.0,39.747341047747,3.1560081600849,fotovoltaica,Puesta en servicio,RdD,29.63,30.7
 7055.0,CAN PICAFORT 66,Baleares,Illes Balears,Santa Margalida,66.0,39.747341047747,3.1560081600849,fotovoltaica,Puesta en servicio,RdT,,
-7055.0,CAN PICAFORT 66,Baleares,Illes Balears,Santa Margalida,66.0,39.747341047747,3.1560081600849,hibridacion,Con permisos,RdD,25.0,
+7055.0,CAN PICAFORT 66,Baleares,Illes Balears,Santa Margalida,66.0,39.747341047747,3.1560081600849,hibridacion,Con permisos,RdD,5.0,
 7055.0,CAN PICAFORT 66,Baleares,Illes Balears,Santa Margalida,66.0,39.747341047747,3.1560081600849,hibridacion,Con permisos,RdT,,
 7385.0,SANTA MARIA 66,Baleares,Illes Balears,Santa María del Camí,66.0,39.653157215143,2.8059559737192,almacenamiento,Con permisos,RdD,15.0,24.0
 7385.0,SANTA MARIA 66,Baleares,Illes Balears,Santa María del Camí,66.0,39.653157215143,2.8059559737192,almacenamiento,Con permisos,RdT,36.0,42.0
@@ -1835,7 +1829,7 @@
 13201.0,SAN BARTOLOME 66,Canarias,Las Palmas,San Bartolomé,66.0,28.988978340078,-13.599801790097,eolica,Puesta en servicio,RdT,,
 13201.0,SAN BARTOLOME 66,Canarias,Las Palmas,San Bartolomé,66.0,28.988978340078,-13.599801790097,fotovoltaica,Puesta en servicio,RdD,2.0,2.0
 13201.0,SAN BARTOLOME 66,Canarias,Las Palmas,San Bartolomé,66.0,28.988978340078,-13.599801790097,fotovoltaica,Puesta en servicio,RdT,,
-12916.0,LOMO MASPALOMAS 66,Canarias,Las Palmas,San Bartolomé de Tirajana,66.0,27.772023295763,-15.580925145179,fotovoltaica,Con permisos,RdD,16.0,19.0
+12916.0,LOMO MASPALOMAS 66,Canarias,Las Palmas,San Bartolomé de Tirajana,66.0,27.772023295763,-15.580925145179,fotovoltaica,Con permisos,RdD,14.0,16.0
 12916.0,LOMO MASPALOMAS 66,Canarias,Las Palmas,San Bartolomé de Tirajana,66.0,27.772023295763,-15.580925145179,fotovoltaica,Con permisos,RdT,,
 12954.0,MATORRAL 66,Canarias,Las Palmas,San Bartolomé de Tirajana,66.0,27.809303288568,-15.438487482696,almacenamiento,Con permisos,RdD,,2.0
 12954.0,MATORRAL 66,Canarias,Las Palmas,San Bartolomé de Tirajana,66.0,27.809303288568,-15.438487482696,almacenamiento,Con permisos,RdT,,21.0
@@ -1899,10 +1893,10 @@
 12671.0,TELDE 66,Canarias,Las Palmas,Telde,66.0,27.988297780439,-15.436829893372,almacenamiento,Con permisos,RdT,,
 12671.0,TELDE 66,Canarias,Las Palmas,Telde,66.0,27.988297780439,-15.436829893372,eolica,Con permisos,RdD,2.0,2.0
 12671.0,TELDE 66,Canarias,Las Palmas,Telde,66.0,27.988297780439,-15.436829893372,eolica,Con permisos,RdT,,
-12671.0,TELDE 66,Canarias,Las Palmas,Telde,66.0,27.988297780439,-15.436829893372,fotovoltaica,Con permisos,RdD,17.0,26.0
+12671.0,TELDE 66,Canarias,Las Palmas,Telde,66.0,27.988297780439,-15.436829893372,eolica,En curso,RdD,,
+12671.0,TELDE 66,Canarias,Las Palmas,Telde,66.0,27.988297780439,-15.436829893372,eolica,En curso,RdT,26.4,26.45
+12671.0,TELDE 66,Canarias,Las Palmas,Telde,66.0,27.988297780439,-15.436829893372,fotovoltaica,Con permisos,RdD,21.0,31.0
 12671.0,TELDE 66,Canarias,Las Palmas,Telde,66.0,27.988297780439,-15.436829893372,fotovoltaica,Con permisos,RdT,,
-12671.0,TELDE 66,Canarias,Las Palmas,Telde,66.0,27.988297780439,-15.436829893372,fotovoltaica,En curso,RdD,4.3,4.95
-12671.0,TELDE 66,Canarias,Las Palmas,Telde,66.0,27.988297780439,-15.436829893372,fotovoltaica,En curso,RdT,,
 12671.0,TELDE 66,Canarias,Las Palmas,Telde,66.0,27.988297780439,-15.436829893372,fotovoltaica,Puesta en servicio,RdD,7.38,7.55
 12671.0,TELDE 66,Canarias,Las Palmas,Telde,66.0,27.988297780439,-15.436829893372,fotovoltaica,Puesta en servicio,RdT,,
 12671.0,TELDE 66,Canarias,Las Palmas,Telde,66.0,27.988297780439,-15.436829893372,hibridacion,Con permisos,RdD,8.0,
@@ -1912,13 +1906,11 @@
 12700.0,CINSA 66,Canarias,Las Palmas,Telde,66.0,27.978056276721,-15.383297221969,eolica,Puesta en servicio,RdD,4.66,4.66
 12700.0,CINSA 66,Canarias,Las Palmas,Telde,66.0,27.978056276721,-15.383297221969,eolica,Puesta en servicio,RdT,,
 12700.0,CINSA 66,Canarias,Las Palmas,Telde,66.0,27.978056276721,-15.383297221969,fotovoltaica,Con permisos,RdD,1.0,1.0
-12700.0,CINSA 66,Canarias,Las Palmas,Telde,66.0,27.978056276721,-15.383297221969,fotovoltaica,Con permisos,RdT,,2.0
+12700.0,CINSA 66,Canarias,Las Palmas,Telde,66.0,27.978056276721,-15.383297221969,fotovoltaica,Con permisos,RdT,,
 12700.0,CINSA 66,Canarias,Las Palmas,Telde,66.0,27.978056276721,-15.383297221969,fotovoltaica,Puesta en servicio,RdD,1.5,1.5
-12700.0,CINSA 66,Canarias,Las Palmas,Telde,66.0,27.978056276721,-15.383297221969,fotovoltaica,Puesta en servicio,RdT,,6.0
-12700.0,CINSA 66,Canarias,Las Palmas,Telde,66.0,27.978056276721,-15.383297221969,hibridacion,Con permisos,RdD,,
-12700.0,CINSA 66,Canarias,Las Palmas,Telde,66.0,27.978056276721,-15.383297221969,hibridacion,Con permisos,RdT,2.0,
+12700.0,CINSA 66,Canarias,Las Palmas,Telde,66.0,27.978056276721,-15.383297221969,fotovoltaica,Puesta en servicio,RdT,,7.92
 12700.0,CINSA 66,Canarias,Las Palmas,Telde,66.0,27.978056276721,-15.383297221969,hibridacion,Puesta en servicio,RdD,,
-12700.0,CINSA 66,Canarias,Las Palmas,Telde,66.0,27.978056276721,-15.383297221969,hibridacion,Puesta en servicio,RdT,6.0,
+12700.0,CINSA 66,Canarias,Las Palmas,Telde,66.0,27.978056276721,-15.383297221969,hibridacion,Puesta en servicio,RdT,8.0,
 12700.0,CINSA 66,Canarias,Las Palmas,Telde,66.0,27.978056276721,-15.383297221969,otras,Con permisos,RdD,,
 12700.0,CINSA 66,Canarias,Las Palmas,Telde,66.0,27.978056276721,-15.383297221969,otras,Con permisos,RdT,,34.0
 12949.0,MARZAGAN 66,Canarias,Las Palmas,Telde,66.0,28.030197927772,-15.41991782377,almacenamiento,Con permisos,RdD,21.0,23.0
@@ -1959,7 +1951,7 @@
 13068.0,PLAYA BLANCA 66,Canarias,Las Palmas,Yaiza,66.0,28.868507504289,-13.800110778958,fotovoltaica,Con permisos,RdT,,
 13459.0,POLIGONO GUIMAR 66,Canarias,Santa Cruz De Tenerife,Arafo,66.0,28.33817997258,-16.373247076488,almacenamiento,Con permisos,RdD,13.0,19.0
 13459.0,POLIGONO GUIMAR 66,Canarias,Santa Cruz De Tenerife,Arafo,66.0,28.33817997258,-16.373247076488,almacenamiento,Con permisos,RdT,,
-13459.0,POLIGONO GUIMAR 66,Canarias,Santa Cruz De Tenerife,Arafo,66.0,28.33817997258,-16.373247076488,eolica,Con permisos,RdD,34.0,43.0
+13459.0,POLIGONO GUIMAR 66,Canarias,Santa Cruz De Tenerife,Arafo,66.0,28.33817997258,-16.373247076488,eolica,Con permisos,RdD,15.0,25.0
 13459.0,POLIGONO GUIMAR 66,Canarias,Santa Cruz De Tenerife,Arafo,66.0,28.33817997258,-16.373247076488,eolica,Con permisos,RdT,,
 13459.0,POLIGONO GUIMAR 66,Canarias,Santa Cruz De Tenerife,Arafo,66.0,28.33817997258,-16.373247076488,fotovoltaica,Con permisos,RdD,6.0,6.0
 13459.0,POLIGONO GUIMAR 66,Canarias,Santa Cruz De Tenerife,Arafo,66.0,28.33817997258,-16.373247076488,fotovoltaica,Con permisos,RdT,,
@@ -2021,8 +2013,6 @@
 12820.0,GUINCHOS 66,Canarias,Santa Cruz De Tenerife,Breña Alta,66.0,28.664354736845,-17.768161312475,otras,Puesta en servicio,RdT,101.35,95.52
 7092.0,CANDELARIA 66,Canarias,Santa Cruz De Tenerife,Candelaria,66.0,28.381889564511,-16.35818319286,almacenamiento,Con permisos,RdD,,
 7092.0,CANDELARIA 66,Canarias,Santa Cruz De Tenerife,Candelaria,66.0,28.381889564511,-16.35818319286,almacenamiento,Con permisos,RdT,50.0,50.0
-7092.0,CANDELARIA 66,Canarias,Santa Cruz De Tenerife,Candelaria,66.0,28.381889564511,-16.35818319286,fotovoltaica,Con permisos,RdD,1.0,1.0
-7092.0,CANDELARIA 66,Canarias,Santa Cruz De Tenerife,Candelaria,66.0,28.381889564511,-16.35818319286,fotovoltaica,Con permisos,RdT,,
 7092.0,CANDELARIA 66,Canarias,Santa Cruz De Tenerife,Candelaria,66.0,28.381889564511,-16.35818319286,otras,Puesta en servicio,RdD,,
 7092.0,CANDELARIA 66,Canarias,Santa Cruz De Tenerife,Candelaria,66.0,28.381889564511,-16.35818319286,otras,Puesta en servicio,RdT,208.2,179.47
 7076.0,ABONA 220,Canarias,Santa Cruz De Tenerife,Granadilla de Abona,220.0,28.079109477959,-16.502214069735,eolica,Con permisos,RdD,,
@@ -2111,10 +2101,8 @@
 13466.0,EL PALMAR DE LA GOMERA 66,Canarias,Santa Cruz De Tenerife,Valle Gran Rey,66.0,28.111782270507,-17.304226474152,eolica,Con permisos,RdT,,
 13466.0,EL PALMAR DE LA GOMERA 66,Canarias,Santa Cruz De Tenerife,Valle Gran Rey,66.0,28.111782270507,-17.304226474152,eolica,Puesta en servicio,RdD,,11.75
 13466.0,EL PALMAR DE LA GOMERA 66,Canarias,Santa Cruz De Tenerife,Valle Gran Rey,66.0,28.111782270507,-17.304226474152,eolica,Puesta en servicio,RdT,,
-13466.0,EL PALMAR DE LA GOMERA 66,Canarias,Santa Cruz De Tenerife,Valle Gran Rey,66.0,28.111782270507,-17.304226474152,fotovoltaica,Con permisos,RdD,4.0,4.0
+13466.0,EL PALMAR DE LA GOMERA 66,Canarias,Santa Cruz De Tenerife,Valle Gran Rey,66.0,28.111782270507,-17.304226474152,fotovoltaica,Con permisos,RdD,5.0,8.0
 13466.0,EL PALMAR DE LA GOMERA 66,Canarias,Santa Cruz De Tenerife,Valle Gran Rey,66.0,28.111782270507,-17.304226474152,fotovoltaica,Con permisos,RdT,,
-13466.0,EL PALMAR DE LA GOMERA 66,Canarias,Santa Cruz De Tenerife,Valle Gran Rey,66.0,28.111782270507,-17.304226474152,fotovoltaica,En curso,RdD,1.88,4.29
-13466.0,EL PALMAR DE LA GOMERA 66,Canarias,Santa Cruz De Tenerife,Valle Gran Rey,66.0,28.111782270507,-17.304226474152,fotovoltaica,En curso,RdT,,
 13466.0,EL PALMAR DE LA GOMERA 66,Canarias,Santa Cruz De Tenerife,Valle Gran Rey,66.0,28.111782270507,-17.304226474152,hibridacion,Puesta en servicio,RdD,11.75,
 13466.0,EL PALMAR DE LA GOMERA 66,Canarias,Santa Cruz De Tenerife,Valle Gran Rey,66.0,28.111782270507,-17.304226474152,hibridacion,Puesta en servicio,RdT,,
 6792.0,ASTILLERO 220,Cantabria,Cantabria,"Astillero, El",220.0,43.395634179798,-3.8271211882936,almacenamiento,Con permisos,RdD,55.0,55.0
@@ -3419,6 +3407,18 @@
 12776.0,FRANQUESES 220,Cataluña,Barcelona,"Franqueses del Vallès, Les",220.0,41.64245843495,2.2819637776193,fotovoltaica,Con permisos,RdT,,
 12776.0,FRANQUESES 220,Cataluña,Barcelona,"Franqueses del Vallès, Les",220.0,41.64245843495,2.2819637776193,otras,Puesta en servicio,RdD,14.03,14.03
 12776.0,FRANQUESES 220,Cataluña,Barcelona,"Franqueses del Vallès, Les",220.0,41.64245843495,2.2819637776193,otras,Puesta en servicio,RdT,,
+6843.0,VIC 220,Cataluña,Barcelona,Gurb,220.0,41.957939294019,2.2823256437555,almacenamiento,Con permisos,RdD,113.0,117.0
+6843.0,VIC 220,Cataluña,Barcelona,Gurb,220.0,41.957939294019,2.2823256437555,almacenamiento,Con permisos,RdT,,
+6843.0,VIC 220,Cataluña,Barcelona,Gurb,220.0,41.957939294019,2.2823256437555,almacenamiento,En curso,RdD,9.98,9.98
+6843.0,VIC 220,Cataluña,Barcelona,Gurb,220.0,41.957939294019,2.2823256437555,almacenamiento,En curso,RdT,,
+6843.0,VIC 220,Cataluña,Barcelona,Gurb,220.0,41.957939294019,2.2823256437555,fotovoltaica,Con permisos,RdD,58.0,59.0
+6843.0,VIC 220,Cataluña,Barcelona,Gurb,220.0,41.957939294019,2.2823256437555,fotovoltaica,Con permisos,RdT,,
+6843.0,VIC 220,Cataluña,Barcelona,Gurb,220.0,41.957939294019,2.2823256437555,fotovoltaica,Puesta en servicio,RdD,1.7,1.7
+6843.0,VIC 220,Cataluña,Barcelona,Gurb,220.0,41.957939294019,2.2823256437555,fotovoltaica,Puesta en servicio,RdT,,
+6843.0,VIC 220,Cataluña,Barcelona,Gurb,220.0,41.957939294019,2.2823256437555,hidraulica,Puesta en servicio,RdD,23.8,23.8
+6843.0,VIC 220,Cataluña,Barcelona,Gurb,220.0,41.957939294019,2.2823256437555,hidraulica,Puesta en servicio,RdT,,
+6843.0,VIC 220,Cataluña,Barcelona,Gurb,220.0,41.957939294019,2.2823256437555,otras,Puesta en servicio,RdD,72.13,72.13
+6843.0,VIC 220,Cataluña,Barcelona,Gurb,220.0,41.957939294019,2.2823256437555,otras,Puesta en servicio,RdT,,
 12834.0,HOSPITALET 220,Cataluña,Barcelona,"Hospitalet de Llobregat, L'",220.0,41.345989091671,2.1000650480549,almacenamiento,Con permisos,RdD,80.0,80.0
 12834.0,HOSPITALET 220,Cataluña,Barcelona,"Hospitalet de Llobregat, L'",220.0,41.345989091671,2.1000650480549,almacenamiento,Con permisos,RdT,,
 12834.0,HOSPITALET 220,Cataluña,Barcelona,"Hospitalet de Llobregat, L'",220.0,41.345989091671,2.1000650480549,fotovoltaica,Con permisos,RdD,1.0,1.0
@@ -3652,7 +3652,7 @@
 12870.0,LA FARGA 220,Cataluña,Girona,Sant Julià de Ramis,220.0,42.062653555316,2.8827772948856,almacenamiento,Con permisos,RdD,,
 12870.0,LA FARGA 220,Cataluña,Girona,Sant Julià de Ramis,220.0,42.062653555316,2.8827772948856,almacenamiento,Con permisos,RdT,427.0,451.0
 12870.0,LA FARGA 220,Cataluña,Girona,Sant Julià de Ramis,220.0,42.062653555316,2.8827772948856,fotovoltaica,Con permisos,RdD,,
-12870.0,LA FARGA 220,Cataluña,Girona,Sant Julià de Ramis,220.0,42.062653555316,2.8827772948856,fotovoltaica,Con permisos,RdT,77.0,81.0
+12870.0,LA FARGA 220,Cataluña,Girona,Sant Julià de Ramis,220.0,42.062653555316,2.8827772948856,fotovoltaica,Con permisos,RdT,27.0,81.0
 7214.0,SANTA LLOGAIA 400,Cataluña,Girona,Santa Llogaia d'Àlguema,400.0,42.230046240713,2.9467579489876,eolica,Con permisos,RdD,59.0,59.0
 7214.0,SANTA LLOGAIA 400,Cataluña,Girona,Santa Llogaia d'Àlguema,400.0,42.230046240713,2.9467579489876,eolica,Con permisos,RdT,,
 7214.0,SANTA LLOGAIA 400,Cataluña,Girona,Santa Llogaia d'Àlguema,400.0,42.230046240713,2.9467579489876,eolica,En curso,RdD,117.2,117.2
@@ -3745,8 +3745,6 @@
 6800.0,ASCÓ 400,Cataluña,Tarragona,Ascó,400.0,41.204314983572,0.57100996725379,hidraulica,Puesta en servicio,RdT,,
 6800.0,ASCÓ 400,Cataluña,Tarragona,Ascó,400.0,41.204314983572,0.57100996725379,otras,Puesta en servicio,RdD,1.25,1.25
 6800.0,ASCÓ 400,Cataluña,Tarragona,Ascó,400.0,41.204314983572,0.57100996725379,otras,Puesta en servicio,RdT,1921.7,1987.5
-7376.0,ASCÓ 220,Cataluña,Tarragona,Ascó,220.0,41.204314983572,0.57100996725379,eolica,En curso,RdD,33.85,33.85
-7376.0,ASCÓ 220,Cataluña,Tarragona,Ascó,220.0,41.204314983572,0.57100996725379,eolica,En curso,RdT,,
 13378.0,LA CANONJA 220,Cataluña,Tarragona,"Canonja, La",220.0,41.108526733918,1.191780185099,almacenamiento,Con permisos,RdD,15.0,15.0
 13378.0,LA CANONJA 220,Cataluña,Tarragona,"Canonja, La",220.0,41.108526733918,1.191780185099,almacenamiento,Con permisos,RdT,,
 12867.0,LA ESPLUGA 220,Cataluña,Tarragona,"Espluga de Francolí, L'",220.0,41.405092757251,1.1241544580443,almacenamiento,Con permisos,RdD,,
@@ -3883,8 +3881,10 @@
 12737.0,ELCHE 220,Comunidad Valenciana,Alacant/Alicante,Elx/Elche,220.0,38.264477599114,-0.63618340931367,fotovoltaica,Con permisos,RdT,,
 12737.0,ELCHE 220,Comunidad Valenciana,Alacant/Alicante,Elx/Elche,220.0,38.264477599114,-0.63618340931367,fotovoltaica,En curso,RdD,9.0,12.78
 12737.0,ELCHE 220,Comunidad Valenciana,Alacant/Alicante,Elx/Elche,220.0,38.264477599114,-0.63618340931367,fotovoltaica,En curso,RdT,,
-13193.0,SALADAS 220,Comunidad Valenciana,Alacant/Alicante,Elx/Elche,220.0,38.299206090839,-0.62029360379254,fotovoltaica,Con permisos,RdD,43.0,46.0
+13193.0,SALADAS 220,Comunidad Valenciana,Alacant/Alicante,Elx/Elche,220.0,38.299206090839,-0.62029360379254,fotovoltaica,Con permisos,RdD,38.0,41.0
 13193.0,SALADAS 220,Comunidad Valenciana,Alacant/Alicante,Elx/Elche,220.0,38.299206090839,-0.62029360379254,fotovoltaica,Con permisos,RdT,,
+13193.0,SALADAS 220,Comunidad Valenciana,Alacant/Alicante,Elx/Elche,220.0,38.299206090839,-0.62029360379254,fotovoltaica,Puesta en servicio,RdD,4.67,4.91
+13193.0,SALADAS 220,Comunidad Valenciana,Alacant/Alicante,Elx/Elche,220.0,38.299206090839,-0.62029360379254,fotovoltaica,Puesta en servicio,RdT,,
 13177.0,ROCAMORA 400,Comunidad Valenciana,Alacant/Alicante,Granja de Rocamora,400.0,38.148729281791,-0.94656720314703,almacenamiento,Con permisos,RdD,,3.0
 13177.0,ROCAMORA 400,Comunidad Valenciana,Alacant/Alicante,Granja de Rocamora,400.0,38.148729281791,-0.94656720314703,almacenamiento,Con permisos,RdT,,
 13177.0,ROCAMORA 400,Comunidad Valenciana,Alacant/Alicante,Granja de Rocamora,400.0,38.148729281791,-0.94656720314703,eolica,Puesta en servicio,RdD,7.64,7.64
@@ -3904,7 +3904,7 @@
 13177.0,ROCAMORA 400,Comunidad Valenciana,Alacant/Alicante,Granja de Rocamora,400.0,38.148729281791,-0.94656720314703,termosolar,Puesta en servicio,RdD,31.4,31.4
 13177.0,ROCAMORA 400,Comunidad Valenciana,Alacant/Alicante,Granja de Rocamora,400.0,38.148729281791,-0.94656720314703,termosolar,Puesta en servicio,RdT,,
 13012.0,NOVELDA 220,Comunidad Valenciana,Alacant/Alicante,Novelda,220.0,38.374469134798,-0.75687023493314,fotovoltaica,Con permisos,RdD,1.0,1.0
-13012.0,NOVELDA 220,Comunidad Valenciana,Alacant/Alicante,Novelda,220.0,38.374469134798,-0.75687023493314,fotovoltaica,Con permisos,RdT,207.0,253.0
+13012.0,NOVELDA 220,Comunidad Valenciana,Alacant/Alicante,Novelda,220.0,38.374469134798,-0.75687023493314,fotovoltaica,Con permisos,RdT,207.0,248.0
 13012.0,NOVELDA 220,Comunidad Valenciana,Alacant/Alicante,Novelda,220.0,38.374469134798,-0.75687023493314,fotovoltaica,En curso,RdD,15.0,34.97
 13012.0,NOVELDA 220,Comunidad Valenciana,Alacant/Alicante,Novelda,220.0,38.374469134798,-0.75687023493314,fotovoltaica,En curso,RdT,,
 12983.0,MONTEBELLO 220,Comunidad Valenciana,Alacant/Alicante,"Nucia, la",220.0,38.596046394971,-0.13948249034504,fotovoltaica,Con permisos,RdD,4.0,4.0
@@ -3955,7 +3955,7 @@
 7227.0,SAX 400,Comunidad Valenciana,Alacant/Alicante,Villena,400.0,38.56174407392,-0.86167141117865,hibridacion,Con permisos,RdT,76.0,
 12850.0,JIJONA 220,Comunidad Valenciana,Alacant/Alicante,Xixona/Jijona,220.0,38.492059474461,-0.4779219425158,fotovoltaica,Con permisos,RdD,288.0,345.0
 12850.0,JIJONA 220,Comunidad Valenciana,Alacant/Alicante,Xixona/Jijona,220.0,38.492059474461,-0.4779219425158,fotovoltaica,Con permisos,RdT,,
-12850.0,JIJONA 220,Comunidad Valenciana,Alacant/Alicante,Xixona/Jijona,220.0,38.492059474461,-0.4779219425158,fotovoltaica,Puesta en servicio,RdD,52.35,59.74
+12850.0,JIJONA 220,Comunidad Valenciana,Alacant/Alicante,Xixona/Jijona,220.0,38.492059474461,-0.4779219425158,fotovoltaica,Puesta en servicio,RdD,52.35,59.89
 12850.0,JIJONA 220,Comunidad Valenciana,Alacant/Alicante,Xixona/Jijona,220.0,38.492059474461,-0.4779219425158,fotovoltaica,Puesta en servicio,RdT,,
 12850.0,JIJONA 220,Comunidad Valenciana,Alacant/Alicante,Xixona/Jijona,220.0,38.492059474461,-0.4779219425158,otras,Puesta en servicio,RdD,25.3,25.3
 12850.0,JIJONA 220,Comunidad Valenciana,Alacant/Alicante,Xixona/Jijona,220.0,38.492059474461,-0.4779219425158,otras,Puesta en servicio,RdT,,
@@ -3985,7 +3985,7 @@
 12888.0,LA PLANA 400,Comunidad Valenciana,Castelló/Castellón,Almassora,400.0,39.967142523222,-0.097017137463582,otras,Puesta en servicio,RdT,1621.55,1621.35
 6882.0,BECHI 220,Comunidad Valenciana,Castelló/Castellón,Betxí,220.0,39.927903695748,-0.17816604402787,almacenamiento,Con permisos,RdD,,
 6882.0,BECHI 220,Comunidad Valenciana,Castelló/Castellón,Betxí,220.0,39.927903695748,-0.17816604402787,almacenamiento,Con permisos,RdT,100.0,103.0
-6882.0,BECHI 220,Comunidad Valenciana,Castelló/Castellón,Betxí,220.0,39.927903695748,-0.17816604402787,almacenamiento,En curso,RdD,49.54,49.54
+6882.0,BECHI 220,Comunidad Valenciana,Castelló/Castellón,Betxí,220.0,39.927903695748,-0.17816604402787,almacenamiento,En curso,RdD,71.41,71.41
 6882.0,BECHI 220,Comunidad Valenciana,Castelló/Castellón,Betxí,220.0,39.927903695748,-0.17816604402787,almacenamiento,En curso,RdT,40.0,40.0
 6882.0,BECHI 220,Comunidad Valenciana,Castelló/Castellón,Betxí,220.0,39.927903695748,-0.17816604402787,fotovoltaica,Con permisos,RdD,,
 6882.0,BECHI 220,Comunidad Valenciana,Castelló/Castellón,Betxí,220.0,39.927903695748,-0.17816604402787,fotovoltaica,Con permisos,RdT,177.0,199.0
@@ -4129,7 +4129,7 @@
 12801.0,GODELLETA 400,Comunidad Valenciana,València/Valencia,Godelleta,400.0,39.443186023732,-0.67173523082359,fotovoltaica,Con permisos,RdT,87.0,150.0
 13101.0,QUART DE POBLET 220,Comunidad Valenciana,València/Valencia,Quart de Poblet,220.0,39.480448998769,-0.52659872343309,almacenamiento,Con permisos,RdD,19.0,19.0
 13101.0,QUART DE POBLET 220,Comunidad Valenciana,València/Valencia,Quart de Poblet,220.0,39.480448998769,-0.52659872343309,almacenamiento,Con permisos,RdT,,
-13101.0,QUART DE POBLET 220,Comunidad Valenciana,València/Valencia,Quart de Poblet,220.0,39.480448998769,-0.52659872343309,fotovoltaica,Con permisos,RdD,20.0,20.0
+13101.0,QUART DE POBLET 220,Comunidad Valenciana,València/Valencia,Quart de Poblet,220.0,39.480448998769,-0.52659872343309,fotovoltaica,Con permisos,RdD,15.0,15.0
 13101.0,QUART DE POBLET 220,Comunidad Valenciana,València/Valencia,Quart de Poblet,220.0,39.480448998769,-0.52659872343309,fotovoltaica,Con permisos,RdT,,
 13101.0,QUART DE POBLET 220,Comunidad Valenciana,València/Valencia,Quart de Poblet,220.0,39.480448998769,-0.52659872343309,fotovoltaica,Puesta en servicio,RdD,2.0,2.0
 13101.0,QUART DE POBLET 220,Comunidad Valenciana,València/Valencia,Quart de Poblet,220.0,39.480448998769,-0.52659872343309,fotovoltaica,Puesta en servicio,RdT,,
@@ -4207,7 +4207,7 @@
 6976.0,ALVARADO 220,Extremadura,Badajoz,Badajoz,220.0,38.787201725632,-6.7997877421668,termosolar,Puesta en servicio,RdT,100.0,100.0
 6998.0,VAGUADAS 220,Extremadura,Badajoz,Badajoz,220.0,38.837902079241,-6.9791396790755,almacenamiento,Con permisos,RdD,,40.0
 6998.0,VAGUADAS 220,Extremadura,Badajoz,Badajoz,220.0,38.837902079241,-6.9791396790755,almacenamiento,Con permisos,RdT,,
-6998.0,VAGUADAS 220,Extremadura,Badajoz,Badajoz,220.0,38.837902079241,-6.9791396790755,fotovoltaica,Con permisos,RdD,81.0,86.0
+6998.0,VAGUADAS 220,Extremadura,Badajoz,Badajoz,220.0,38.837902079241,-6.9791396790755,fotovoltaica,Con permisos,RdD,86.0,86.0
 6998.0,VAGUADAS 220,Extremadura,Badajoz,Badajoz,220.0,38.837902079241,-6.9791396790755,fotovoltaica,Con permisos,RdT,88.0,113.0
 6998.0,VAGUADAS 220,Extremadura,Badajoz,Badajoz,220.0,38.837902079241,-6.9791396790755,fotovoltaica,Puesta en servicio,RdD,98.69,156.88
 6998.0,VAGUADAS 220,Extremadura,Badajoz,Badajoz,220.0,38.837902079241,-6.9791396790755,fotovoltaica,Puesta en servicio,RdT,,
@@ -4275,8 +4275,10 @@
 13216.0,SAN SERVAN 220,Extremadura,Badajoz,Mérida,220.0,38.806407802695,-6.5158886852446,almacenamiento,Puesta en servicio,RdT,,2.18
 13216.0,SAN SERVAN 220,Extremadura,Badajoz,Mérida,220.0,38.806407802695,-6.5158886852446,fotovoltaica,Puesta en servicio,RdD,,
 13216.0,SAN SERVAN 220,Extremadura,Badajoz,Mérida,220.0,38.806407802695,-6.5158886852446,fotovoltaica,Puesta en servicio,RdT,199.69,430.21
+13216.0,SAN SERVAN 220,Extremadura,Badajoz,Mérida,220.0,38.806407802695,-6.5158886852446,hibridacion,Con permisos,RdD,,
+13216.0,SAN SERVAN 220,Extremadura,Badajoz,Mérida,220.0,38.806407802695,-6.5158886852446,hibridacion,Con permisos,RdT,9.0,
 13216.0,SAN SERVAN 220,Extremadura,Badajoz,Mérida,220.0,38.806407802695,-6.5158886852446,hibridacion,Puesta en servicio,RdD,,
-13216.0,SAN SERVAN 220,Extremadura,Badajoz,Mérida,220.0,38.806407802695,-6.5158886852446,hibridacion,Puesta en servicio,RdT,189.3,
+13216.0,SAN SERVAN 220,Extremadura,Badajoz,Mérida,220.0,38.806407802695,-6.5158886852446,hibridacion,Puesta en servicio,RdT,179.43,
 13217.0,SAN SERVAN 400,Extremadura,Badajoz,Mérida,400.0,38.806407802695,-6.5158886852446,almacenamiento,Con permisos,RdD,,
 13217.0,SAN SERVAN 400,Extremadura,Badajoz,Mérida,400.0,38.806407802695,-6.5158886852446,almacenamiento,Con permisos,RdT,,63.0
 13217.0,SAN SERVAN 400,Extremadura,Badajoz,Mérida,400.0,38.806407802695,-6.5158886852446,fotovoltaica,Puesta en servicio,RdD,,
@@ -4357,9 +4359,9 @@
 6984.0,CASATEJADA 220,Extremadura,Cáceres,Casatejada,220.0,39.974977831921,-5.7036098968893,almacenamiento,Con permisos,RdT,,
 6984.0,CASATEJADA 220,Extremadura,Cáceres,Casatejada,220.0,39.974977831921,-5.7036098968893,fotovoltaica,Con permisos,RdD,20.0,20.0
 6984.0,CASATEJADA 220,Extremadura,Cáceres,Casatejada,220.0,39.974977831921,-5.7036098968893,fotovoltaica,Con permisos,RdT,,
-6984.0,CASATEJADA 220,Extremadura,Cáceres,Casatejada,220.0,39.974977831921,-5.7036098968893,fotovoltaica,Puesta en servicio,RdD,45.88,69.88
+6984.0,CASATEJADA 220,Extremadura,Cáceres,Casatejada,220.0,39.974977831921,-5.7036098968893,fotovoltaica,Puesta en servicio,RdD,29.74,69.88
 6984.0,CASATEJADA 220,Extremadura,Cáceres,Casatejada,220.0,39.974977831921,-5.7036098968893,fotovoltaica,Puesta en servicio,RdT,,
-6984.0,CASATEJADA 220,Extremadura,Cáceres,Casatejada,220.0,39.974977831921,-5.7036098968893,hibridacion,Puesta en servicio,RdD,17.0,
+6984.0,CASATEJADA 220,Extremadura,Cáceres,Casatejada,220.0,39.974977831921,-5.7036098968893,hibridacion,Puesta en servicio,RdD,33.14,
 6984.0,CASATEJADA 220,Extremadura,Cáceres,Casatejada,220.0,39.974977831921,-5.7036098968893,hibridacion,Puesta en servicio,RdT,,
 6984.0,CASATEJADA 220,Extremadura,Cáceres,Casatejada,220.0,39.974977831921,-5.7036098968893,hidraulica,Puesta en servicio,RdD,1.72,1.72
 6984.0,CASATEJADA 220,Extremadura,Cáceres,Casatejada,220.0,39.974977831921,-5.7036098968893,hidraulica,Puesta en servicio,RdT,,
@@ -4510,21 +4512,19 @@
 13168.0,REGOELLE 220,Galicia,A Coruña,Dumbría,220.0,43.014064840505,-9.051106424638,almacenamiento,Con permisos,RdD,,
 13168.0,REGOELLE 220,Galicia,A Coruña,Dumbría,220.0,43.014064840505,-9.051106424638,almacenamiento,Con permisos,RdT,131.0,131.0
 13168.0,REGOELLE 220,Galicia,A Coruña,Dumbría,220.0,43.014064840505,-9.051106424638,almacenamiento,En curso,RdD,,
-13168.0,REGOELLE 220,Galicia,A Coruña,Dumbría,220.0,43.014064840505,-9.051106424638,almacenamiento,En curso,RdT,198.0,198.0
+13168.0,REGOELLE 220,Galicia,A Coruña,Dumbría,220.0,43.014064840505,-9.051106424638,almacenamiento,En curso,RdT,98.0,98.0
 13168.0,REGOELLE 220,Galicia,A Coruña,Dumbría,220.0,43.014064840505,-9.051106424638,bombeo,En curso,RdD,,
-13168.0,REGOELLE 220,Galicia,A Coruña,Dumbría,220.0,43.014064840505,-9.051106424638,bombeo,En curso,RdT,100.0,100.0
+13168.0,REGOELLE 220,Galicia,A Coruña,Dumbría,220.0,43.014064840505,-9.051106424638,bombeo,En curso,RdT,,100.0
 13168.0,REGOELLE 220,Galicia,A Coruña,Dumbría,220.0,43.014064840505,-9.051106424638,eolica,Con permisos,RdD,,
 13168.0,REGOELLE 220,Galicia,A Coruña,Dumbría,220.0,43.014064840505,-9.051106424638,eolica,Con permisos,RdT,186.0,191.0
 13168.0,REGOELLE 220,Galicia,A Coruña,Dumbría,220.0,43.014064840505,-9.051106424638,eolica,En curso,RdD,,
-13168.0,REGOELLE 220,Galicia,A Coruña,Dumbría,220.0,43.014064840505,-9.051106424638,eolica,En curso,RdT,349.0,366.0
+13168.0,REGOELLE 220,Galicia,A Coruña,Dumbría,220.0,43.014064840505,-9.051106424638,eolica,En curso,RdT,67.0,67.0
 13168.0,REGOELLE 220,Galicia,A Coruña,Dumbría,220.0,43.014064840505,-9.051106424638,eolica,Puesta en servicio,RdD,,
 13168.0,REGOELLE 220,Galicia,A Coruña,Dumbría,220.0,43.014064840505,-9.051106424638,eolica,Puesta en servicio,RdT,135.19,135.19
 13168.0,REGOELLE 220,Galicia,A Coruña,Dumbría,220.0,43.014064840505,-9.051106424638,hidraulica,Con permisos,RdD,,
 13168.0,REGOELLE 220,Galicia,A Coruña,Dumbría,220.0,43.014064840505,-9.051106424638,hidraulica,Con permisos,RdT,166.0,
 13168.0,REGOELLE 220,Galicia,A Coruña,Dumbría,220.0,43.014064840505,-9.051106424638,hidraulica,En curso,RdD,,
 13168.0,REGOELLE 220,Galicia,A Coruña,Dumbría,220.0,43.014064840505,-9.051106424638,hidraulica,En curso,RdT,,3.5
-13168.0,REGOELLE 220,Galicia,A Coruña,Dumbría,220.0,43.014064840505,-9.051106424638,otras,En curso,RdD,,
-13168.0,REGOELLE 220,Galicia,A Coruña,Dumbría,220.0,43.014064840505,-9.051106424638,otras,En curso,RdT,3.5,
 12926.0,LOUSAME 220,Galicia,A Coruña,Lousame,220.0,42.81742893012,-8.7809909488187,almacenamiento,Con permisos,RdD,,
 12926.0,LOUSAME 220,Galicia,A Coruña,Lousame,220.0,42.81742893012,-8.7809909488187,almacenamiento,Con permisos,RdT,48.0,49.0
 12926.0,LOUSAME 220,Galicia,A Coruña,Lousame,220.0,42.81742893012,-8.7809909488187,eolica,Con permisos,RdD,,
@@ -4598,7 +4598,7 @@
 12929.0,LUDRIO 400,Galicia,Lugo,Castro de Rei,400.0,43.128659448853,-7.416399638111,otras,Puesta en servicio,RdD,13.35,13.35
 12929.0,LUDRIO 400,Galicia,Lugo,Castro de Rei,400.0,43.128659448853,-7.416399638111,otras,Puesta en servicio,RdT,,
 7003.0,BELESAR 220,Galicia,Lugo,Chantada,220.0,42.626340505845,-7.7134920030083,almacenamiento,Con permisos,RdD,,
-7003.0,BELESAR 220,Galicia,Lugo,Chantada,220.0,42.626340505845,-7.7134920030083,almacenamiento,Con permisos,RdT,113.0,149.0
+7003.0,BELESAR 220,Galicia,Lugo,Chantada,220.0,42.626340505845,-7.7134920030083,almacenamiento,Con permisos,RdT,113.0,140.0
 7003.0,BELESAR 220,Galicia,Lugo,Chantada,220.0,42.626340505845,-7.7134920030083,eolica,Con permisos,RdD,85.0,85.0
 7003.0,BELESAR 220,Galicia,Lugo,Chantada,220.0,42.626340505845,-7.7134920030083,eolica,Con permisos,RdT,278.0,292.0
 7003.0,BELESAR 220,Galicia,Lugo,Chantada,220.0,42.626340505845,-7.7134920030083,hidraulica,Puesta en servicio,RdD,20.8,20.8
@@ -4650,11 +4650,11 @@
 7000.0,ALBARELLOS 220,Galicia,Ourense,Boborás,220.0,42.397680809065,-8.1590145932774,hidraulica,Puesta en servicio,RdD,23.27,23.27
 7000.0,ALBARELLOS 220,Galicia,Ourense,Boborás,220.0,42.397680809065,-8.1590145932774,hidraulica,Puesta en servicio,RdT,59.2,67.6
 7005.0,CASTRELO 220,Galicia,Ourense,Castrelo de Miño,220.0,42.291550562677,-8.1136691526972,almacenamiento,En curso,RdD,,
-7005.0,CASTRELO 220,Galicia,Ourense,Castrelo de Miño,220.0,42.291550562677,-8.1136691526972,almacenamiento,En curso,RdT,74.0,129.8
+7005.0,CASTRELO 220,Galicia,Ourense,Castrelo de Miño,220.0,42.291550562677,-8.1136691526972,almacenamiento,En curso,RdT,50.0,87.8
 7005.0,CASTRELO 220,Galicia,Ourense,Castrelo de Miño,220.0,42.291550562677,-8.1136691526972,eolica,Con permisos,RdD,,
-7005.0,CASTRELO 220,Galicia,Ourense,Castrelo de Miño,220.0,42.291550562677,-8.1136691526972,eolica,Con permisos,RdT,71.0,71.0
+7005.0,CASTRELO 220,Galicia,Ourense,Castrelo de Miño,220.0,42.291550562677,-8.1136691526972,eolica,Con permisos,RdT,95.0,95.0
 7005.0,CASTRELO 220,Galicia,Ourense,Castrelo de Miño,220.0,42.291550562677,-8.1136691526972,eolica,En curso,RdD,,
-7005.0,CASTRELO 220,Galicia,Ourense,Castrelo de Miño,220.0,42.291550562677,-8.1136691526972,eolica,En curso,RdT,171.0,172.0
+7005.0,CASTRELO 220,Galicia,Ourense,Castrelo de Miño,220.0,42.291550562677,-8.1136691526972,eolica,En curso,RdT,147.0,148.0
 7005.0,CASTRELO 220,Galicia,Ourense,Castrelo de Miño,220.0,42.291550562677,-8.1136691526972,hidraulica,Puesta en servicio,RdD,28.76,28.76
 7005.0,CASTRELO 220,Galicia,Ourense,Castrelo de Miño,220.0,42.291550562677,-8.1136691526972,hidraulica,Puesta en servicio,RdT,112.0,135.59
 13084.0,PUENTE BIBEY 220,Galicia,Ourense,Manzaneda,220.0,42.314428879153,-7.2229141805973,bombeo,Puesta en servicio,RdD,,
@@ -4688,31 +4688,33 @@
 13305.0,TRIVES 400,Galicia,Ourense,"Pobra de Trives, A",400.0,42.344276614106,-7.2815041849877,hidraulica,Puesta en servicio,RdD,4.14,4.14
 13305.0,TRIVES 400,Galicia,Ourense,"Pobra de Trives, A",400.0,42.344276614106,-7.2815041849877,hidraulica,Puesta en servicio,RdT,,
 13103.0,QUEREÑO 220,Galicia,Ourense,Rubiá,220.0,42.416885799092,-6.8311201425086,almacenamiento,En curso,RdD,,
-13103.0,QUEREÑO 220,Galicia,Ourense,Rubiá,220.0,42.416885799092,-6.8311201425086,almacenamiento,En curso,RdT,195.0,221.57
+13103.0,QUEREÑO 220,Galicia,Ourense,Rubiá,220.0,42.416885799092,-6.8311201425086,almacenamiento,En curso,RdT,158.0,221.57
 13103.0,QUEREÑO 220,Galicia,Ourense,Rubiá,220.0,42.416885799092,-6.8311201425086,eolica,Con permisos,RdD,,
-13103.0,QUEREÑO 220,Galicia,Ourense,Rubiá,220.0,42.416885799092,-6.8311201425086,eolica,Con permisos,RdT,30.0,32.0
+13103.0,QUEREÑO 220,Galicia,Ourense,Rubiá,220.0,42.416885799092,-6.8311201425086,eolica,Con permisos,RdT,,32.0
 13103.0,QUEREÑO 220,Galicia,Ourense,Rubiá,220.0,42.416885799092,-6.8311201425086,eolica,En curso,RdD,,
-13103.0,QUEREÑO 220,Galicia,Ourense,Rubiá,220.0,42.416885799092,-6.8311201425086,eolica,En curso,RdT,93.9,120.9
+13103.0,QUEREÑO 220,Galicia,Ourense,Rubiá,220.0,42.416885799092,-6.8311201425086,eolica,En curso,RdT,143.9,120.9
 13103.0,QUEREÑO 220,Galicia,Ourense,Rubiá,220.0,42.416885799092,-6.8311201425086,hibridacion,En curso,RdD,,
 13103.0,QUEREÑO 220,Galicia,Ourense,Rubiá,220.0,42.416885799092,-6.8311201425086,hibridacion,En curso,RdT,49.57,
 13103.0,QUEREÑO 220,Galicia,Ourense,Rubiá,220.0,42.416885799092,-6.8311201425086,hidraulica,Puesta en servicio,RdD,,
 13103.0,QUEREÑO 220,Galicia,Ourense,Rubiá,220.0,42.416885799092,-6.8311201425086,hidraulica,Puesta en servicio,RdT,34.0,36.46
 13344.0,CORNATEL 220,Galicia,Ourense,Rubiá,220.0,42.470603733935,-6.8147026762092,almacenamiento,Con permisos,RdD,,
-13344.0,CORNATEL 220,Galicia,Ourense,Rubiá,220.0,42.470603733935,-6.8147026762092,almacenamiento,Con permisos,RdT,99.0,99.0
-13344.0,CORNATEL 220,Galicia,Ourense,Rubiá,220.0,42.470603733935,-6.8147026762092,almacenamiento,En curso,RdD,,
-13344.0,CORNATEL 220,Galicia,Ourense,Rubiá,220.0,42.470603733935,-6.8147026762092,almacenamiento,En curso,RdT,34.0,67.0
-13344.0,CORNATEL 220,Galicia,Ourense,Rubiá,220.0,42.470603733935,-6.8147026762092,eolica,En curso,RdD,,
-13344.0,CORNATEL 220,Galicia,Ourense,Rubiá,220.0,42.470603733935,-6.8147026762092,eolica,En curso,RdT,87.0,87.0
+13344.0,CORNATEL 220,Galicia,Ourense,Rubiá,220.0,42.470603733935,-6.8147026762092,almacenamiento,Con permisos,RdT,116.0,149.0
 13344.0,CORNATEL 220,Galicia,Ourense,Rubiá,220.0,42.470603733935,-6.8147026762092,hidraulica,Puesta en servicio,RdD,,
 13344.0,CORNATEL 220,Galicia,Ourense,Rubiá,220.0,42.470603733935,-6.8147026762092,hidraulica,Puesta en servicio,RdT,120.0,130.66
 13078.0,PRADA 220,Galicia,Ourense,"Veiga, A",220.0,42.32950001094,-7.0380759177508,almacenamiento,Con permisos,RdD,,
 13078.0,PRADA 220,Galicia,Ourense,"Veiga, A",220.0,42.32950001094,-7.0380759177508,almacenamiento,Con permisos,RdT,28.0,50.0
+13078.0,PRADA 220,Galicia,Ourense,"Veiga, A",220.0,42.32950001094,-7.0380759177508,almacenamiento,En curso,RdD,,
+13078.0,PRADA 220,Galicia,Ourense,"Veiga, A",220.0,42.32950001094,-7.0380759177508,almacenamiento,En curso,RdT,70.0,70.0
+13078.0,PRADA 220,Galicia,Ourense,"Veiga, A",220.0,42.32950001094,-7.0380759177508,bombeo,En curso,RdD,,
+13078.0,PRADA 220,Galicia,Ourense,"Veiga, A",220.0,42.32950001094,-7.0380759177508,bombeo,En curso,RdT,25.0,25.0
+13078.0,PRADA 220,Galicia,Ourense,"Veiga, A",220.0,42.32950001094,-7.0380759177508,eolica,En curso,RdD,,
+13078.0,PRADA 220,Galicia,Ourense,"Veiga, A",220.0,42.32950001094,-7.0380759177508,eolica,En curso,RdT,264.6,264.6
 13078.0,PRADA 220,Galicia,Ourense,"Veiga, A",220.0,42.32950001094,-7.0380759177508,hidraulica,Puesta en servicio,RdD,,
 13078.0,PRADA 220,Galicia,Ourense,"Veiga, A",220.0,42.32950001094,-7.0380759177508,hidraulica,Puesta en servicio,RdT,66.4,70.72
 13352.0,S.AGUSTIN 220,Galicia,Ourense,Viana do Bolo,220.0,42.153324020416,-7.0628735838138,almacenamiento,En curso,RdD,,
 13352.0,S.AGUSTIN 220,Galicia,Ourense,Viana do Bolo,220.0,42.153324020416,-7.0628735838138,almacenamiento,En curso,RdT,120.0,150.0
 13352.0,S.AGUSTIN 220,Galicia,Ourense,Viana do Bolo,220.0,42.153324020416,-7.0628735838138,eolica,Con permisos,RdD,,
-13352.0,S.AGUSTIN 220,Galicia,Ourense,Viana do Bolo,220.0,42.153324020416,-7.0628735838138,eolica,Con permisos,RdT,73.0,76.0
+13352.0,S.AGUSTIN 220,Galicia,Ourense,Viana do Bolo,220.0,42.153324020416,-7.0628735838138,eolica,Con permisos,RdT,58.0,58.0
 13352.0,S.AGUSTIN 220,Galicia,Ourense,Viana do Bolo,220.0,42.153324020416,-7.0628735838138,hidraulica,Puesta en servicio,RdD,35.2,35.2
 13352.0,S.AGUSTIN 220,Galicia,Ourense,Viana do Bolo,220.0,42.153324020416,-7.0628735838138,hidraulica,Puesta en servicio,RdT,65.28,62.88
 7034.0,SANTIAGO 220,Galicia,Ourense,Vilamartín de Valdeorras,220.0,42.39261403523,-7.0894061168582,almacenamiento,Con permisos,RdD,,
@@ -4867,14 +4869,14 @@
 12754.0,EL SEQUERO 220,La Rioja,La Rioja,Arrúbal,220.0,42.41738591663,-2.2524230858757,hidraulica,Puesta en servicio,RdT,,
 12754.0,EL SEQUERO 220,La Rioja,La Rioja,Arrúbal,220.0,42.41738591663,-2.2524230858757,otras,Puesta en servicio,RdD,2.19,2.19
 12754.0,EL SEQUERO 220,La Rioja,La Rioja,Arrúbal,220.0,42.41738591663,-2.2524230858757,otras,Puesta en servicio,RdT,,
-12824.0,HARO 220,La Rioja,La Rioja,Haro,220.0,42.568273668005,-2.8851832394216,almacenamiento,En curso,RdD,,
+12824.0,HARO 220,La Rioja,La Rioja,Haro,220.0,42.568273668005,-2.8851832394216,almacenamiento,En curso,RdD,5.0,5.0
 12824.0,HARO 220,La Rioja,La Rioja,Haro,220.0,42.568273668005,-2.8851832394216,almacenamiento,En curso,RdT,138.0,147.99
 12824.0,HARO 220,La Rioja,La Rioja,Haro,220.0,42.568273668005,-2.8851832394216,eolica,En curso,RdD,47.8,47.8
 12824.0,HARO 220,La Rioja,La Rioja,Haro,220.0,42.568273668005,-2.8851832394216,eolica,En curso,RdT,155.0,155.0
 12824.0,HARO 220,La Rioja,La Rioja,Haro,220.0,42.568273668005,-2.8851832394216,fotovoltaica,Con permisos,RdD,,
-12824.0,HARO 220,La Rioja,La Rioja,Haro,220.0,42.568273668005,-2.8851832394216,fotovoltaica,Con permisos,RdT,60.0,77.0
+12824.0,HARO 220,La Rioja,La Rioja,Haro,220.0,42.568273668005,-2.8851832394216,fotovoltaica,Con permisos,RdT,30.0,38.0
 12824.0,HARO 220,La Rioja,La Rioja,Haro,220.0,42.568273668005,-2.8851832394216,fotovoltaica,Puesta en servicio,RdD,,
-12824.0,HARO 220,La Rioja,La Rioja,Haro,220.0,42.568273668005,-2.8851832394216,fotovoltaica,Puesta en servicio,RdT,220.89,267.88
+12824.0,HARO 220,La Rioja,La Rioja,Haro,220.0,42.568273668005,-2.8851832394216,fotovoltaica,Puesta en servicio,RdT,250.89,306.82
 12915.0,LOGROÑO 220,La Rioja,La Rioja,Logroño,220.0,42.458061777222,-2.4909167617805,almacenamiento,En curso,RdD,4.95,4.95
 12915.0,LOGROÑO 220,La Rioja,La Rioja,Logroño,220.0,42.458061777222,-2.4909167617805,almacenamiento,En curso,RdT,,
 12915.0,LOGROÑO 220,La Rioja,La Rioja,Logroño,220.0,42.458061777222,-2.4909167617805,eolica,En curso,RdD,58.2,59.88
@@ -4942,11 +4944,11 @@
 12580.0,ANCHUELO 220,Madrid,Madrid,Anchuelo,220.0,40.464874696833,-3.2966944948981,fotovoltaica,En curso,RdD,,
 12580.0,ANCHUELO 220,Madrid,Madrid,Anchuelo,220.0,40.464874696833,-3.2966944948981,fotovoltaica,En curso,RdT,52.0,52.0
 7272.0,ARGANDA 220,Madrid,Madrid,Arganda del Rey,220.0,40.302014356465,-3.4592199083513,almacenamiento,Con permisos,RdD,40.0,44.0
-7272.0,ARGANDA 220,Madrid,Madrid,Arganda del Rey,220.0,40.302014356465,-3.4592199083513,almacenamiento,Con permisos,RdT,,196.0
+7272.0,ARGANDA 220,Madrid,Madrid,Arganda del Rey,220.0,40.302014356465,-3.4592199083513,almacenamiento,Con permisos,RdT,,372.0
 7272.0,ARGANDA 220,Madrid,Madrid,Arganda del Rey,220.0,40.302014356465,-3.4592199083513,fotovoltaica,Con permisos,RdD,10.0,10.0
-7272.0,ARGANDA 220,Madrid,Madrid,Arganda del Rey,220.0,40.302014356465,-3.4592199083513,fotovoltaica,Con permisos,RdT,176.0,448.0
+7272.0,ARGANDA 220,Madrid,Madrid,Arganda del Rey,220.0,40.302014356465,-3.4592199083513,fotovoltaica,Con permisos,RdT,,448.0
 7272.0,ARGANDA 220,Madrid,Madrid,Arganda del Rey,220.0,40.302014356465,-3.4592199083513,hibridacion,Con permisos,RdD,,
-7272.0,ARGANDA 220,Madrid,Madrid,Arganda del Rey,220.0,40.302014356465,-3.4592199083513,hibridacion,Con permisos,RdT,176.0,
+7272.0,ARGANDA 220,Madrid,Madrid,Arganda del Rey,220.0,40.302014356465,-3.4592199083513,hibridacion,Con permisos,RdT,353.0,
 7289.0,BOADILLA 220,Madrid,Madrid,Boadilla del Monte,220.0,40.407646843348,-3.908878647081,almacenamiento,En curso,RdD,15.0,15.0
 7289.0,BOADILLA 220,Madrid,Madrid,Boadilla del Monte,220.0,40.407646843348,-3.908878647081,almacenamiento,En curso,RdT,35.0,35.0
 7289.0,BOADILLA 220,Madrid,Madrid,Boadilla del Monte,220.0,40.407646843348,-3.908878647081,fotovoltaica,Con permisos,RdD,1.0,1.0
@@ -4996,7 +4998,7 @@
 7285.0,BUENAVISTA 220,Madrid,Madrid,Getafe,220.0,40.310427152976,-3.7507057823692,otras,Con permisos,RdD,,
 7285.0,BUENAVISTA 220,Madrid,Madrid,Getafe,220.0,40.310427152976,-3.7507057823692,otras,Con permisos,RdT,1.0,1.0
 7285.0,BUENAVISTA 220,Madrid,Madrid,Getafe,220.0,40.310427152976,-3.7507057823692,otras,En curso,RdD,,
-7285.0,BUENAVISTA 220,Madrid,Madrid,Getafe,220.0,40.310427152976,-3.7507057823692,otras,En curso,RdT,17.0,
+7285.0,BUENAVISTA 220,Madrid,Madrid,Getafe,220.0,40.310427152976,-3.7507057823692,otras,En curso,RdT,17.0,25.0
 12798.0,GETAFE 220,Madrid,Madrid,Getafe,220.0,40.318622902488,-3.6908837628158,almacenamiento,Con permisos,RdD,31.0,54.0
 12798.0,GETAFE 220,Madrid,Madrid,Getafe,220.0,40.318622902488,-3.6908837628158,almacenamiento,Con permisos,RdT,,
 12798.0,GETAFE 220,Madrid,Madrid,Getafe,220.0,40.318622902488,-3.6908837628158,fotovoltaica,Con permisos,RdD,46.0,47.0
@@ -5018,7 +5020,7 @@
 12905.0,LEGANES 220,Madrid,Madrid,Leganés,220.0,40.313760320713,-3.7771897551866,otras,Con permisos,RdD,,
 12905.0,LEGANES 220,Madrid,Madrid,Leganés,220.0,40.313760320713,-3.7771897551866,otras,Con permisos,RdT,1.0,1.0
 12905.0,LEGANES 220,Madrid,Madrid,Leganés,220.0,40.313760320713,-3.7771897551866,otras,En curso,RdD,,
-12905.0,LEGANES 220,Madrid,Madrid,Leganés,220.0,40.313760320713,-3.7771897551866,otras,En curso,RdT,15.0,
+12905.0,LEGANES 220,Madrid,Madrid,Leganés,220.0,40.313760320713,-3.7771897551866,otras,En curso,RdT,15.0,15.0
 13394.0,FORTUNA 220,Madrid,Madrid,Leganés,220.0,40.347154075172,-3.7832894848541,almacenamiento,En curso,RdD,61.44,63.15
 13394.0,FORTUNA 220,Madrid,Madrid,Leganés,220.0,40.347154075172,-3.7832894848541,almacenamiento,En curso,RdT,,
 13394.0,FORTUNA 220,Madrid,Madrid,Leganés,220.0,40.347154075172,-3.7832894848541,fotovoltaica,Con permisos,RdD,,
@@ -5073,8 +5075,6 @@
 12779.0,FUENCARRAL 400,Madrid,Madrid,Madrid,400.0,40.519064977862,-3.6716869733939,fotovoltaica,En curso,RdT,300.0,361.4
 12904.0,LA TORRECILLA 220,Madrid,Madrid,Madrid,220.0,40.318913356552,-3.613377896574,almacenamiento,Con permisos,RdD,,
 12904.0,LA TORRECILLA 220,Madrid,Madrid,Madrid,220.0,40.318913356552,-3.613377896574,almacenamiento,Con permisos,RdT,149.0,149.0
-12904.0,LA TORRECILLA 220,Madrid,Madrid,Madrid,220.0,40.318913356552,-3.613377896574,almacenamiento,En curso,RdD,,
-12904.0,LA TORRECILLA 220,Madrid,Madrid,Madrid,220.0,40.318913356552,-3.613377896574,almacenamiento,En curso,RdT,147.28,147.28
 12904.0,LA TORRECILLA 220,Madrid,Madrid,Madrid,220.0,40.318913356552,-3.613377896574,fotovoltaica,Con permisos,RdD,,
 12904.0,LA TORRECILLA 220,Madrid,Madrid,Madrid,220.0,40.318913356552,-3.613377896574,fotovoltaica,Con permisos,RdT,110.0,110.0
 12904.0,LA TORRECILLA 220,Madrid,Madrid,Madrid,220.0,40.318913356552,-3.613377896574,otras,Puesta en servicio,RdD,,
@@ -5111,20 +5111,28 @@
 7359.0,VALLE DEL ARCIPRESTE 220,Madrid,Madrid,Majadahonda,220.0,40.48782187646,-3.8942855238114,almacenamiento,Con permisos,RdT,,
 7359.0,VALLE DEL ARCIPRESTE 220,Madrid,Madrid,Majadahonda,220.0,40.48782187646,-3.8942855238114,fotovoltaica,Con permisos,RdD,30.0,35.0
 7359.0,VALLE DEL ARCIPRESTE 220,Madrid,Madrid,Majadahonda,220.0,40.48782187646,-3.8942855238114,fotovoltaica,Con permisos,RdT,,
+7359.0,VALLE DEL ARCIPRESTE 220,Madrid,Madrid,Majadahonda,220.0,40.48782187646,-3.8942855238114,fotovoltaica,En curso,RdD,12.4,15.0
+7359.0,VALLE DEL ARCIPRESTE 220,Madrid,Madrid,Majadahonda,220.0,40.48782187646,-3.8942855238114,fotovoltaica,En curso,RdT,,
 12940.0,MAJADAHONDA 220,Madrid,Madrid,Majadahonda,220.0,40.448521406292,-3.8843172502465,almacenamiento,En curso,RdD,55.0,80.0
 12940.0,MAJADAHONDA 220,Madrid,Madrid,Majadahonda,220.0,40.448521406292,-3.8843172502465,almacenamiento,En curso,RdT,,
 12940.0,MAJADAHONDA 220,Madrid,Madrid,Majadahonda,220.0,40.448521406292,-3.8843172502465,fotovoltaica,Con permisos,RdD,6.0,6.0
 12940.0,MAJADAHONDA 220,Madrid,Madrid,Majadahonda,220.0,40.448521406292,-3.8843172502465,fotovoltaica,Con permisos,RdT,,
 12940.0,MAJADAHONDA 220,Madrid,Madrid,Majadahonda,220.0,40.448521406292,-3.8843172502465,fotovoltaica,Puesta en servicio,RdD,18.0,18.0
 12940.0,MAJADAHONDA 220,Madrid,Madrid,Majadahonda,220.0,40.448521406292,-3.8843172502465,fotovoltaica,Puesta en servicio,RdT,,
+12956.0,MECO 220,Madrid,Madrid,Meco,220.0,40.540402039474,-3.3141649089708,almacenamiento,En curso,RdD,,5.0
+12956.0,MECO 220,Madrid,Madrid,Meco,220.0,40.540402039474,-3.3141649089708,almacenamiento,En curso,RdT,,
 12956.0,MECO 220,Madrid,Madrid,Meco,220.0,40.540402039474,-3.3141649089708,eolica,Con permisos,RdD,4.0,4.0
 12956.0,MECO 220,Madrid,Madrid,Meco,220.0,40.540402039474,-3.3141649089708,eolica,Con permisos,RdT,,
 12956.0,MECO 220,Madrid,Madrid,Meco,220.0,40.540402039474,-3.3141649089708,eolica,Puesta en servicio,RdD,187.63,187.63
 12956.0,MECO 220,Madrid,Madrid,Meco,220.0,40.540402039474,-3.3141649089708,eolica,Puesta en servicio,RdT,,
-12956.0,MECO 220,Madrid,Madrid,Meco,220.0,40.540402039474,-3.3141649089708,fotovoltaica,Con permisos,RdD,177.0,208.0
+12956.0,MECO 220,Madrid,Madrid,Meco,220.0,40.540402039474,-3.3141649089708,fotovoltaica,Con permisos,RdD,173.0,205.0
 12956.0,MECO 220,Madrid,Madrid,Meco,220.0,40.540402039474,-3.3141649089708,fotovoltaica,Con permisos,RdT,,
-12956.0,MECO 220,Madrid,Madrid,Meco,220.0,40.540402039474,-3.3141649089708,fotovoltaica,Puesta en servicio,RdD,221.46,228.76
+12956.0,MECO 220,Madrid,Madrid,Meco,220.0,40.540402039474,-3.3141649089708,fotovoltaica,En curso,RdD,,5.0
+12956.0,MECO 220,Madrid,Madrid,Meco,220.0,40.540402039474,-3.3141649089708,fotovoltaica,En curso,RdT,,
+12956.0,MECO 220,Madrid,Madrid,Meco,220.0,40.540402039474,-3.3141649089708,fotovoltaica,Puesta en servicio,RdD,225.21,232.68
 12956.0,MECO 220,Madrid,Madrid,Meco,220.0,40.540402039474,-3.3141649089708,fotovoltaica,Puesta en servicio,RdT,,
+12956.0,MECO 220,Madrid,Madrid,Meco,220.0,40.540402039474,-3.3141649089708,hibridacion,En curso,RdD,5.0,
+12956.0,MECO 220,Madrid,Madrid,Meco,220.0,40.540402039474,-3.3141649089708,hibridacion,En curso,RdT,,
 12956.0,MECO 220,Madrid,Madrid,Meco,220.0,40.540402039474,-3.3141649089708,otras,Puesta en servicio,RdD,26.81,26.81
 12956.0,MECO 220,Madrid,Madrid,Meco,220.0,40.540402039474,-3.3141649089708,otras,Puesta en servicio,RdT,,
 12991.0,MORALEJA 220,Madrid,Madrid,Moraleja de Enmedio,220.0,40.260026194064,-3.8755278617186,almacenamiento,En curso,RdD,103.65,103.65
@@ -5223,8 +5231,6 @@
 12863.0,LA CEREAL 400,Madrid,Madrid,Tres Cantos,400.0,40.600449501864,-3.7230739277753,fotovoltaica,En curso,RdT,377.63,449.3
 7152.0,VALDEMORO 220,Madrid,Madrid,Valdemoro,220.0,40.162850668185,-3.6444944479402,almacenamiento,Con permisos,RdD,,1.0
 7152.0,VALDEMORO 220,Madrid,Madrid,Valdemoro,220.0,40.162850668185,-3.6444944479402,almacenamiento,Con permisos,RdT,,299.0
-7152.0,VALDEMORO 220,Madrid,Madrid,Valdemoro,220.0,40.162850668185,-3.6444944479402,almacenamiento,En curso,RdD,,
-7152.0,VALDEMORO 220,Madrid,Madrid,Valdemoro,220.0,40.162850668185,-3.6444944479402,almacenamiento,En curso,RdT,150.0,150.0
 7152.0,VALDEMORO 220,Madrid,Madrid,Valdemoro,220.0,40.162850668185,-3.6444944479402,eolica,Con permisos,RdD,,6.0
 7152.0,VALDEMORO 220,Madrid,Madrid,Valdemoro,220.0,40.162850668185,-3.6444944479402,eolica,Con permisos,RdT,,
 7152.0,VALDEMORO 220,Madrid,Madrid,Valdemoro,220.0,40.162850668185,-3.6444944479402,eolica,Puesta en servicio,RdD,21.25,21.25
@@ -5311,9 +5317,9 @@
 12589.0,CAMPOS 400,Murcia,Murcia,Murcia,400.0,37.838495840567,-1.2153980844706,fotovoltaica,En curso,RdT,105.0,114.8
 12589.0,CAMPOS 400,Murcia,Murcia,Murcia,400.0,37.838495840567,-1.2153980844706,fotovoltaica,Puesta en servicio,RdD,,
 12589.0,CAMPOS 400,Murcia,Murcia,Murcia,400.0,37.838495840567,-1.2153980844706,fotovoltaica,Puesta en servicio,RdT,75.0,84.8
-12744.0,EL PALMAR 220,Murcia,Murcia,Murcia,220.0,37.940667559295,-1.1882425758825,fotovoltaica,Con permisos,RdD,222.0,263.0
+12744.0,EL PALMAR 220,Murcia,Murcia,Murcia,220.0,37.940667559295,-1.1882425758825,fotovoltaica,Con permisos,RdD,193.0,228.0
 12744.0,EL PALMAR 220,Murcia,Murcia,Murcia,220.0,37.940667559295,-1.1882425758825,fotovoltaica,Con permisos,RdT,,
-12744.0,EL PALMAR 220,Murcia,Murcia,Murcia,220.0,37.940667559295,-1.1882425758825,fotovoltaica,Puesta en servicio,RdD,274.54,302.75
+12744.0,EL PALMAR 220,Murcia,Murcia,Murcia,220.0,37.940667559295,-1.1882425758825,fotovoltaica,Puesta en servicio,RdD,303.24,337.07
 12744.0,EL PALMAR 220,Murcia,Murcia,Murcia,220.0,37.940667559295,-1.1882425758825,fotovoltaica,Puesta en servicio,RdT,,
 12744.0,EL PALMAR 220,Murcia,Murcia,Murcia,220.0,37.940667559295,-1.1882425758825,hidraulica,Puesta en servicio,RdD,2.33,2.33
 12744.0,EL PALMAR 220,Murcia,Murcia,Murcia,220.0,37.940667559295,-1.1882425758825,hidraulica,Puesta en servicio,RdT,,
@@ -5402,7 +5408,7 @@
 13208.0,SANGÜESA 220,Navarra,Navarra,Sangüesa/Zangoza,220.0,42.598407704878,-1.2754482023973,eolica,Con permisos,RdD,,24.0
 13208.0,SANGÜESA 220,Navarra,Navarra,Sangüesa/Zangoza,220.0,42.598407704878,-1.2754482023973,eolica,Con permisos,RdT,,
 13208.0,SANGÜESA 220,Navarra,Navarra,Sangüesa/Zangoza,220.0,42.598407704878,-1.2754482023973,eolica,En curso,RdD,,
-13208.0,SANGÜESA 220,Navarra,Navarra,Sangüesa/Zangoza,220.0,42.598407704878,-1.2754482023973,eolica,En curso,RdT,55.14,55.14
+13208.0,SANGÜESA 220,Navarra,Navarra,Sangüesa/Zangoza,220.0,42.598407704878,-1.2754482023973,eolica,En curso,RdT,36.0,36.0
 13208.0,SANGÜESA 220,Navarra,Navarra,Sangüesa/Zangoza,220.0,42.598407704878,-1.2754482023973,eolica,Puesta en servicio,RdD,,
 13208.0,SANGÜESA 220,Navarra,Navarra,Sangüesa/Zangoza,220.0,42.598407704878,-1.2754482023973,eolica,Puesta en servicio,RdT,198.76,198.76
 13208.0,SANGÜESA 220,Navarra,Navarra,Sangüesa/Zangoza,220.0,42.598407704878,-1.2754482023973,fotovoltaica,Con permisos,RdD,,50.0
@@ -5446,7 +5452,7 @@
 7177.0,SERNA 220,Navarra,Navarra,Tudela,220.0,42.097232760776,-1.6670924383779,eolica,Con permisos,RdD,,
 7177.0,SERNA 220,Navarra,Navarra,Tudela,220.0,42.097232760776,-1.6670924383779,eolica,Con permisos,RdT,30.0,31.0
 7177.0,SERNA 220,Navarra,Navarra,Tudela,220.0,42.097232760776,-1.6670924383779,eolica,Puesta en servicio,RdD,,
-7177.0,SERNA 220,Navarra,Navarra,Tudela,220.0,42.097232760776,-1.6670924383779,eolica,Puesta en servicio,RdT,112.17,177.77
+7177.0,SERNA 220,Navarra,Navarra,Tudela,220.0,42.097232760776,-1.6670924383779,eolica,Puesta en servicio,RdT,112.17,172.17
 7177.0,SERNA 220,Navarra,Navarra,Tudela,220.0,42.097232760776,-1.6670924383779,fotovoltaica,Con permisos,RdD,2.0,2.0
 7177.0,SERNA 220,Navarra,Navarra,Tudela,220.0,42.097232760776,-1.6670924383779,fotovoltaica,Con permisos,RdT,,11.0
 7177.0,SERNA 220,Navarra,Navarra,Tudela,220.0,42.097232760776,-1.6670924383779,fotovoltaica,En curso,RdD,6.0,7.13
@@ -5498,7 +5504,7 @@
 12742.0,ELGEA 220,País Vasco,Araba/Álava,Barrundia,220.0,42.892538703735,-2.450244324786,eolica,Puesta en servicio,RdD,26.97,59.27
 12742.0,ELGEA 220,País Vasco,Araba/Álava,Barrundia,220.0,42.892538703735,-2.450244324786,eolica,Puesta en servicio,RdT,,
 12742.0,ELGEA 220,País Vasco,Araba/Álava,Barrundia,220.0,42.892538703735,-2.450244324786,fotovoltaica,Con permisos,RdD,,
-12742.0,ELGEA 220,País Vasco,Araba/Álava,Barrundia,220.0,42.892538703735,-2.450244324786,fotovoltaica,Con permisos,RdT,95.0,108.0
+12742.0,ELGEA 220,País Vasco,Araba/Álava,Barrundia,220.0,42.892538703735,-2.450244324786,fotovoltaica,Con permisos,RdT,56.0,63.0
 12742.0,ELGEA 220,País Vasco,Araba/Álava,Barrundia,220.0,42.892538703735,-2.450244324786,hibridacion,Puesta en servicio,RdD,32.3,
 12742.0,ELGEA 220,País Vasco,Araba/Álava,Barrundia,220.0,42.892538703735,-2.450244324786,hibridacion,Puesta en servicio,RdT,,
 12874.0,LAGUARDIA 220,País Vasco,Araba/Álava,Laguardia,220.0,42.507702415905,-2.5847435302586,eolica,Con permisos,RdD,,
@@ -5557,7 +5563,7 @@
 7187.0,BASAURI 220,País Vasco,Bizkaia/Vizcaya,Basauri,220.0,43.221080067006,-2.8952644929154,otras,Puesta en servicio,RdT,,
 7183.0,ALONSOTEGUI 220,País Vasco,Bizkaia/Vizcaya,Bilbao,220.0,43.247115567084,-2.9824952929925,hidraulica,Puesta en servicio,RdD,4.22,4.22
 7183.0,ALONSOTEGUI 220,País Vasco,Bizkaia/Vizcaya,Bilbao,220.0,43.247115567084,-2.9824952929925,hidraulica,Puesta en servicio,RdT,,
-7183.0,ALONSOTEGUI 220,País Vasco,Bizkaia/Vizcaya,Bilbao,220.0,43.247115567084,-2.9824952929925,otras,Puesta en servicio,RdD,109.72,109.72
+7183.0,ALONSOTEGUI 220,País Vasco,Bizkaia/Vizcaya,Bilbao,220.0,43.247115567084,-2.9824952929925,otras,Puesta en servicio,RdD,5.5,5.5
 7183.0,ALONSOTEGUI 220,País Vasco,Bizkaia/Vizcaya,Bilbao,220.0,43.247115567084,-2.9824952929925,otras,Puesta en servicio,RdT,,
 12794.0,GATICA 220,País Vasco,Bizkaia/Vizcaya,Gatika,220.0,43.349959128408,-2.8802517863082,eolica,Puesta en servicio,RdD,10.0,10.0
 12794.0,GATICA 220,País Vasco,Bizkaia/Vizcaya,Gatika,220.0,43.349959128408,-2.8802517863082,eolica,Puesta en servicio,RdT,,
@@ -5595,8 +5601,6 @@
 7199.0,SANTURCE 220,País Vasco,Bizkaia/Vizcaya,Santurtzi,220.0,43.338399627148,-3.0529918440389,almacenamiento,Con permisos,RdT,99.0,330.0
 7199.0,SANTURCE 220,País Vasco,Bizkaia/Vizcaya,Santurtzi,220.0,43.338399627148,-3.0529918440389,almacenamiento,En curso,RdD,,
 7199.0,SANTURCE 220,País Vasco,Bizkaia/Vizcaya,Santurtzi,220.0,43.338399627148,-3.0529918440389,almacenamiento,En curso,RdT,75.0,75.0
-7199.0,SANTURCE 220,País Vasco,Bizkaia/Vizcaya,Santurtzi,220.0,43.338399627148,-3.0529918440389,fotovoltaica,Con permisos,RdD,,
-7199.0,SANTURCE 220,País Vasco,Bizkaia/Vizcaya,Santurtzi,220.0,43.338399627148,-3.0529918440389,fotovoltaica,Con permisos,RdT,100.0,100.0
 7199.0,SANTURCE 220,País Vasco,Bizkaia/Vizcaya,Santurtzi,220.0,43.338399627148,-3.0529918440389,otras,Puesta en servicio,RdD,12.2,12.2
 7199.0,SANTURCE 220,País Vasco,Bizkaia/Vizcaya,Santurtzi,220.0,43.338399627148,-3.0529918440389,otras,Puesta en servicio,RdT,396.4,396.4
 7240.0,ZAMUDIO 220,País Vasco,Bizkaia/Vizcaya,Zamudio,220.0,43.301252213455,-2.8640628593411,fotovoltaica,Puesta en servicio,RdD,1.18,1.18
