@@ -1465,6 +1465,12 @@
 13472.0,BUNYOLA 66,Baleares,Illes Balears,Bunyola,66.0,39.684392578162,2.7038899710154,fotovoltaica,Puesta en servicio,RdT,,
 13472.0,BUNYOLA 66,Baleares,Illes Balears,Bunyola,66.0,39.684392578162,2.7038899710154,hibridacion,Con permisos,RdD,8.0,
 13472.0,BUNYOLA 66,Baleares,Illes Balears,Bunyola,66.0,39.684392578162,2.7038899710154,hibridacion,Con permisos,RdT,,
+7054.0,CALVIA 66,Baleares,Illes Balears,Calvià,66.0,39.526600070111,2.5075635708812,almacenamiento,Con permisos,RdD,13.0,13.0
+7054.0,CALVIA 66,Baleares,Illes Balears,Calvià,66.0,39.526600070111,2.5075635708812,almacenamiento,Con permisos,RdT,,
+7054.0,CALVIA 66,Baleares,Illes Balears,Calvià,66.0,39.526600070111,2.5075635708812,fotovoltaica,Con permisos,RdD,6.0,15.0
+7054.0,CALVIA 66,Baleares,Illes Balears,Calvià,66.0,39.526600070111,2.5075635708812,fotovoltaica,Con permisos,RdT,,
+7054.0,CALVIA 66,Baleares,Illes Balears,Calvià,66.0,39.526600070111,2.5075635708812,fotovoltaica,Puesta en servicio,RdD,3.77,3.77
+7054.0,CALVIA 66,Baleares,Illes Balears,Calvià,66.0,39.526600070111,2.5075635708812,fotovoltaica,Puesta en servicio,RdT,,
 7366.0,CAPDEPERA 66,Baleares,Illes Balears,Capdepera,66.0,39.697683116558,3.4172876929763,almacenamiento,Con permisos,RdD,2.0,8.0
 7366.0,CAPDEPERA 66,Baleares,Illes Balears,Capdepera,66.0,39.697683116558,3.4172876929763,almacenamiento,Con permisos,RdT,,
 7366.0,CAPDEPERA 66,Baleares,Illes Balears,Capdepera,66.0,39.697683116558,3.4172876929763,fotovoltaica,Con permisos,RdD,7.0,15.0
