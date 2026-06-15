@@ -9583,18 +9583,6 @@ NODES,CALA MILLOR 66,7053,CALA MILLOR 66,66,39.583192099376,3.3632980374546,pote
 NODES,CALA MILLOR 66,7053,CALA MILLOR 66,66,39.583192099376,3.3632980374546,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,18.73
 NODES,CALA MILLOR 66,7053,CALA MILLOR 66,66,39.583192099376,3.3632980374546,potencia_instalada,almacenamiento,Baterías,Con permisos,RdT,
 NODES,CALA MILLOR 66,7053,CALA MILLOR 66,66,39.583192099376,3.3632980374546,potencia_instalada,almacenamiento,Baterías,Con permisos,RdD,7
-NODES,CALVIA 66,7054,CALVIA 66,66,39.526600070111,2.5075635708812,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,
-NODES,CALVIA 66,7054,CALVIA 66,66,39.526600070111,2.5075635708812,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,6
-NODES,CALVIA 66,7054,CALVIA 66,66,39.526600070111,2.5075635708812,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,
-NODES,CALVIA 66,7054,CALVIA 66,66,39.526600070111,2.5075635708812,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,3.77
-NODES,CALVIA 66,7054,CALVIA 66,66,39.526600070111,2.5075635708812,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdT,
-NODES,CALVIA 66,7054,CALVIA 66,66,39.526600070111,2.5075635708812,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdD,13
-NODES,CALVIA 66,7054,CALVIA 66,66,39.526600070111,2.5075635708812,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,
-NODES,CALVIA 66,7054,CALVIA 66,66,39.526600070111,2.5075635708812,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,15
-NODES,CALVIA 66,7054,CALVIA 66,66,39.526600070111,2.5075635708812,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,
-NODES,CALVIA 66,7054,CALVIA 66,66,39.526600070111,2.5075635708812,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,3.77
-NODES,CALVIA 66,7054,CALVIA 66,66,39.526600070111,2.5075635708812,potencia_instalada,almacenamiento,Baterías,Con permisos,RdT,
-NODES,CALVIA 66,7054,CALVIA 66,66,39.526600070111,2.5075635708812,potencia_instalada,almacenamiento,Baterías,Con permisos,RdD,13
 NODES,CAN PICAFORT 66,7055,CAN PICAFORT 66,66,39.747341047747,3.1560081600849,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,
 NODES,CAN PICAFORT 66,7055,CAN PICAFORT 66,66,39.747341047747,3.1560081600849,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,17
 NODES,CAN PICAFORT 66,7055,CAN PICAFORT 66,66,39.747341047747,3.1560081600849,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,
