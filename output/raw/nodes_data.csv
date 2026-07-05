@@ -3761,40 +3761,6 @@ NODES,MONTETORRERO 220,12987,MONTETORRERO 220,220,41.596656494554,-0.85385416711
 NODES,MONTETORRERO 220,12987,MONTETORRERO 220,220,41.596656494554,-0.85385416711534,potencia_instalada,almacenamiento,Baterías,Con permisos,RdD,138
 NODES,MONTETORRERO 220,12987,MONTETORRERO 220,220,41.596656494554,-0.85385416711534,potencia_instalada,hidraulica,Hidráulica,Puesta en servicio,RdT,
 NODES,MONTETORRERO 220,12987,MONTETORRERO 220,220,41.596656494554,-0.85385416711534,potencia_instalada,hidraulica,Hidráulica,Puesta en servicio,RdD,0.36
-NODES,MONZON 220,12989,MONZON 220,220,41.933718565789,0.17568043142547,capacidad_acceso,eolica,Eólica,En curso,RdT,12
-NODES,MONZON 220,12989,MONZON 220,220,41.933718565789,0.17568043142547,capacidad_acceso,eolica,Eólica,En curso,RdD,
-NODES,MONZON 220,12989,MONZON 220,220,41.933718565789,0.17568043142547,capacidad_acceso,eolica,Eólica,Con permisos,RdT,
-NODES,MONZON 220,12989,MONZON 220,220,41.933718565789,0.17568043142547,capacidad_acceso,eolica,Eólica,Con permisos,RdD,60
-NODES,MONZON 220,12989,MONZON 220,220,41.933718565789,0.17568043142547,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdT,
-NODES,MONZON 220,12989,MONZON 220,220,41.933718565789,0.17568043142547,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdD,48.8
-NODES,MONZON 220,12989,MONZON 220,220,41.933718565789,0.17568043142547,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,73
-NODES,MONZON 220,12989,MONZON 220,220,41.933718565789,0.17568043142547,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,28
-NODES,MONZON 220,12989,MONZON 220,220,41.933718565789,0.17568043142547,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,
-NODES,MONZON 220,12989,MONZON 220,220,41.933718565789,0.17568043142547,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,6
-NODES,MONZON 220,12989,MONZON 220,220,41.933718565789,0.17568043142547,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdT,
-NODES,MONZON 220,12989,MONZON 220,220,41.933718565789,0.17568043142547,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdD,29
-NODES,MONZON 220,12989,MONZON 220,220,41.933718565789,0.17568043142547,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdT,
-NODES,MONZON 220,12989,MONZON 220,220,41.933718565789,0.17568043142547,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdD,31.76
-NODES,MONZON 220,12989,MONZON 220,220,41.933718565789,0.17568043142547,capacidad_acceso,hidraulica,Hidráulica,Puesta en servicio,RdT,
-NODES,MONZON 220,12989,MONZON 220,220,41.933718565789,0.17568043142547,capacidad_acceso,hidraulica,Hidráulica,Puesta en servicio,RdD,74.16
-NODES,MONZON 220,12989,MONZON 220,220,41.933718565789,0.17568043142547,capacidad_acceso,otras,Otras tecnologías,Puesta en servicio,RdT,
-NODES,MONZON 220,12989,MONZON 220,220,41.933718565789,0.17568043142547,capacidad_acceso,otras,Otras tecnologías,Puesta en servicio,RdD,62.45
-NODES,MONZON 220,12989,MONZON 220,220,41.933718565789,0.17568043142547,potencia_instalada,eolica,Eólica,En curso,RdT,12
-NODES,MONZON 220,12989,MONZON 220,220,41.933718565789,0.17568043142547,potencia_instalada,eolica,Eólica,En curso,RdD,
-NODES,MONZON 220,12989,MONZON 220,220,41.933718565789,0.17568043142547,potencia_instalada,eolica,Eólica,Con permisos,RdT,
-NODES,MONZON 220,12989,MONZON 220,220,41.933718565789,0.17568043142547,potencia_instalada,eolica,Eólica,Con permisos,RdD,66
-NODES,MONZON 220,12989,MONZON 220,220,41.933718565789,0.17568043142547,potencia_instalada,eolica,Eólica,Puesta en servicio,RdT,
-NODES,MONZON 220,12989,MONZON 220,220,41.933718565789,0.17568043142547,potencia_instalada,eolica,Eólica,Puesta en servicio,RdD,48.8
-NODES,MONZON 220,12989,MONZON 220,220,41.933718565789,0.17568043142547,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,80
-NODES,MONZON 220,12989,MONZON 220,220,41.933718565789,0.17568043142547,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,60
-NODES,MONZON 220,12989,MONZON 220,220,41.933718565789,0.17568043142547,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,
-NODES,MONZON 220,12989,MONZON 220,220,41.933718565789,0.17568043142547,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,8.83
-NODES,MONZON 220,12989,MONZON 220,220,41.933718565789,0.17568043142547,potencia_instalada,hidraulica,Hidráulica,Puesta en servicio,RdT,
-NODES,MONZON 220,12989,MONZON 220,220,41.933718565789,0.17568043142547,potencia_instalada,hidraulica,Hidráulica,Puesta en servicio,RdD,74.16
-NODES,MONZON 220,12989,MONZON 220,220,41.933718565789,0.17568043142547,potencia_instalada,otras,Otras tecnologías,Con permisos,RdT,
-NODES,MONZON 220,12989,MONZON 220,220,41.933718565789,0.17568043142547,potencia_instalada,otras,Otras tecnologías,Con permisos,RdD,29
-NODES,MONZON 220,12989,MONZON 220,220,41.933718565789,0.17568043142547,potencia_instalada,otras,Otras tecnologías,Puesta en servicio,RdT,
-NODES,MONZON 220,12989,MONZON 220,220,41.933718565789,0.17568043142547,potencia_instalada,otras,Otras tecnologías,Puesta en servicio,RdD,95.14
 NODES,PEÑAFLOR 220,13047,PEÑAFLOR 220,220,41.721757727972,-0.74164680137089,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdT,
 NODES,PEÑAFLOR 220,13047,PEÑAFLOR 220,220,41.721757727972,-0.74164680137089,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdD,160.02
 NODES,PEÑAFLOR 220,13047,PEÑAFLOR 220,220,41.721757727972,-0.74164680137089,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,220
