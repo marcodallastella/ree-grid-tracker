@@ -3033,6 +3033,12 @@
 6966.0,VILLAMAYOR 220,Castilla y León,Salamanca,Villamayor,220.0,40.989497935146,-5.6901234024959,hidraulica,Puesta en servicio,RdT,,
 6966.0,VILLAMAYOR 220,Castilla y León,Salamanca,Villamayor,220.0,40.989497935146,-5.6901234024959,otras,Puesta en servicio,RdD,26.82,26.82
 6966.0,VILLAMAYOR 220,Castilla y León,Salamanca,Villamayor,220.0,40.989497935146,-5.6901234024959,otras,Puesta en servicio,RdT,,
+6968.0,VILLARINO 220,Castilla y León,Salamanca,Villarino de los Aires,220.0,41.255316402431,-6.4882248924833,bombeo,Puesta en servicio,RdD,,
+6968.0,VILLARINO 220,Castilla y León,Salamanca,Villarino de los Aires,220.0,41.255316402431,-6.4882248924833,bombeo,Puesta en servicio,RdT,810.0,850.88
+6968.0,VILLARINO 220,Castilla y León,Salamanca,Villarino de los Aires,220.0,41.255316402431,-6.4882248924833,fotovoltaica,Con permisos,RdD,,
+6968.0,VILLARINO 220,Castilla y León,Salamanca,Villarino de los Aires,220.0,41.255316402431,-6.4882248924833,fotovoltaica,Con permisos,RdT,11.0,12.0
+6968.0,VILLARINO 220,Castilla y León,Salamanca,Villarino de los Aires,220.0,41.255316402431,-6.4882248924833,fotovoltaica,Puesta en servicio,RdD,82.52,88.1
+6968.0,VILLARINO 220,Castilla y León,Salamanca,Villarino de los Aires,220.0,41.255316402431,-6.4882248924833,fotovoltaica,Puesta en servicio,RdT,200.0,221.0
 13509.0,ABADES 400,Castilla y León,Segovia,Abades,400.0,40.914653566819,-4.2741043785874,fotovoltaica,Con permisos,RdD,,
 13509.0,ABADES 400,Castilla y León,Segovia,Abades,400.0,40.914653566819,-4.2741043785874,fotovoltaica,Con permisos,RdT,357.0,431.0
 12903.0,LASTRAS 400,Castilla y León,Segovia,Lastras del Pozo,400.0,40.880487514573,-4.3398240299489,almacenamiento,Con permisos,RdD,1.0,8.0
