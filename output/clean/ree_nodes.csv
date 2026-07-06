@@ -823,6 +823,26 @@
 12699.0,CINCA 220,Aragón,Huesca,Monzón,220.0,41.923319414035,0.19357723551975,otras,Con permisos,RdT,,
 12699.0,CINCA 220,Aragón,Huesca,Monzón,220.0,41.923319414035,0.19357723551975,otras,Puesta en servicio,RdD,6.5,6.5
 12699.0,CINCA 220,Aragón,Huesca,Monzón,220.0,41.923319414035,0.19357723551975,otras,Puesta en servicio,RdT,,
+12989.0,MONZON 220,Aragón,Huesca,Monzón,220.0,41.933718565789,0.17568043142547,eolica,Con permisos,RdD,60.0,66.0
+12989.0,MONZON 220,Aragón,Huesca,Monzón,220.0,41.933718565789,0.17568043142547,eolica,Con permisos,RdT,,
+12989.0,MONZON 220,Aragón,Huesca,Monzón,220.0,41.933718565789,0.17568043142547,eolica,En curso,RdD,,
+12989.0,MONZON 220,Aragón,Huesca,Monzón,220.0,41.933718565789,0.17568043142547,eolica,En curso,RdT,12.0,12.0
+12989.0,MONZON 220,Aragón,Huesca,Monzón,220.0,41.933718565789,0.17568043142547,eolica,Puesta en servicio,RdD,48.8,48.8
+12989.0,MONZON 220,Aragón,Huesca,Monzón,220.0,41.933718565789,0.17568043142547,eolica,Puesta en servicio,RdT,,
+12989.0,MONZON 220,Aragón,Huesca,Monzón,220.0,41.933718565789,0.17568043142547,fotovoltaica,Con permisos,RdD,28.0,60.0
+12989.0,MONZON 220,Aragón,Huesca,Monzón,220.0,41.933718565789,0.17568043142547,fotovoltaica,Con permisos,RdT,73.0,80.0
+12989.0,MONZON 220,Aragón,Huesca,Monzón,220.0,41.933718565789,0.17568043142547,fotovoltaica,Puesta en servicio,RdD,6.0,8.83
+12989.0,MONZON 220,Aragón,Huesca,Monzón,220.0,41.933718565789,0.17568043142547,fotovoltaica,Puesta en servicio,RdT,,
+12989.0,MONZON 220,Aragón,Huesca,Monzón,220.0,41.933718565789,0.17568043142547,hibridacion,Con permisos,RdD,29.0,
+12989.0,MONZON 220,Aragón,Huesca,Monzón,220.0,41.933718565789,0.17568043142547,hibridacion,Con permisos,RdT,,
+12989.0,MONZON 220,Aragón,Huesca,Monzón,220.0,41.933718565789,0.17568043142547,hibridacion,Puesta en servicio,RdD,31.76,
+12989.0,MONZON 220,Aragón,Huesca,Monzón,220.0,41.933718565789,0.17568043142547,hibridacion,Puesta en servicio,RdT,,
+12989.0,MONZON 220,Aragón,Huesca,Monzón,220.0,41.933718565789,0.17568043142547,hidraulica,Puesta en servicio,RdD,74.16,74.16
+12989.0,MONZON 220,Aragón,Huesca,Monzón,220.0,41.933718565789,0.17568043142547,hidraulica,Puesta en servicio,RdT,,
+12989.0,MONZON 220,Aragón,Huesca,Monzón,220.0,41.933718565789,0.17568043142547,otras,Con permisos,RdD,,29.0
+12989.0,MONZON 220,Aragón,Huesca,Monzón,220.0,41.933718565789,0.17568043142547,otras,Con permisos,RdT,,
+12989.0,MONZON 220,Aragón,Huesca,Monzón,220.0,41.933718565789,0.17568043142547,otras,Puesta en servicio,RdD,62.45,95.14
+12989.0,MONZON 220,Aragón,Huesca,Monzón,220.0,41.933718565789,0.17568043142547,otras,Puesta en servicio,RdT,,
 13187.0,SABIÑANIGO 220,Aragón,Huesca,Sabiñánigo,220.0,42.516395239997,-0.35809749781578,fotovoltaica,Con permisos,RdD,54.0,67.0
 13187.0,SABIÑANIGO 220,Aragón,Huesca,Sabiñánigo,220.0,42.516395239997,-0.35809749781578,fotovoltaica,Con permisos,RdT,,
 13187.0,SABIÑANIGO 220,Aragón,Huesca,Sabiñánigo,220.0,42.516395239997,-0.35809749781578,fotovoltaica,Puesta en servicio,RdD,5.84,6.62
@@ -3013,12 +3033,6 @@
 6966.0,VILLAMAYOR 220,Castilla y León,Salamanca,Villamayor,220.0,40.989497935146,-5.6901234024959,hidraulica,Puesta en servicio,RdT,,
 6966.0,VILLAMAYOR 220,Castilla y León,Salamanca,Villamayor,220.0,40.989497935146,-5.6901234024959,otras,Puesta en servicio,RdD,26.82,26.82
 6966.0,VILLAMAYOR 220,Castilla y León,Salamanca,Villamayor,220.0,40.989497935146,-5.6901234024959,otras,Puesta en servicio,RdT,,
-6968.0,VILLARINO 220,Castilla y León,Salamanca,Villarino de los Aires,220.0,41.255316402431,-6.4882248924833,bombeo,Puesta en servicio,RdD,,
-6968.0,VILLARINO 220,Castilla y León,Salamanca,Villarino de los Aires,220.0,41.255316402431,-6.4882248924833,bombeo,Puesta en servicio,RdT,810.0,850.88
-6968.0,VILLARINO 220,Castilla y León,Salamanca,Villarino de los Aires,220.0,41.255316402431,-6.4882248924833,fotovoltaica,Con permisos,RdD,,
-6968.0,VILLARINO 220,Castilla y León,Salamanca,Villarino de los Aires,220.0,41.255316402431,-6.4882248924833,fotovoltaica,Con permisos,RdT,11.0,12.0
-6968.0,VILLARINO 220,Castilla y León,Salamanca,Villarino de los Aires,220.0,41.255316402431,-6.4882248924833,fotovoltaica,Puesta en servicio,RdD,82.52,88.1
-6968.0,VILLARINO 220,Castilla y León,Salamanca,Villarino de los Aires,220.0,41.255316402431,-6.4882248924833,fotovoltaica,Puesta en servicio,RdT,200.0,221.0
 13509.0,ABADES 400,Castilla y León,Segovia,Abades,400.0,40.914653566819,-4.2741043785874,fotovoltaica,Con permisos,RdD,,
 13509.0,ABADES 400,Castilla y León,Segovia,Abades,400.0,40.914653566819,-4.2741043785874,fotovoltaica,Con permisos,RdT,357.0,431.0
 12903.0,LASTRAS 400,Castilla y León,Segovia,Lastras del Pozo,400.0,40.880487514573,-4.3398240299489,almacenamiento,Con permisos,RdD,1.0,8.0
