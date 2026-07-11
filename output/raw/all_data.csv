@@ -9743,6 +9743,90 @@ NODES,XOVE 400,12680,XOVE 400,400,43.693286561903,-7.5039627742031,potencia_inst
 NODES,XOVE 400,12680,XOVE 400,400,43.693286561903,-7.5039627742031,potencia_instalada,otras,Otras tecnologías,Con permisos,RdD,742
 NODES,XOVE 400,12680,XOVE 400,400,43.693286561903,-7.5039627742031,potencia_instalada,otras,Otras tecnologías,Puesta en servicio,RdT,39326.38
 NODES,XOVE 400,12680,XOVE 400,400,43.693286561903,-7.5039627742031,potencia_instalada,otras,Otras tecnologías,Puesta en servicio,RdD,6666.48
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,eolica,Eólica,En curso,RdT,10794.47
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,eolica,Eólica,En curso,RdD,1862.25
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,eolica,Eólica,Con permisos,RdT,12398
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,eolica,Eólica,Con permisos,RdD,3876
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdT,14888.38
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdD,8985.89
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdT,7981.95
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdD,5389.35
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,32969
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,12711
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,13546.82
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,10102.23
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,almacenamiento,Baterías,En curso,RdT,9815.0
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,almacenamiento,Baterías,En curso,RdD,3431.22
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdT,5078
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdD,5909
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,almacenamiento,Baterías,Puesta en servicio,RdT,
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,almacenamiento,Baterías,Puesta en servicio,RdD,12.15
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,hibridacion,Hibridación,En curso,RdT,1653.71
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,hibridacion,Hibridación,En curso,RdD,178.18
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdT,10134
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdD,1484
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdT,22199.75
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdD,3131.03
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,termosolar,Termosolar,Con permisos,RdT,
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,termosolar,Termosolar,Con permisos,RdD,50
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,termosolar,Termosolar,Puesta en servicio,RdT,1147.0
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,termosolar,Termosolar,Puesta en servicio,RdD,520.5
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,hidraulica,Hidráulica,Con permisos,RdT,191
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,hidraulica,Hidráulica,Con permisos,RdD,48
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,hidraulica,Hidráulica,Puesta en servicio,RdT,6402.18
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,hidraulica,Hidráulica,Puesta en servicio,RdD,6022.6
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,bombeo,Bombeo,En curso,RdT,1009
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,bombeo,Bombeo,En curso,RdD,
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,bombeo,Bombeo,Con permisos,RdT,3356
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,bombeo,Bombeo,Con permisos,RdD,
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,bombeo,Bombeo,Puesta en servicio,RdT,5377.85
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,bombeo,Bombeo,Puesta en servicio,RdD,
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,otras,Otras tecnologías,En curso,RdT,4570.06
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,otras,Otras tecnologías,En curso,RdD,55.82
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,otras,Otras tecnologías,Con permisos,RdT,249
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,otras,Otras tecnologías,Con permisos,RdD,516
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,otras,Otras tecnologías,Puesta en servicio,RdT,35351.69
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,capacidad_acceso,otras,Otras tecnologías,Puesta en servicio,RdD,6287.3
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,eolica,Eólica,En curso,RdT,11622.2
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,eolica,Eólica,En curso,RdD,1982.29
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,eolica,Eólica,Con permisos,RdT,18308
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,eolica,Eólica,Con permisos,RdD,4927
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,eolica,Eólica,Puesta en servicio,RdT,22329.22
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,eolica,Eólica,Puesta en servicio,RdD,10223.85
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdT,10227.14
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdD,5853.34
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,51668
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,16275
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,30612.0
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,12991.75
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,almacenamiento,Baterías,En curso,RdT,10251.6
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,almacenamiento,Baterías,En curso,RdD,3716.54
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,almacenamiento,Baterías,Con permisos,RdT,20045
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,almacenamiento,Baterías,Con permisos,RdD,8263
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,almacenamiento,Baterías,Puesta en servicio,RdT,140.38
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,almacenamiento,Baterías,Puesta en servicio,RdD,80.04
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,termosolar,Termosolar,Con permisos,RdT,
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,termosolar,Termosolar,Con permisos,RdD,81
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,termosolar,Termosolar,Puesta en servicio,RdT,1698.6
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,termosolar,Termosolar,Puesta en servicio,RdD,570.5
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,hidraulica,Hidráulica,En curso,RdT,
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,hidraulica,Hidráulica,En curso,RdD,15.2
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,hidraulica,Hidráulica,Con permisos,RdT,495
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,hidraulica,Hidráulica,Con permisos,RdD,100
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,hidraulica,Hidráulica,Puesta en servicio,RdT,6908.14
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,hidraulica,Hidráulica,Puesta en servicio,RdD,6029.68
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,bombeo,Bombeo,En curso,RdT,1009
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,bombeo,Bombeo,En curso,RdD,
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,bombeo,Bombeo,Con permisos,RdT,2966
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,bombeo,Bombeo,Con permisos,RdD,
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,bombeo,Bombeo,Puesta en servicio,RdT,5454.03
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,bombeo,Bombeo,Puesta en servicio,RdD,
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,otras,Otras tecnologías,En curso,RdT,5428.8
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,otras,Otras tecnologías,En curso,RdD,41.84
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,otras,Otras tecnologías,Con permisos,RdT,744
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,otras,Otras tecnologías,Con permisos,RdD,742
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,otras,Otras tecnologías,Puesta en servicio,RdT,39326.38
+NODES,MESON D.V. 400,13303,MESON D.V. 400,400,43.167448595751,-8.3559669209846,potencia_instalada,otras,Otras tecnologías,Puesta en servicio,RdD,6666.48
 NODES,AMOREBIETA 400,7184,AMOREBIETA 400,400,43.235916724217,-2.7494350648614,capacidad_acceso,eolica,Eólica,En curso,RdT,10794.47
 NODES,AMOREBIETA 400,7184,AMOREBIETA 400,400,43.235916724217,-2.7494350648614,capacidad_acceso,eolica,Eólica,En curso,RdD,1862.25
 NODES,AMOREBIETA 400,7184,AMOREBIETA 400,400,43.235916724217,-2.7494350648614,capacidad_acceso,eolica,Eólica,Con permisos,RdT,12398

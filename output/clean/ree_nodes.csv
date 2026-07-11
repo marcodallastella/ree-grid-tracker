@@ -24149,6 +24149,52 @@
 13188.0,SABON 220,Galicia,A Coruña,Arteixo,220.0,43.329327151054,-8.5007784361573,termosolar,Con permisos,RdT,,
 13188.0,SABON 220,Galicia,A Coruña,Arteixo,220.0,43.329327151054,-8.5007784361573,termosolar,Puesta en servicio,RdD,520.5,570.5
 13188.0,SABON 220,Galicia,A Coruña,Arteixo,220.0,43.329327151054,-8.5007784361573,termosolar,Puesta en servicio,RdT,1147.0,1698.6
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,almacenamiento,Con permisos,RdD,5909.0,8263.0
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,almacenamiento,Con permisos,RdT,5078.0,20045.0
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,almacenamiento,En curso,RdD,3431.22,3716.54
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,almacenamiento,En curso,RdT,9815.0,10251.6
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,almacenamiento,Puesta en servicio,RdD,12.15,80.04
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,almacenamiento,Puesta en servicio,RdT,,140.38
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,bombeo,Con permisos,RdD,,
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,bombeo,Con permisos,RdT,3356.0,2966.0
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,bombeo,En curso,RdD,,
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,bombeo,En curso,RdT,1009.0,1009.0
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,bombeo,Puesta en servicio,RdD,,
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,bombeo,Puesta en servicio,RdT,5377.85,5454.03
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,eolica,Con permisos,RdD,3876.0,4927.0
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,eolica,Con permisos,RdT,12398.0,18308.0
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,eolica,En curso,RdD,1862.25,1982.29
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,eolica,En curso,RdT,10794.47,11622.2
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,eolica,Puesta en servicio,RdD,8985.89,10223.85
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,eolica,Puesta en servicio,RdT,14888.38,22329.22
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,fotovoltaica,Con permisos,RdD,12711.0,16275.0
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,fotovoltaica,Con permisos,RdT,32969.0,51668.0
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,fotovoltaica,En curso,RdD,5389.35,5853.34
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,fotovoltaica,En curso,RdT,7981.95,10227.14
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,fotovoltaica,Puesta en servicio,RdD,10102.23,12991.75
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,fotovoltaica,Puesta en servicio,RdT,13546.82,30612.0
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,hibridacion,Con permisos,RdD,1484.0,
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,hibridacion,Con permisos,RdT,10134.0,
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,hibridacion,En curso,RdD,178.18,
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,hibridacion,En curso,RdT,1653.71,
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,hibridacion,Puesta en servicio,RdD,3131.03,
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,hibridacion,Puesta en servicio,RdT,22199.75,
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,hidraulica,Con permisos,RdD,48.0,100.0
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,hidraulica,Con permisos,RdT,191.0,495.0
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,hidraulica,En curso,RdD,,15.2
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,hidraulica,En curso,RdT,,
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,hidraulica,Puesta en servicio,RdD,6022.6,6029.68
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,hidraulica,Puesta en servicio,RdT,6402.18,6908.14
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,otras,Con permisos,RdD,516.0,742.0
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,otras,Con permisos,RdT,249.0,744.0
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,otras,En curso,RdD,55.82,41.84
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,otras,En curso,RdT,4570.06,5428.8
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,otras,Puesta en servicio,RdD,6287.3,6666.48
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,otras,Puesta en servicio,RdT,35351.69,39326.38
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,termosolar,Con permisos,RdD,50.0,81.0
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,termosolar,Con permisos,RdT,,
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,termosolar,Puesta en servicio,RdD,520.5,570.5
+13303.0,MESON D.V. 400,Galicia,A Coruña,Carral,400.0,43.167448595751,-8.3559669209846,termosolar,Puesta en servicio,RdT,1147.0,1698.6
 13346.0,MESON D.V. 220,Galicia,A Coruña,Carral,220.0,43.167448595751,-8.3559669209846,almacenamiento,Con permisos,RdD,5909.0,8263.0
 13346.0,MESON D.V. 220,Galicia,A Coruña,Carral,220.0,43.167448595751,-8.3559669209846,almacenamiento,Con permisos,RdT,5078.0,20045.0
 13346.0,MESON D.V. 220,Galicia,A Coruña,Carral,220.0,43.167448595751,-8.3559669209846,almacenamiento,En curso,RdD,3431.22,3716.54
