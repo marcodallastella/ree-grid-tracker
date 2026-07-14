@@ -1,10 +1,10 @@
 {
-  "scrape_date": "2026-07-13",
+  "scrape_date": "2026-07-14",
   "data_month": "2026-07",
   "data_source": "https://www.ree.es/es/clientes/generador/acceso-conexion/conoce-el-estado-de-las-solicitudes",
   "note": "Data updated monthly by REE, as of end of previous month",
   "total_nodes": 688,
-  "total_data_points": 59388,
+  "total_data_points": 59052,
   "voltages": [
     400,
     220,
