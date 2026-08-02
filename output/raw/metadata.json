@@ -1,5 +1,5 @@
 {
-  "scrape_date": "2026-08-01",
+  "scrape_date": "2026-08-02",
   "data_month": "2026-08",
   "data_source": "https://www.ree.es/es/clientes/generador/acceso-conexion/conoce-el-estado-de-las-solicitudes",
   "note": "Data updated monthly by REE, as of end of previous month",
