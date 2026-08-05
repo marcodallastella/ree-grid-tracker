@@ -3535,18 +3535,6 @@
 6798.0,ADRALL 220,Cataluña,Lleida,Ribera d'Urgellet,220.0,42.323594300162,1.3949292511925,hidraulica,Puesta en servicio,RdT,,
 13316.0,SALLENTE 400,Cataluña,Lleida,"Torre de Cabdella, La",400.0,42.506886963159,0.99151728399778,bombeo,Puesta en servicio,RdD,,
 13316.0,SALLENTE 400,Cataluña,Lleida,"Torre de Cabdella, La",400.0,42.506886963159,0.99151728399778,bombeo,Puesta en servicio,RdT,446.0,439.84
-6800.0,ASCÓ 400,Cataluña,Tarragona,Ascó,400.0,41.204314983572,0.57100996725379,eolica,Con permisos,RdD,18.0,18.0
-6800.0,ASCÓ 400,Cataluña,Tarragona,Ascó,400.0,41.204314983572,0.57100996725379,eolica,Con permisos,RdT,484.0,736.0
-6800.0,ASCÓ 400,Cataluña,Tarragona,Ascó,400.0,41.204314983572,0.57100996725379,eolica,Puesta en servicio,RdD,65.08,65.08
-6800.0,ASCÓ 400,Cataluña,Tarragona,Ascó,400.0,41.204314983572,0.57100996725379,eolica,Puesta en servicio,RdT,,
-6800.0,ASCÓ 400,Cataluña,Tarragona,Ascó,400.0,41.204314983572,0.57100996725379,fotovoltaica,Con permisos,RdD,4.0,5.0
-6800.0,ASCÓ 400,Cataluña,Tarragona,Ascó,400.0,41.204314983572,0.57100996725379,fotovoltaica,Con permisos,RdT,64.0,199.0
-6800.0,ASCÓ 400,Cataluña,Tarragona,Ascó,400.0,41.204314983572,0.57100996725379,fotovoltaica,Puesta en servicio,RdD,15.58,15.58
-6800.0,ASCÓ 400,Cataluña,Tarragona,Ascó,400.0,41.204314983572,0.57100996725379,fotovoltaica,Puesta en servicio,RdT,,
-6800.0,ASCÓ 400,Cataluña,Tarragona,Ascó,400.0,41.204314983572,0.57100996725379,hidraulica,Puesta en servicio,RdD,52.52,52.52
-6800.0,ASCÓ 400,Cataluña,Tarragona,Ascó,400.0,41.204314983572,0.57100996725379,hidraulica,Puesta en servicio,RdT,,
-6800.0,ASCÓ 400,Cataluña,Tarragona,Ascó,400.0,41.204314983572,0.57100996725379,otras,Puesta en servicio,RdD,1.25,1.25
-6800.0,ASCÓ 400,Cataluña,Tarragona,Ascó,400.0,41.204314983572,0.57100996725379,otras,Puesta en servicio,RdT,1921.7,1987.5
 7376.0,ASCÓ 220,Cataluña,Tarragona,Ascó,220.0,41.204314983572,0.57100996725379,eolica,En curso,RdD,60.0,60.0
 7376.0,ASCÓ 220,Cataluña,Tarragona,Ascó,220.0,41.204314983572,0.57100996725379,eolica,En curso,RdT,,
 13378.0,LA CANONJA 220,Cataluña,Tarragona,"Canonja, La",220.0,41.108526733918,1.191780185099,almacenamiento,Con permisos,RdD,15.0,15.0
