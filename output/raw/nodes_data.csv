@@ -1097,6 +1097,30 @@ NODES,VANDELLOS 400,6842,VANDELLOS 400,400,40.976425589731,0.87887404310383,pote
 NODES,VANDELLOS 400,6842,VANDELLOS 400,400,40.976425589731,0.87887404310383,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,37.81
 NODES,VANDELLOS 400,6842,VANDELLOS 400,400,40.976425589731,0.87887404310383,potencia_instalada,otras,Otras tecnologías,Puesta en servicio,RdT,1879.44
 NODES,VANDELLOS 400,6842,VANDELLOS 400,400,40.976425589731,0.87887404310383,potencia_instalada,otras,Otras tecnologías,Puesta en servicio,RdD,15.58
+NODES,ASCÓ 400,6800,ASCÓ 400,400,41.204314983572,0.57100996725379,capacidad_acceso,eolica,Eólica,Con permisos,RdT,484
+NODES,ASCÓ 400,6800,ASCÓ 400,400,41.204314983572,0.57100996725379,capacidad_acceso,eolica,Eólica,Con permisos,RdD,18
+NODES,ASCÓ 400,6800,ASCÓ 400,400,41.204314983572,0.57100996725379,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdT,
+NODES,ASCÓ 400,6800,ASCÓ 400,400,41.204314983572,0.57100996725379,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdD,65.08
+NODES,ASCÓ 400,6800,ASCÓ 400,400,41.204314983572,0.57100996725379,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,64
+NODES,ASCÓ 400,6800,ASCÓ 400,400,41.204314983572,0.57100996725379,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,4
+NODES,ASCÓ 400,6800,ASCÓ 400,400,41.204314983572,0.57100996725379,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,
+NODES,ASCÓ 400,6800,ASCÓ 400,400,41.204314983572,0.57100996725379,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,15.58
+NODES,ASCÓ 400,6800,ASCÓ 400,400,41.204314983572,0.57100996725379,capacidad_acceso,hidraulica,Hidráulica,Puesta en servicio,RdT,
+NODES,ASCÓ 400,6800,ASCÓ 400,400,41.204314983572,0.57100996725379,capacidad_acceso,hidraulica,Hidráulica,Puesta en servicio,RdD,52.52
+NODES,ASCÓ 400,6800,ASCÓ 400,400,41.204314983572,0.57100996725379,capacidad_acceso,otras,Otras tecnologías,Puesta en servicio,RdT,1921.7
+NODES,ASCÓ 400,6800,ASCÓ 400,400,41.204314983572,0.57100996725379,capacidad_acceso,otras,Otras tecnologías,Puesta en servicio,RdD,1.25
+NODES,ASCÓ 400,6800,ASCÓ 400,400,41.204314983572,0.57100996725379,potencia_instalada,eolica,Eólica,Con permisos,RdT,736
+NODES,ASCÓ 400,6800,ASCÓ 400,400,41.204314983572,0.57100996725379,potencia_instalada,eolica,Eólica,Con permisos,RdD,18
+NODES,ASCÓ 400,6800,ASCÓ 400,400,41.204314983572,0.57100996725379,potencia_instalada,eolica,Eólica,Puesta en servicio,RdT,
+NODES,ASCÓ 400,6800,ASCÓ 400,400,41.204314983572,0.57100996725379,potencia_instalada,eolica,Eólica,Puesta en servicio,RdD,65.08
+NODES,ASCÓ 400,6800,ASCÓ 400,400,41.204314983572,0.57100996725379,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,199
+NODES,ASCÓ 400,6800,ASCÓ 400,400,41.204314983572,0.57100996725379,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,5
+NODES,ASCÓ 400,6800,ASCÓ 400,400,41.204314983572,0.57100996725379,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,
+NODES,ASCÓ 400,6800,ASCÓ 400,400,41.204314983572,0.57100996725379,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,15.58
+NODES,ASCÓ 400,6800,ASCÓ 400,400,41.204314983572,0.57100996725379,potencia_instalada,hidraulica,Hidráulica,Puesta en servicio,RdT,
+NODES,ASCÓ 400,6800,ASCÓ 400,400,41.204314983572,0.57100996725379,potencia_instalada,hidraulica,Hidráulica,Puesta en servicio,RdD,52.52
+NODES,ASCÓ 400,6800,ASCÓ 400,400,41.204314983572,0.57100996725379,potencia_instalada,otras,Otras tecnologías,Puesta en servicio,RdT,1987.5
+NODES,ASCÓ 400,6800,ASCÓ 400,400,41.204314983572,0.57100996725379,potencia_instalada,otras,Otras tecnologías,Puesta en servicio,RdD,1.25
 NODES,SALLENTE 400,13316,SALLENTE 400,400,42.506886963159,0.99151728399778,capacidad_acceso,bombeo,Bombeo,Puesta en servicio,RdT,446
 NODES,SALLENTE 400,13316,SALLENTE 400,400,42.506886963159,0.99151728399778,capacidad_acceso,bombeo,Bombeo,Puesta en servicio,RdD,
 NODES,SALLENTE 400,13316,SALLENTE 400,400,42.506886963159,0.99151728399778,potencia_instalada,bombeo,Bombeo,Puesta en servicio,RdT,439.84
