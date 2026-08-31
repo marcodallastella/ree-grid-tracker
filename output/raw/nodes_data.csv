@@ -1137,26 +1137,6 @@ NODES,PIEROLA 400,13057,PIEROLA 400,400,41.523074730177,1.8295831645803,potencia
 NODES,PIEROLA 400,13057,PIEROLA 400,400,41.523074730177,1.8295831645803,potencia_instalada,otras,Otras tecnologías,Con permisos,RdD,15
 NODES,PIEROLA 400,13057,PIEROLA 400,400,41.523074730177,1.8295831645803,potencia_instalada,otras,Otras tecnologías,Puesta en servicio,RdT,
 NODES,PIEROLA 400,13057,PIEROLA 400,400,41.523074730177,1.8295831645803,potencia_instalada,otras,Otras tecnologías,Puesta en servicio,RdD,144.37
-NODES,RUBI 400,13183,RUBI 400,400,41.473197888249,2.0096165531043,capacidad_acceso,eolica,Eólica,En curso,RdT,147
-NODES,RUBI 400,13183,RUBI 400,400,41.473197888249,2.0096165531043,capacidad_acceso,eolica,Eólica,En curso,RdD,
-NODES,RUBI 400,13183,RUBI 400,400,41.473197888249,2.0096165531043,capacidad_acceso,eolica,Eólica,Con permisos,RdT,49
-NODES,RUBI 400,13183,RUBI 400,400,41.473197888249,2.0096165531043,capacidad_acceso,eolica,Eólica,Con permisos,RdD,
-NODES,RUBI 400,13183,RUBI 400,400,41.473197888249,2.0096165531043,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdT,117.77
-NODES,RUBI 400,13183,RUBI 400,400,41.473197888249,2.0096165531043,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdD,
-NODES,RUBI 400,13183,RUBI 400,400,41.473197888249,2.0096165531043,capacidad_acceso,almacenamiento,Baterías,En curso,RdT,50
-NODES,RUBI 400,13183,RUBI 400,400,41.473197888249,2.0096165531043,capacidad_acceso,almacenamiento,Baterías,En curso,RdD,
-NODES,RUBI 400,13183,RUBI 400,400,41.473197888249,2.0096165531043,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdT,178
-NODES,RUBI 400,13183,RUBI 400,400,41.473197888249,2.0096165531043,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdD,
-NODES,RUBI 400,13183,RUBI 400,400,41.473197888249,2.0096165531043,potencia_instalada,eolica,Eólica,En curso,RdT,147
-NODES,RUBI 400,13183,RUBI 400,400,41.473197888249,2.0096165531043,potencia_instalada,eolica,Eólica,En curso,RdD,
-NODES,RUBI 400,13183,RUBI 400,400,41.473197888249,2.0096165531043,potencia_instalada,eolica,Eólica,Con permisos,RdT,49
-NODES,RUBI 400,13183,RUBI 400,400,41.473197888249,2.0096165531043,potencia_instalada,eolica,Eólica,Con permisos,RdD,
-NODES,RUBI 400,13183,RUBI 400,400,41.473197888249,2.0096165531043,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdT,123.33
-NODES,RUBI 400,13183,RUBI 400,400,41.473197888249,2.0096165531043,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdD,
-NODES,RUBI 400,13183,RUBI 400,400,41.473197888249,2.0096165531043,potencia_instalada,almacenamiento,Baterías,En curso,RdT,50
-NODES,RUBI 400,13183,RUBI 400,400,41.473197888249,2.0096165531043,potencia_instalada,almacenamiento,Baterías,En curso,RdD,
-NODES,RUBI 400,13183,RUBI 400,400,41.473197888249,2.0096165531043,potencia_instalada,almacenamiento,Baterías,Con permisos,RdT,178
-NODES,RUBI 400,13183,RUBI 400,400,41.473197888249,2.0096165531043,potencia_instalada,almacenamiento,Baterías,Con permisos,RdD,
 NODES,SANTA LLOGAIA 400,7214,SANTA LLOGAIA 400,400,42.230046240713,2.9467579489876,capacidad_acceso,eolica,Eólica,En curso,RdT,
 NODES,SANTA LLOGAIA 400,7214,SANTA LLOGAIA 400,400,42.230046240713,2.9467579489876,capacidad_acceso,eolica,Eólica,En curso,RdD,117.2
 NODES,SANTA LLOGAIA 400,7214,SANTA LLOGAIA 400,400,42.230046240713,2.9467579489876,capacidad_acceso,eolica,Eólica,Con permisos,RdT,
@@ -3569,6 +3549,32 @@ NODES,HIJAR 220,12831,HIJAR 220,220,41.172714054982,-0.41875109630797,potencia_i
 NODES,HIJAR 220,12831,HIJAR 220,220,41.172714054982,-0.41875109630797,potencia_instalada,hidraulica,Hidráulica,Puesta en servicio,RdD,6.5
 NODES,HIJAR 220,12831,HIJAR 220,220,41.172714054982,-0.41875109630797,potencia_instalada,otras,Otras tecnologías,Puesta en servicio,RdT,
 NODES,HIJAR 220,12831,HIJAR 220,220,41.172714054982,-0.41875109630797,potencia_instalada,otras,Otras tecnologías,Puesta en servicio,RdD,6.27
+NODES,JALON 220,12848,JALON 220,220,41.697426673151,-1.2880891216437,capacidad_acceso,eolica,Eólica,En curso,RdT,83.2
+NODES,JALON 220,12848,JALON 220,220,41.697426673151,-1.2880891216437,capacidad_acceso,eolica,Eólica,En curso,RdD,
+NODES,JALON 220,12848,JALON 220,220,41.697426673151,-1.2880891216437,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdT,188.62
+NODES,JALON 220,12848,JALON 220,220,41.697426673151,-1.2880891216437,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdD,
+NODES,JALON 220,12848,JALON 220,220,41.697426673151,-1.2880891216437,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdT,124.1
+NODES,JALON 220,12848,JALON 220,220,41.697426673151,-1.2880891216437,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdD,
+NODES,JALON 220,12848,JALON 220,220,41.697426673151,-1.2880891216437,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,13
+NODES,JALON 220,12848,JALON 220,220,41.697426673151,-1.2880891216437,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,
+NODES,JALON 220,12848,JALON 220,220,41.697426673151,-1.2880891216437,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,91.5
+NODES,JALON 220,12848,JALON 220,220,41.697426673151,-1.2880891216437,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,
+NODES,JALON 220,12848,JALON 220,220,41.697426673151,-1.2880891216437,capacidad_acceso,hibridacion,Hibridación,En curso,RdT,46
+NODES,JALON 220,12848,JALON 220,220,41.697426673151,-1.2880891216437,capacidad_acceso,hibridacion,Hibridación,En curso,RdD,
+NODES,JALON 220,12848,JALON 220,220,41.697426673151,-1.2880891216437,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdT,382.12
+NODES,JALON 220,12848,JALON 220,220,41.697426673151,-1.2880891216437,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdD,
+NODES,JALON 220,12848,JALON 220,220,41.697426673151,-1.2880891216437,potencia_instalada,eolica,Eólica,En curso,RdT,136
+NODES,JALON 220,12848,JALON 220,220,41.697426673151,-1.2880891216437,potencia_instalada,eolica,Eólica,En curso,RdD,
+NODES,JALON 220,12848,JALON 220,220,41.697426673151,-1.2880891216437,potencia_instalada,eolica,Eólica,Puesta en servicio,RdT,928.83
+NODES,JALON 220,12848,JALON 220,220,41.697426673151,-1.2880891216437,potencia_instalada,eolica,Eólica,Puesta en servicio,RdD,
+NODES,JALON 220,12848,JALON 220,220,41.697426673151,-1.2880891216437,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdT,165.87
+NODES,JALON 220,12848,JALON 220,220,41.697426673151,-1.2880891216437,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdD,
+NODES,JALON 220,12848,JALON 220,220,41.697426673151,-1.2880891216437,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,359
+NODES,JALON 220,12848,JALON 220,220,41.697426673151,-1.2880891216437,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,
+NODES,JALON 220,12848,JALON 220,220,41.697426673151,-1.2880891216437,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,185.26
+NODES,JALON 220,12848,JALON 220,220,41.697426673151,-1.2880891216437,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,
+NODES,JALON 220,12848,JALON 220,220,41.697426673151,-1.2880891216437,potencia_instalada,almacenamiento,Baterías,Con permisos,RdT,56
+NODES,JALON 220,12848,JALON 220,220,41.697426673151,-1.2880891216437,potencia_instalada,almacenamiento,Baterías,Con permisos,RdD,
 NODES,LA FORTUNADA 220,12872,LA FORTUNADA 220,220,42.542559311934,0.19668865483228,capacidad_acceso,hidraulica,Hidráulica,Puesta en servicio,RdT,83.4
 NODES,LA FORTUNADA 220,12872,LA FORTUNADA 220,220,42.542559311934,0.19668865483228,capacidad_acceso,hidraulica,Hidráulica,Puesta en servicio,RdD,111.8
 NODES,LA FORTUNADA 220,12872,LA FORTUNADA 220,220,42.542559311934,0.19668865483228,potencia_instalada,hidraulica,Hidráulica,Puesta en servicio,RdT,82.2

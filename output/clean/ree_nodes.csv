@@ -1197,6 +1197,22 @@
 12758.0,ENTRERRIOS 220,Aragón,Zaragoza,Pedrola,220.0,41.748530165626,-1.1867919904705,hidraulica,Puesta en servicio,RdT,,
 12758.0,ENTRERRIOS 220,Aragón,Zaragoza,Pedrola,220.0,41.748530165626,-1.1867919904705,otras,Puesta en servicio,RdD,0.5,0.5
 12758.0,ENTRERRIOS 220,Aragón,Zaragoza,Pedrola,220.0,41.748530165626,-1.1867919904705,otras,Puesta en servicio,RdT,,13.34
+12848.0,JALON 220,Aragón,Zaragoza,Plasencia de Jalón,220.0,41.697426673151,-1.2880891216437,almacenamiento,Con permisos,RdD,,
+12848.0,JALON 220,Aragón,Zaragoza,Plasencia de Jalón,220.0,41.697426673151,-1.2880891216437,almacenamiento,Con permisos,RdT,,56.0
+12848.0,JALON 220,Aragón,Zaragoza,Plasencia de Jalón,220.0,41.697426673151,-1.2880891216437,eolica,En curso,RdD,,
+12848.0,JALON 220,Aragón,Zaragoza,Plasencia de Jalón,220.0,41.697426673151,-1.2880891216437,eolica,En curso,RdT,83.2,136.0
+12848.0,JALON 220,Aragón,Zaragoza,Plasencia de Jalón,220.0,41.697426673151,-1.2880891216437,eolica,Puesta en servicio,RdD,,
+12848.0,JALON 220,Aragón,Zaragoza,Plasencia de Jalón,220.0,41.697426673151,-1.2880891216437,eolica,Puesta en servicio,RdT,188.62,928.83
+12848.0,JALON 220,Aragón,Zaragoza,Plasencia de Jalón,220.0,41.697426673151,-1.2880891216437,fotovoltaica,Con permisos,RdD,,
+12848.0,JALON 220,Aragón,Zaragoza,Plasencia de Jalón,220.0,41.697426673151,-1.2880891216437,fotovoltaica,Con permisos,RdT,13.0,359.0
+12848.0,JALON 220,Aragón,Zaragoza,Plasencia de Jalón,220.0,41.697426673151,-1.2880891216437,fotovoltaica,En curso,RdD,,
+12848.0,JALON 220,Aragón,Zaragoza,Plasencia de Jalón,220.0,41.697426673151,-1.2880891216437,fotovoltaica,En curso,RdT,124.1,165.87
+12848.0,JALON 220,Aragón,Zaragoza,Plasencia de Jalón,220.0,41.697426673151,-1.2880891216437,fotovoltaica,Puesta en servicio,RdD,,
+12848.0,JALON 220,Aragón,Zaragoza,Plasencia de Jalón,220.0,41.697426673151,-1.2880891216437,fotovoltaica,Puesta en servicio,RdT,91.5,185.26
+12848.0,JALON 220,Aragón,Zaragoza,Plasencia de Jalón,220.0,41.697426673151,-1.2880891216437,hibridacion,En curso,RdD,,
+12848.0,JALON 220,Aragón,Zaragoza,Plasencia de Jalón,220.0,41.697426673151,-1.2880891216437,hibridacion,En curso,RdT,46.0,
+12848.0,JALON 220,Aragón,Zaragoza,Plasencia de Jalón,220.0,41.697426673151,-1.2880891216437,hibridacion,Puesta en servicio,RdD,,
+12848.0,JALON 220,Aragón,Zaragoza,Plasencia de Jalón,220.0,41.697426673151,-1.2880891216437,hibridacion,Puesta en servicio,RdT,382.12,
 13185.0,RUEDA DE JALON 400,Aragón,Zaragoza,Rueda de Jalón,400.0,41.649812092467,-1.2965587754648,eolica,Con permisos,RdD,,
 13185.0,RUEDA DE JALON 400,Aragón,Zaragoza,Rueda de Jalón,400.0,41.649812092467,-1.2965587754648,eolica,Con permisos,RdT,66.0,66.0
 13185.0,RUEDA DE JALON 400,Aragón,Zaragoza,Rueda de Jalón,400.0,41.649812092467,-1.2965587754648,eolica,Puesta en servicio,RdD,,
@@ -3623,16 +3639,6 @@
 13182.0,RUBI 220,Cataluña,Barcelona,Rubí,220.0,41.473197888249,2.0096165531043,fotovoltaica,En curso,RdT,79.0,79.0
 13182.0,RUBI 220,Cataluña,Barcelona,Rubí,220.0,41.473197888249,2.0096165531043,otras,Puesta en servicio,RdD,11.51,11.51
 13182.0,RUBI 220,Cataluña,Barcelona,Rubí,220.0,41.473197888249,2.0096165531043,otras,Puesta en servicio,RdT,,
-13183.0,RUBI 400,Cataluña,Barcelona,Rubí,400.0,41.473197888249,2.0096165531043,almacenamiento,Con permisos,RdD,,
-13183.0,RUBI 400,Cataluña,Barcelona,Rubí,400.0,41.473197888249,2.0096165531043,almacenamiento,Con permisos,RdT,178.0,178.0
-13183.0,RUBI 400,Cataluña,Barcelona,Rubí,400.0,41.473197888249,2.0096165531043,almacenamiento,En curso,RdD,,
-13183.0,RUBI 400,Cataluña,Barcelona,Rubí,400.0,41.473197888249,2.0096165531043,almacenamiento,En curso,RdT,50.0,50.0
-13183.0,RUBI 400,Cataluña,Barcelona,Rubí,400.0,41.473197888249,2.0096165531043,eolica,Con permisos,RdD,,
-13183.0,RUBI 400,Cataluña,Barcelona,Rubí,400.0,41.473197888249,2.0096165531043,eolica,Con permisos,RdT,49.0,49.0
-13183.0,RUBI 400,Cataluña,Barcelona,Rubí,400.0,41.473197888249,2.0096165531043,eolica,En curso,RdD,,
-13183.0,RUBI 400,Cataluña,Barcelona,Rubí,400.0,41.473197888249,2.0096165531043,eolica,En curso,RdT,147.0,147.0
-13183.0,RUBI 400,Cataluña,Barcelona,Rubí,400.0,41.473197888249,2.0096165531043,fotovoltaica,En curso,RdD,,
-13183.0,RUBI 400,Cataluña,Barcelona,Rubí,400.0,41.473197888249,2.0096165531043,fotovoltaica,En curso,RdT,117.77,123.33
 6802.0,BESOS NUEVO 220,Cataluña,Barcelona,Sant Adrià de Besòs,220.0,41.420632652944,2.228847521141,otras,Puesta en servicio,RdD,35.98,35.98
 6802.0,BESOS NUEVO 220,Cataluña,Barcelona,Sant Adrià de Besòs,220.0,41.420632652944,2.228847521141,otras,Puesta en servicio,RdT,1647.67,2070.56
 6835.0,SANT BOI 220,Cataluña,Barcelona,Sant Boi de Llobregat,220.0,41.335532721899,2.0406148950548,almacenamiento,En curso,RdD,,1.2
