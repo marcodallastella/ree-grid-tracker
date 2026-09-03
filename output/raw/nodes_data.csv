@@ -1021,6 +1021,22 @@ NODES,CAN BARBA 400,6804,CAN BARBA 400,400,41.551919193106,8.0570598499206,poten
 NODES,CAN BARBA 400,6804,CAN BARBA 400,400,41.551919193106,8.0570598499206,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,14
 NODES,CAN BARBA 400,6804,CAN BARBA 400,400,41.551919193106,8.0570598499206,potencia_instalada,otras,Otras tecnologías,Puesta en servicio,RdT,
 NODES,CAN BARBA 400,6804,CAN BARBA 400,400,41.551919193106,8.0570598499206,potencia_instalada,otras,Otras tecnologías,Puesta en servicio,RdD,14.71
+NODES,GARRAF 400,12793,GARRAF 400,400,41.255044061917,7.7191396471946,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,25
+NODES,GARRAF 400,12793,GARRAF 400,400,41.255044061917,7.7191396471946,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,41
+NODES,GARRAF 400,12793,GARRAF 400,400,41.255044061917,7.7191396471946,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,
+NODES,GARRAF 400,12793,GARRAF 400,400,41.255044061917,7.7191396471946,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,4.95
+NODES,GARRAF 400,12793,GARRAF 400,400,41.255044061917,7.7191396471946,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdT,
+NODES,GARRAF 400,12793,GARRAF 400,400,41.255044061917,7.7191396471946,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdD,30
+NODES,GARRAF 400,12793,GARRAF 400,400,41.255044061917,7.7191396471946,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdT,
+NODES,GARRAF 400,12793,GARRAF 400,400,41.255044061917,7.7191396471946,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdD,13
+NODES,GARRAF 400,12793,GARRAF 400,400,41.255044061917,7.7191396471946,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,40
+NODES,GARRAF 400,12793,GARRAF 400,400,41.255044061917,7.7191396471946,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,46
+NODES,GARRAF 400,12793,GARRAF 400,400,41.255044061917,7.7191396471946,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,
+NODES,GARRAF 400,12793,GARRAF 400,400,41.255044061917,7.7191396471946,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,4.95
+NODES,GARRAF 400,12793,GARRAF 400,400,41.255044061917,7.7191396471946,potencia_instalada,almacenamiento,Baterías,Con permisos,RdT,
+NODES,GARRAF 400,12793,GARRAF 400,400,41.255044061917,7.7191396471946,potencia_instalada,almacenamiento,Baterías,Con permisos,RdD,30
+NODES,GARRAF 400,12793,GARRAF 400,400,41.255044061917,7.7191396471946,potencia_instalada,otras,Otras tecnologías,Con permisos,RdT,
+NODES,GARRAF 400,12793,GARRAF 400,400,41.255044061917,7.7191396471946,potencia_instalada,otras,Otras tecnologías,Con permisos,RdD,30
 NODES,PIEROLA 400,13057,PIEROLA 400,400,41.523076385706,7.8295785222327,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,
 NODES,PIEROLA 400,13057,PIEROLA 400,400,41.523076385706,7.8295785222327,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,63
 NODES,PIEROLA 400,13057,PIEROLA 400,400,41.523076385706,7.8295785222327,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,
