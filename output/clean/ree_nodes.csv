@@ -1411,46 +1411,8 @@
 13007.0,MURTERAR 220,Baleares,Illes Balears,Alcúdia,220.0,39.80926255852,3.0920589705038,almacenamiento,Con permisos,RdT,119.0,120.0
 13007.0,MURTERAR 220,Baleares,Illes Balears,Alcúdia,220.0,39.80926255852,3.0920589705038,otras,Puesta en servicio,RdD,,
 13007.0,MURTERAR 220,Baleares,Illes Balears,Alcúdia,220.0,39.80926255852,3.0920589705038,otras,Puesta en servicio,RdT,75.0,306.6
-13470.0,SAN MARTIN BALEARES 66,Baleares,Illes Balears,Alcúdia,66.0,39.813151309934,3.093942793102,almacenamiento,Con permisos,RdD,10.0,10.0
-13470.0,SAN MARTIN BALEARES 66,Baleares,Illes Balears,Alcúdia,66.0,39.813151309934,3.093942793102,almacenamiento,Con permisos,RdT,77.0,117.0
-13470.0,SAN MARTIN BALEARES 66,Baleares,Illes Balears,Alcúdia,66.0,39.813151309934,3.093942793102,fotovoltaica,Con permisos,RdD,,
-13470.0,SAN MARTIN BALEARES 66,Baleares,Illes Balears,Alcúdia,66.0,39.813151309934,3.093942793102,fotovoltaica,Con permisos,RdT,10.0,10.0
-13470.0,SAN MARTIN BALEARES 66,Baleares,Illes Balears,Alcúdia,66.0,39.813151309934,3.093942793102,fotovoltaica,Puesta en servicio,RdD,3.06,3.33
-13470.0,SAN MARTIN BALEARES 66,Baleares,Illes Balears,Alcúdia,66.0,39.813151309934,3.093942793102,fotovoltaica,Puesta en servicio,RdT,13.32,13.32
 7387.0,ANDRATX 66,Baleares,Illes Balears,Andratx,66.0,39.544405963771,2.4226338157241,almacenamiento,Con permisos,RdD,73.0,80.0
 7387.0,ANDRATX 66,Baleares,Illes Balears,Andratx,66.0,39.544405963771,2.4226338157241,almacenamiento,Con permisos,RdT,,
-7049.0,ARTA 66,Baleares,Illes Balears,Artà,66.0,39.681223596379,3.3430945291189,almacenamiento,Con permisos,RdD,3.0,8.0
-7049.0,ARTA 66,Baleares,Illes Balears,Artà,66.0,39.681223596379,3.3430945291189,almacenamiento,Con permisos,RdT,,
-7049.0,ARTA 66,Baleares,Illes Balears,Artà,66.0,39.681223596379,3.3430945291189,fotovoltaica,Con permisos,RdD,12.0,12.0
-7049.0,ARTA 66,Baleares,Illes Balears,Artà,66.0,39.681223596379,3.3430945291189,fotovoltaica,Con permisos,RdT,,
-7049.0,ARTA 66,Baleares,Illes Balears,Artà,66.0,39.681223596379,3.3430945291189,fotovoltaica,Puesta en servicio,RdD,13.86,14.53
-7049.0,ARTA 66,Baleares,Illes Balears,Artà,66.0,39.681223596379,3.3430945291189,fotovoltaica,Puesta en servicio,RdT,,
-7073.0,SES VELES 66,Baleares,Illes Balears,Bunyola,66.0,39.654745478404,2.6877428264799,fotovoltaica,Con permisos,RdD,21.0,21.0
-7073.0,SES VELES 66,Baleares,Illes Balears,Bunyola,66.0,39.654745478404,2.6877428264799,fotovoltaica,Con permisos,RdT,,
-7073.0,SES VELES 66,Baleares,Illes Balears,Bunyola,66.0,39.654745478404,2.6877428264799,fotovoltaica,Puesta en servicio,RdD,23.39,26.29
-7073.0,SES VELES 66,Baleares,Illes Balears,Bunyola,66.0,39.654745478404,2.6877428264799,fotovoltaica,Puesta en servicio,RdT,,
-13472.0,BUNYOLA 66,Baleares,Illes Balears,Bunyola,66.0,39.684392695296,2.7038899705151,almacenamiento,Con permisos,RdD,5.0,9.0
-13472.0,BUNYOLA 66,Baleares,Illes Balears,Bunyola,66.0,39.684392695296,2.7038899705151,almacenamiento,Con permisos,RdT,,
-13472.0,BUNYOLA 66,Baleares,Illes Balears,Bunyola,66.0,39.684392695296,2.7038899705151,fotovoltaica,Con permisos,RdD,9.0,20.0
-13472.0,BUNYOLA 66,Baleares,Illes Balears,Bunyola,66.0,39.684392695296,2.7038899705151,fotovoltaica,Con permisos,RdT,,
-13472.0,BUNYOLA 66,Baleares,Illes Balears,Bunyola,66.0,39.684392695296,2.7038899705151,fotovoltaica,Puesta en servicio,RdD,6.54,8.26
-13472.0,BUNYOLA 66,Baleares,Illes Balears,Bunyola,66.0,39.684392695296,2.7038899705151,fotovoltaica,Puesta en servicio,RdT,,
-13472.0,BUNYOLA 66,Baleares,Illes Balears,Bunyola,66.0,39.684392695296,2.7038899705151,hibridacion,Con permisos,RdD,8.0,
-13472.0,BUNYOLA 66,Baleares,Illes Balears,Bunyola,66.0,39.684392695296,2.7038899705151,hibridacion,Con permisos,RdT,,
-7054.0,CALVIA 66,Baleares,Illes Balears,Calvià,66.0,39.526600187245,2.5075635700539,almacenamiento,Con permisos,RdD,13.0,13.0
-7054.0,CALVIA 66,Baleares,Illes Balears,Calvià,66.0,39.526600187245,2.5075635700539,almacenamiento,Con permisos,RdT,,
-7054.0,CALVIA 66,Baleares,Illes Balears,Calvià,66.0,39.526600187245,2.5075635700539,fotovoltaica,Con permisos,RdD,5.0,5.0
-7054.0,CALVIA 66,Baleares,Illes Balears,Calvià,66.0,39.526600187245,2.5075635700539,fotovoltaica,Con permisos,RdT,,
-7054.0,CALVIA 66,Baleares,Illes Balears,Calvià,66.0,39.526600187245,2.5075635700539,fotovoltaica,Puesta en servicio,RdD,3.77,3.77
-7054.0,CALVIA 66,Baleares,Illes Balears,Calvià,66.0,39.526600187245,2.5075635700539,fotovoltaica,Puesta en servicio,RdT,,
-7366.0,CAPDEPERA 66,Baleares,Illes Balears,Capdepera,66.0,39.69768323369,3.4172876936817,almacenamiento,Con permisos,RdD,2.0,8.0
-7366.0,CAPDEPERA 66,Baleares,Illes Balears,Capdepera,66.0,39.69768323369,3.4172876936817,almacenamiento,Con permisos,RdT,,
-7366.0,CAPDEPERA 66,Baleares,Illes Balears,Capdepera,66.0,39.69768323369,3.4172876936817,fotovoltaica,Con permisos,RdD,7.0,15.0
-7366.0,CAPDEPERA 66,Baleares,Illes Balears,Capdepera,66.0,39.69768323369,3.4172876936817,fotovoltaica,Con permisos,RdT,,
-7366.0,CAPDEPERA 66,Baleares,Illes Balears,Capdepera,66.0,39.69768323369,3.4172876936817,fotovoltaica,Puesta en servicio,RdD,5.82,6.07
-7366.0,CAPDEPERA 66,Baleares,Illes Balears,Capdepera,66.0,39.69768323369,3.4172876936817,fotovoltaica,Puesta en servicio,RdT,,
-7366.0,CAPDEPERA 66,Baleares,Illes Balears,Capdepera,66.0,39.69768323369,3.4172876936817,hibridacion,Con permisos,RdD,7.0,
-7366.0,CAPDEPERA 66,Baleares,Illes Balears,Capdepera,66.0,39.69768323369,3.4172876936817,hibridacion,Con permisos,RdT,,
 12703.0,CIUDADELA 132,Baleares,Illes Balears,Ciutadella de Menorca,132.0,40.003248105826,3.8552966515793,almacenamiento,Con permisos,RdD,,1.0
 12703.0,CIUDADELA 132,Baleares,Illes Balears,Ciutadella de Menorca,132.0,40.003248105826,3.8552966515793,almacenamiento,Con permisos,RdT,,
 12703.0,CIUDADELA 132,Baleares,Illes Balears,Ciutadella de Menorca,132.0,40.003248105826,3.8552966515793,fotovoltaica,Con permisos,RdD,2.0,4.0
@@ -1461,72 +1423,6 @@
 12703.0,CIUDADELA 132,Baleares,Illes Balears,Ciutadella de Menorca,132.0,40.003248105826,3.8552966515793,hibridacion,Con permisos,RdT,,
 12838.0,IBIZA 132,Baleares,Illes Balears,Eivissa,132.0,38.919577798891,1.4305972197264,otras,Puesta en servicio,RdD,,
 12838.0,IBIZA 132,Baleares,Illes Balears,Eivissa,132.0,38.919577798891,1.4305972197264,otras,Puesta en servicio,RdT,122.0,119.0
-12839.0,IBIZA 23 66,Baleares,Illes Balears,Eivissa,66.0,38.918438900598,1.4308013523436,otras,Puesta en servicio,RdD,,
-12839.0,IBIZA 23 66,Baleares,Illes Balears,Eivissa,66.0,38.918438900598,1.4308013523436,otras,Puesta en servicio,RdT,25.0,21.1
-12840.0,IBIZA 66,Baleares,Illes Balears,Eivissa,66.0,38.919577798891,1.4305972197264,otras,Puesta en servicio,RdD,,
-12840.0,IBIZA 66,Baleares,Illes Balears,Eivissa,66.0,38.919577798891,1.4305972197264,otras,Puesta en servicio,RdT,167.8,145.5
-13474.0,PORTO COLOM 66,Baleares,Illes Balears,Felanitx,66.0,39.420872332329,3.2359540308726,almacenamiento,Con permisos,RdD,,1.0
-13474.0,PORTO COLOM 66,Baleares,Illes Balears,Felanitx,66.0,39.420872332329,3.2359540308726,almacenamiento,Con permisos,RdT,,
-13474.0,PORTO COLOM 66,Baleares,Illes Balears,Felanitx,66.0,39.420872332329,3.2359540308726,fotovoltaica,Con permisos,RdD,30.0,39.0
-13474.0,PORTO COLOM 66,Baleares,Illes Balears,Felanitx,66.0,39.420872332329,3.2359540308726,fotovoltaica,Con permisos,RdT,,
-13474.0,PORTO COLOM 66,Baleares,Illes Balears,Felanitx,66.0,39.420872332329,3.2359540308726,fotovoltaica,Puesta en servicio,RdD,0.99,0.99
-13474.0,PORTO COLOM 66,Baleares,Illes Balears,Felanitx,66.0,39.420872332329,3.2359540308726,fotovoltaica,Puesta en servicio,RdT,,
-13474.0,PORTO COLOM 66,Baleares,Illes Balears,Felanitx,66.0,39.420872332329,3.2359540308726,hibridacion,Con permisos,RdD,2.0,
-13474.0,PORTO COLOM 66,Baleares,Illes Balears,Felanitx,66.0,39.420872332329,3.2359540308726,hibridacion,Con permisos,RdT,,
-7070.0,SA VINYETA 66,Baleares,Illes Balears,Inca,66.0,39.709081816642,2.8977136956866,fotovoltaica,Con permisos,RdD,16.0,24.0
-7070.0,SA VINYETA 66,Baleares,Illes Balears,Inca,66.0,39.709081816642,2.8977136956866,fotovoltaica,Con permisos,RdT,,
-7070.0,SA VINYETA 66,Baleares,Illes Balears,Inca,66.0,39.709081816642,2.8977136956866,fotovoltaica,Puesta en servicio,RdD,23.35,25.42
-7070.0,SA VINYETA 66,Baleares,Illes Balears,Inca,66.0,39.709081816642,2.8977136956866,fotovoltaica,Puesta en servicio,RdT,,
-12843.0,INCA 66,Baleares,Illes Balears,Inca,66.0,39.714093291403,2.9176652091601,almacenamiento,Con permisos,RdD,6.0,6.0
-12843.0,INCA 66,Baleares,Illes Balears,Inca,66.0,39.714093291403,2.9176652091601,almacenamiento,Con permisos,RdT,,
-12843.0,INCA 66,Baleares,Illes Balears,Inca,66.0,39.714093291403,2.9176652091601,almacenamiento,En curso,RdD,,
-12843.0,INCA 66,Baleares,Illes Balears,Inca,66.0,39.714093291403,2.9176652091601,almacenamiento,En curso,RdT,18.0,18.0
-12843.0,INCA 66,Baleares,Illes Balears,Inca,66.0,39.714093291403,2.9176652091601,fotovoltaica,Con permisos,RdD,23.0,32.0
-12843.0,INCA 66,Baleares,Illes Balears,Inca,66.0,39.714093291403,2.9176652091601,fotovoltaica,Con permisos,RdT,21.0,21.0
-12843.0,INCA 66,Baleares,Illes Balears,Inca,66.0,39.714093291403,2.9176652091601,fotovoltaica,Puesta en servicio,RdD,1.72,3.79
-12843.0,INCA 66,Baleares,Illes Balears,Inca,66.0,39.714093291403,2.9176652091601,fotovoltaica,Puesta en servicio,RdT,,
-12843.0,INCA 66,Baleares,Illes Balears,Inca,66.0,39.714093291403,2.9176652091601,hibridacion,Puesta en servicio,RdD,1.17,
-12843.0,INCA 66,Baleares,Illes Balears,Inca,66.0,39.714093291403,2.9176652091601,hibridacion,Puesta en servicio,RdT,,
-7052.0,CALA BLAVA 66,Baleares,Illes Balears,Llucmajor,66.0,39.409410554076,2.8157276798333,almacenamiento,Con permisos,RdD,4.0,4.0
-7052.0,CALA BLAVA 66,Baleares,Illes Balears,Llucmajor,66.0,39.409410554076,2.8157276798333,almacenamiento,Con permisos,RdT,1.0,48.0
-7052.0,CALA BLAVA 66,Baleares,Illes Balears,Llucmajor,66.0,39.409410554076,2.8157276798333,fotovoltaica,Con permisos,RdD,21.0,21.0
-7052.0,CALA BLAVA 66,Baleares,Illes Balears,Llucmajor,66.0,39.409410554076,2.8157276798333,fotovoltaica,Con permisos,RdT,84.0,175.0
-7052.0,CALA BLAVA 66,Baleares,Illes Balears,Llucmajor,66.0,39.409410554076,2.8157276798333,fotovoltaica,Puesta en servicio,RdD,7.67,7.75
-7052.0,CALA BLAVA 66,Baleares,Illes Balears,Llucmajor,66.0,39.409410554076,2.8157276798333,fotovoltaica,Puesta en servicio,RdT,17.5,22.0
-7052.0,CALA BLAVA 66,Baleares,Illes Balears,Llucmajor,66.0,39.409410554076,2.8157276798333,hibridacion,Con permisos,RdD,,
-7052.0,CALA BLAVA 66,Baleares,Illes Balears,Llucmajor,66.0,39.409410554076,2.8157276798333,hibridacion,Con permisos,RdT,47.0,
-12911.0,LLUCMAJOR 66,Baleares,Illes Balears,Llucmajor,66.0,39.498127875187,2.9005169896544,fotovoltaica,Con permisos,RdD,27.0,30.0
-12911.0,LLUCMAJOR 66,Baleares,Illes Balears,Llucmajor,66.0,39.498127875187,2.9005169896544,fotovoltaica,Con permisos,RdT,,
-12911.0,LLUCMAJOR 66,Baleares,Illes Balears,Llucmajor,66.0,39.498127875187,2.9005169896544,fotovoltaica,Puesta en servicio,RdD,21.56,22.23
-12911.0,LLUCMAJOR 66,Baleares,Illes Balears,Llucmajor,66.0,39.498127875187,2.9005169896544,fotovoltaica,Puesta en servicio,RdT,,
-12941.0,MANACOR 66,Baleares,Illes Balears,Manacor,66.0,39.573553280945,3.190575675199,almacenamiento,Con permisos,RdD,,18.0
-12941.0,MANACOR 66,Baleares,Illes Balears,Manacor,66.0,39.573553280945,3.190575675199,almacenamiento,Con permisos,RdT,,
-12941.0,MANACOR 66,Baleares,Illes Balears,Manacor,66.0,39.573553280945,3.190575675199,almacenamiento,En curso,RdD,8.95,8.95
-12941.0,MANACOR 66,Baleares,Illes Balears,Manacor,66.0,39.573553280945,3.190575675199,almacenamiento,En curso,RdT,,
-12941.0,MANACOR 66,Baleares,Illes Balears,Manacor,66.0,39.573553280945,3.190575675199,fotovoltaica,Con permisos,RdD,11.0,55.0
-12941.0,MANACOR 66,Baleares,Illes Balears,Manacor,66.0,39.573553280945,3.190575675199,fotovoltaica,Con permisos,RdT,,
-12941.0,MANACOR 66,Baleares,Illes Balears,Manacor,66.0,39.573553280945,3.190575675199,fotovoltaica,En curso,RdD,8.0,8.0
-12941.0,MANACOR 66,Baleares,Illes Balears,Manacor,66.0,39.573553280945,3.190575675199,fotovoltaica,En curso,RdT,,
-12941.0,MANACOR 66,Baleares,Illes Balears,Manacor,66.0,39.573553280945,3.190575675199,fotovoltaica,Puesta en servicio,RdD,28.32,29.37
-12941.0,MANACOR 66,Baleares,Illes Balears,Manacor,66.0,39.573553280945,3.190575675199,fotovoltaica,Puesta en servicio,RdT,,
-12941.0,MANACOR 66,Baleares,Illes Balears,Manacor,66.0,39.573553280945,3.190575675199,hibridacion,Con permisos,RdD,34.0,
-12941.0,MANACOR 66,Baleares,Illes Balears,Manacor,66.0,39.573553280945,3.190575675199,hibridacion,Con permisos,RdT,,
-12941.0,MANACOR 66,Baleares,Illes Balears,Manacor,66.0,39.573553280945,3.190575675199,otras,Con permisos,RdD,1.0,1.0
-12941.0,MANACOR 66,Baleares,Illes Balears,Manacor,66.0,39.573553280945,3.190575675199,otras,Con permisos,RdT,,
-12941.0,MANACOR 66,Baleares,Illes Balears,Manacor,66.0,39.573553280945,3.190575675199,otras,Puesta en servicio,RdD,3.5,3.5
-12941.0,MANACOR 66,Baleares,Illes Balears,Manacor,66.0,39.573553280945,3.190575675199,otras,Puesta en servicio,RdT,,
-13477.0,MARRATXI 66,Baleares,Illes Balears,Marratxí,66.0,39.611750516792,2.7265899410732,almacenamiento,Con permisos,RdD,9.0,16.0
-13477.0,MARRATXI 66,Baleares,Illes Balears,Marratxí,66.0,39.611750516792,2.7265899410732,almacenamiento,Con permisos,RdT,,
-13477.0,MARRATXI 66,Baleares,Illes Balears,Marratxí,66.0,39.611750516792,2.7265899410732,almacenamiento,Puesta en servicio,RdD,,1.2
-13477.0,MARRATXI 66,Baleares,Illes Balears,Marratxí,66.0,39.611750516792,2.7265899410732,almacenamiento,Puesta en servicio,RdT,,
-13477.0,MARRATXI 66,Baleares,Illes Balears,Marratxí,66.0,39.611750516792,2.7265899410732,fotovoltaica,Con permisos,RdD,21.0,40.0
-13477.0,MARRATXI 66,Baleares,Illes Balears,Marratxí,66.0,39.611750516792,2.7265899410732,fotovoltaica,Con permisos,RdT,,
-13477.0,MARRATXI 66,Baleares,Illes Balears,Marratxí,66.0,39.611750516792,2.7265899410732,fotovoltaica,Puesta en servicio,RdD,,2.78
-13477.0,MARRATXI 66,Baleares,Illes Balears,Marratxí,66.0,39.611750516792,2.7265899410732,fotovoltaica,Puesta en servicio,RdT,,
-13477.0,MARRATXI 66,Baleares,Illes Balears,Marratxí,66.0,39.611750516792,2.7265899410732,hibridacion,Con permisos,RdD,14.0,
-13477.0,MARRATXI 66,Baleares,Illes Balears,Marratxí,66.0,39.611750516792,2.7265899410732,hibridacion,Con permisos,RdT,,
-13477.0,MARRATXI 66,Baleares,Illes Balears,Marratxí,66.0,39.611750516792,2.7265899410732,hibridacion,Puesta en servicio,RdD,2.54,
-13477.0,MARRATXI 66,Baleares,Illes Balears,Marratxí,66.0,39.611750516792,2.7265899410732,hibridacion,Puesta en servicio,RdT,,
 6797.0,ABRERA 220,Baleares,Illes Balears,Maó,220.0,41.507778901421,7.8940961328313,almacenamiento,En curso,RdD,8.95,8.95
 6797.0,ABRERA 220,Baleares,Illes Balears,Maó,220.0,41.507778901421,7.8940961328313,almacenamiento,En curso,RdT,,
 6797.0,ABRERA 220,Baleares,Illes Balears,Maó,220.0,41.507778901421,7.8940961328313,fotovoltaica,Con permisos,RdD,8.0,8.0
@@ -1937,146 +1833,30 @@
 12966.0,MERCADAL 132,Baleares,Illes Balears,"Mercadal, Es",132.0,39.977153839633,4.0957280587796,hibridacion,Con permisos,RdT,25.0,
 12966.0,MERCADAL 132,Baleares,Illes Balears,"Mercadal, Es",132.0,39.977153839633,4.0957280587796,hibridacion,Puesta en servicio,RdD,4.59,
 12966.0,MERCADAL 132,Baleares,Illes Balears,"Mercadal, Es",132.0,39.977153839633,4.0957280587796,hibridacion,Puesta en servicio,RdT,,
-7048.0,ARENAL 66,Baleares,Illes Balears,Palma,66.0,39.526458023209,2.7729298687174,almacenamiento,Con permisos,RdD,,4.0
-7048.0,ARENAL 66,Baleares,Illes Balears,Palma,66.0,39.526458023209,2.7729298687174,almacenamiento,Con permisos,RdT,,
-7048.0,ARENAL 66,Baleares,Illes Balears,Palma,66.0,39.526458023209,2.7729298687174,fotovoltaica,Con permisos,RdD,44.0,64.0
-7048.0,ARENAL 66,Baleares,Illes Balears,Palma,66.0,39.526458023209,2.7729298687174,fotovoltaica,Con permisos,RdT,,
-7048.0,ARENAL 66,Baleares,Illes Balears,Palma,66.0,39.526458023209,2.7729298687174,fotovoltaica,En curso,RdD,13.0,13.0
-7048.0,ARENAL 66,Baleares,Illes Balears,Palma,66.0,39.526458023209,2.7729298687174,fotovoltaica,En curso,RdT,,
-7048.0,ARENAL 66,Baleares,Illes Balears,Palma,66.0,39.526458023209,2.7729298687174,fotovoltaica,Puesta en servicio,RdD,8.5,8.5
-7048.0,ARENAL 66,Baleares,Illes Balears,Palma,66.0,39.526458023209,2.7729298687174,fotovoltaica,Puesta en servicio,RdT,,
-7048.0,ARENAL 66,Baleares,Illes Balears,Palma,66.0,39.526458023209,2.7729298687174,hibridacion,Con permisos,RdD,10.0,
-7048.0,ARENAL 66,Baleares,Illes Balears,Palma,66.0,39.526458023209,2.7729298687174,hibridacion,Con permisos,RdT,,
-7048.0,ARENAL 66,Baleares,Illes Balears,Palma,66.0,39.526458023209,2.7729298687174,otras,Con permisos,RdD,1.0,1.0
-7048.0,ARENAL 66,Baleares,Illes Balears,Palma,66.0,39.526458023209,2.7729298687174,otras,Con permisos,RdT,,
-7048.0,ARENAL 66,Baleares,Illes Balears,Palma,66.0,39.526458023209,2.7729298687174,otras,Puesta en servicio,RdD,5.13,5.13
-7048.0,ARENAL 66,Baleares,Illes Balears,Palma,66.0,39.526458023209,2.7729298687174,otras,Puesta en servicio,RdT,,
-7050.0,BIT 66,Baleares,Illes Balears,Palma,66.0,39.632981831387,2.6472211137523,almacenamiento,Con permisos,RdD,,6.0
-7050.0,BIT 66,Baleares,Illes Balears,Palma,66.0,39.632981831387,2.6472211137523,almacenamiento,Con permisos,RdT,,
-7050.0,BIT 66,Baleares,Illes Balears,Palma,66.0,39.632981831387,2.6472211137523,fotovoltaica,Con permisos,RdD,23.0,26.0
-7050.0,BIT 66,Baleares,Illes Balears,Palma,66.0,39.632981831387,2.6472211137523,fotovoltaica,Con permisos,RdT,,
-7050.0,BIT 66,Baleares,Illes Balears,Palma,66.0,39.632981831387,2.6472211137523,fotovoltaica,Puesta en servicio,RdD,,13.44
-7050.0,BIT 66,Baleares,Illes Balears,Palma,66.0,39.632981831387,2.6472211137523,fotovoltaica,Puesta en servicio,RdT,,
-7050.0,BIT 66,Baleares,Illes Balears,Palma,66.0,39.632981831387,2.6472211137523,hibridacion,Con permisos,RdD,16.0,
-7050.0,BIT 66,Baleares,Illes Balears,Palma,66.0,39.632981831387,2.6472211137523,hibridacion,Con permisos,RdT,,
-7050.0,BIT 66,Baleares,Illes Balears,Palma,66.0,39.632981831387,2.6472211137523,otras,Puesta en servicio,RdD,2.92,2.92
-7050.0,BIT 66,Baleares,Illes Balears,Palma,66.0,39.632981831387,2.6472211137523,otras,Puesta en servicio,RdT,,
 7056.0,CA'S TRESORER 220,Baleares,Illes Balears,Palma,220.0,39.566566359628,2.6873628697032,otras,Puesta en servicio,RdD,,
 7056.0,CA'S TRESORER 220,Baleares,Illes Balears,Palma,220.0,39.566566359628,2.6873628697032,otras,Puesta en servicio,RdT,436.87,429.0
 7074.0,SON REUS 220,Baleares,Illes Balears,Palma,220.0,39.650684424719,2.6787710088594,almacenamiento,Con permisos,RdD,,
 7074.0,SON REUS 220,Baleares,Illes Balears,Palma,220.0,39.650684424719,2.6787710088594,almacenamiento,Con permisos,RdT,36.0,61.0
 7074.0,SON REUS 220,Baleares,Illes Balears,Palma,220.0,39.650684424719,2.6787710088594,otras,Puesta en servicio,RdD,,
 7074.0,SON REUS 220,Baleares,Illes Balears,Palma,220.0,39.650684424719,2.6787710088594,otras,Puesta en servicio,RdT,612.3,528.7
-7075.0,SON REUS 66,Baleares,Illes Balears,Palma,66.0,39.650684424719,2.6787710088594,fotovoltaica,Puesta en servicio,RdD,,
-7075.0,SON REUS 66,Baleares,Illes Balears,Palma,66.0,39.650684424719,2.6787710088594,fotovoltaica,Puesta en servicio,RdT,34.65,39.97
-7075.0,SON REUS 66,Baleares,Illes Balears,Palma,66.0,39.650684424719,2.6787710088594,hibridacion,Puesta en servicio,RdD,,
-7075.0,SON REUS 66,Baleares,Illes Balears,Palma,66.0,39.650684424719,2.6787710088594,hibridacion,Puesta en servicio,RdT,34.1,
-7075.0,SON REUS 66,Baleares,Illes Balears,Palma,66.0,39.650684424719,2.6787710088594,otras,Puesta en servicio,RdD,,
-7075.0,SON REUS 66,Baleares,Illes Balears,Palma,66.0,39.650684424719,2.6787710088594,otras,Puesta en servicio,RdT,43.34,78.78
 7382.0,SON OMS 66,Baleares,Illes Balears,Palma,66.0,39.537415700383,2.7341736262787,almacenamiento,Con permisos,RdD,20.0,20.0
 7382.0,SON OMS 66,Baleares,Illes Balears,Palma,66.0,39.537415700383,2.7341736262787,almacenamiento,Con permisos,RdT,,
 7382.0,SON OMS 66,Baleares,Illes Balears,Palma,66.0,39.537415700383,2.7341736262787,fotovoltaica,Con permisos,RdD,10.0,10.0
 7382.0,SON OMS 66,Baleares,Illes Balears,Palma,66.0,39.537415700383,2.7341736262787,fotovoltaica,Con permisos,RdT,,
-12666.0,SON ORLANDIS 66,Baleares,Illes Balears,Palma,66.0,39.60024182194,2.7442304746631,almacenamiento,Con permisos,RdD,,
-12666.0,SON ORLANDIS 66,Baleares,Illes Balears,Palma,66.0,39.60024182194,2.7442304746631,almacenamiento,Con permisos,RdT,9.0,9.0
-12666.0,SON ORLANDIS 66,Baleares,Illes Balears,Palma,66.0,39.60024182194,2.7442304746631,almacenamiento,En curso,RdD,,
-12666.0,SON ORLANDIS 66,Baleares,Illes Balears,Palma,66.0,39.60024182194,2.7442304746631,almacenamiento,En curso,RdT,90.0,110.0
-12666.0,SON ORLANDIS 66,Baleares,Illes Balears,Palma,66.0,39.60024182194,2.7442304746631,fotovoltaica,Con permisos,RdD,,
-12666.0,SON ORLANDIS 66,Baleares,Illes Balears,Palma,66.0,39.60024182194,2.7442304746631,fotovoltaica,Con permisos,RdT,61.0,63.0
-12666.0,SON ORLANDIS 66,Baleares,Illes Balears,Palma,66.0,39.60024182194,2.7442304746631,fotovoltaica,En curso,RdD,,
-12666.0,SON ORLANDIS 66,Baleares,Illes Balears,Palma,66.0,39.60024182194,2.7442304746631,fotovoltaica,En curso,RdT,,1.06
-12666.0,SON ORLANDIS 66,Baleares,Illes Balears,Palma,66.0,39.60024182194,2.7442304746631,hibridacion,En curso,RdD,,
-12666.0,SON ORLANDIS 66,Baleares,Illes Balears,Palma,66.0,39.60024182194,2.7442304746631,hibridacion,En curso,RdT,20.0,
 12707.0,COLISEO 66,Baleares,Illes Balears,Palma,66.0,39.583792715978,2.654627293896,almacenamiento,Con permisos,RdD,27.0,29.0
 12707.0,COLISEO 66,Baleares,Illes Balears,Palma,66.0,39.583792715978,2.654627293896,almacenamiento,Con permisos,RdT,,
 12769.0,FALCA 66,Baleares,Illes Balears,Palma,66.0,39.581245669683,2.6395203168662,almacenamiento,Con permisos,RdD,10.0,10.0
 12769.0,FALCA 66,Baleares,Illes Balears,Palma,66.0,39.581245669683,2.6395203168662,almacenamiento,Con permisos,RdT,,
-12909.0,LLATZER 66,Baleares,Illes Balears,Palma,66.0,39.567094182372,2.6868278760019,almacenamiento,Con permisos,RdD,40.0,40.0
-12909.0,LLATZER 66,Baleares,Illes Balears,Palma,66.0,39.567094182372,2.6868278760019,almacenamiento,Con permisos,RdT,,
-12909.0,LLATZER 66,Baleares,Illes Balears,Palma,66.0,39.567094182372,2.6868278760019,fotovoltaica,Con permisos,RdD,21.0,27.0
-12909.0,LLATZER 66,Baleares,Illes Balears,Palma,66.0,39.567094182372,2.6868278760019,fotovoltaica,Con permisos,RdT,,
-12909.0,LLATZER 66,Baleares,Illes Balears,Palma,66.0,39.567094182372,2.6868278760019,otras,Puesta en servicio,RdD,3.35,3.35
-12909.0,LLATZER 66,Baleares,Illes Balears,Palma,66.0,39.567094182372,2.6868278760019,otras,Puesta en servicio,RdT,,
 12977.0,MOLINES 66,Baleares,Illes Balears,Palma,66.0,39.567727875693,2.674629101179,almacenamiento,Con permisos,RdD,59.0,59.0
 12977.0,MOLINES 66,Baleares,Illes Balears,Palma,66.0,39.567727875693,2.674629101179,almacenamiento,Con permisos,RdT,,
-13209.0,SAN JUAN BALEARES 66,Baleares,Illes Balears,Palma,66.0,39.547344554513,2.7016700550884,almacenamiento,Con permisos,RdD,39.0,49.0
-13209.0,SAN JUAN BALEARES 66,Baleares,Illes Balears,Palma,66.0,39.547344554513,2.7016700550884,almacenamiento,Con permisos,RdT,,
-13209.0,SAN JUAN BALEARES 66,Baleares,Illes Balears,Palma,66.0,39.547344554513,2.7016700550884,fotovoltaica,Con permisos,RdD,2.0,2.0
-13209.0,SAN JUAN BALEARES 66,Baleares,Illes Balears,Palma,66.0,39.547344554513,2.7016700550884,fotovoltaica,Con permisos,RdT,,
 13469.0,SAN AGUSTIN BALEARES 66,Baleares,Illes Balears,Palma,66.0,39.553724329121,2.5933886400999,almacenamiento,Con permisos,RdD,47.0,50.0
 13469.0,SAN AGUSTIN BALEARES 66,Baleares,Illes Balears,Palma,66.0,39.553724329121,2.5933886400999,almacenamiento,Con permisos,RdT,,
 13473.0,SANTA CATALINA 66,Baleares,Illes Balears,Palma,66.0,39.573343176951,2.6350295021139,almacenamiento,Con permisos,RdD,27.0,29.0
 13473.0,SANTA CATALINA 66,Baleares,Illes Balears,Palma,66.0,39.573343176951,2.6350295021139,almacenamiento,Con permisos,RdT,,
 13478.0,NUREDDUNA 66,Baleares,Illes Balears,Palma,66.0,39.572213659061,2.658379451647,almacenamiento,Con permisos,RdD,17.0,18.0
 13478.0,NUREDDUNA 66,Baleares,Illes Balears,Palma,66.0,39.572213659061,2.658379451647,almacenamiento,Con permisos,RdT,,
-13480.0,POLIGONO BALEARES 66,Baleares,Illes Balears,Palma,66.0,39.608369225394,2.6592312594088,almacenamiento,Con permisos,RdD,3.0,9.0
-13480.0,POLIGONO BALEARES 66,Baleares,Illes Balears,Palma,66.0,39.608369225394,2.6592312594088,almacenamiento,Con permisos,RdT,,
-13480.0,POLIGONO BALEARES 66,Baleares,Illes Balears,Palma,66.0,39.608369225394,2.6592312594088,almacenamiento,Puesta en servicio,RdD,,3.99
-13480.0,POLIGONO BALEARES 66,Baleares,Illes Balears,Palma,66.0,39.608369225394,2.6592312594088,almacenamiento,Puesta en servicio,RdT,,
-13480.0,POLIGONO BALEARES 66,Baleares,Illes Balears,Palma,66.0,39.608369225394,2.6592312594088,fotovoltaica,Con permisos,RdD,17.0,37.0
-13480.0,POLIGONO BALEARES 66,Baleares,Illes Balears,Palma,66.0,39.608369225394,2.6592312594088,fotovoltaica,Con permisos,RdT,,
-13480.0,POLIGONO BALEARES 66,Baleares,Illes Balears,Palma,66.0,39.608369225394,2.6592312594088,fotovoltaica,Puesta en servicio,RdD,,7.7
-13480.0,POLIGONO BALEARES 66,Baleares,Illes Balears,Palma,66.0,39.608369225394,2.6592312594088,fotovoltaica,Puesta en servicio,RdT,,
-13480.0,POLIGONO BALEARES 66,Baleares,Illes Balears,Palma,66.0,39.608369225394,2.6592312594088,hibridacion,Con permisos,RdD,9.0,
-13480.0,POLIGONO BALEARES 66,Baleares,Illes Balears,Palma,66.0,39.608369225394,2.6592312594088,hibridacion,Con permisos,RdT,,
-13480.0,POLIGONO BALEARES 66,Baleares,Illes Balears,Palma,66.0,39.608369225394,2.6592312594088,hibridacion,Puesta en servicio,RdD,7.0,
-13480.0,POLIGONO BALEARES 66,Baleares,Illes Balears,Palma,66.0,39.608369225394,2.6592312594088,hibridacion,Puesta en servicio,RdT,,
-13482.0,RAFAL 66,Baleares,Illes Balears,Palma,66.0,39.591401042558,2.6325138766105,almacenamiento,Con permisos,RdD,20.0,20.0
-13482.0,RAFAL 66,Baleares,Illes Balears,Palma,66.0,39.591401042558,2.6325138766105,almacenamiento,Con permisos,RdT,,
-13482.0,RAFAL 66,Baleares,Illes Balears,Palma,66.0,39.591401042558,2.6325138766105,fotovoltaica,Con permisos,RdD,1.0,4.0
-13482.0,RAFAL 66,Baleares,Illes Balears,Palma,66.0,39.591401042558,2.6325138766105,fotovoltaica,Con permisos,RdT,,
-13482.0,RAFAL 66,Baleares,Illes Balears,Palma,66.0,39.591401042558,2.6325138766105,hibridacion,Con permisos,RdD,2.0,
-13482.0,RAFAL 66,Baleares,Illes Balears,Palma,66.0,39.591401042558,2.6325138766105,hibridacion,Con permisos,RdT,,
-7069.0,SA POBLA 66,Baleares,Illes Balears,"Pobla, Sa",66.0,39.763602719666,3.0317986639241,almacenamiento,Con permisos,RdD,9.0,9.0
-7069.0,SA POBLA 66,Baleares,Illes Balears,"Pobla, Sa",66.0,39.763602719666,3.0317986639241,almacenamiento,Con permisos,RdT,,
-7069.0,SA POBLA 66,Baleares,Illes Balears,"Pobla, Sa",66.0,39.763602719666,3.0317986639241,fotovoltaica,Con permisos,RdD,40.0,52.0
-7069.0,SA POBLA 66,Baleares,Illes Balears,"Pobla, Sa",66.0,39.763602719666,3.0317986639241,fotovoltaica,Con permisos,RdT,,
-7069.0,SA POBLA 66,Baleares,Illes Balears,"Pobla, Sa",66.0,39.763602719666,3.0317986639241,fotovoltaica,Puesta en servicio,RdD,3.6,3.6
-7069.0,SA POBLA 66,Baleares,Illes Balears,"Pobla, Sa",66.0,39.763602719666,3.0317986639241,fotovoltaica,Puesta en servicio,RdT,,
 13481.0,POLLENSA 66,Baleares,Illes Balears,Pollença,66.0,39.884387138878,3.0562771083161,almacenamiento,Con permisos,RdD,40.0,53.0
 13481.0,POLLENSA 66,Baleares,Illes Balears,Pollença,66.0,39.884387138878,3.0562771083161,almacenamiento,Con permisos,RdT,,
-7381.0,SANTA EULALIA 66,Baleares,Illes Balears,Sant Joan de Labritja,66.0,39.006337590508,1.4903347170279,fotovoltaica,Puesta en servicio,RdD,2.48,2.5
-7381.0,SANTA EULALIA 66,Baleares,Illes Balears,Sant Joan de Labritja,66.0,39.006337590508,1.4903347170279,fotovoltaica,Puesta en servicio,RdT,,
-13467.0,SAN JORGE 66,Baleares,Illes Balears,Sant Josep de sa Talaia,66.0,38.904588391372,1.3781841087993,almacenamiento,Con permisos,RdD,7.0,7.0
-13467.0,SAN JORGE 66,Baleares,Illes Balears,Sant Josep de sa Talaia,66.0,38.904588391372,1.3781841087993,almacenamiento,Con permisos,RdT,,
-13467.0,SAN JORGE 66,Baleares,Illes Balears,Sant Josep de sa Talaia,66.0,38.904588391372,1.3781841087993,fotovoltaica,Puesta en servicio,RdD,1.9,1.9
-13467.0,SAN JORGE 66,Baleares,Illes Balears,Sant Josep de sa Talaia,66.0,38.904588391372,1.3781841087993,fotovoltaica,Puesta en servicio,RdT,,
-7053.0,CALA MILLOR 66,Baleares,Illes Balears,Sant Llorenç des Cardassar,66.0,39.583192216511,3.3632980380662,almacenamiento,Con permisos,RdD,1.0,4.0
-7053.0,CALA MILLOR 66,Baleares,Illes Balears,Sant Llorenç des Cardassar,66.0,39.583192216511,3.3632980380662,almacenamiento,Con permisos,RdT,,
-7053.0,CALA MILLOR 66,Baleares,Illes Balears,Sant Llorenç des Cardassar,66.0,39.583192216511,3.3632980380662,almacenamiento,Puesta en servicio,RdD,,2.24
-7053.0,CALA MILLOR 66,Baleares,Illes Balears,Sant Llorenç des Cardassar,66.0,39.583192216511,3.3632980380662,almacenamiento,Puesta en servicio,RdT,,
-7053.0,CALA MILLOR 66,Baleares,Illes Balears,Sant Llorenç des Cardassar,66.0,39.583192216511,3.3632980380662,fotovoltaica,Con permisos,RdD,35.0,47.0
-7053.0,CALA MILLOR 66,Baleares,Illes Balears,Sant Llorenç des Cardassar,66.0,39.583192216511,3.3632980380662,fotovoltaica,Con permisos,RdT,,
-7053.0,CALA MILLOR 66,Baleares,Illes Balears,Sant Llorenç des Cardassar,66.0,39.583192216511,3.3632980380662,fotovoltaica,Puesta en servicio,RdD,18.23,22.81
-7053.0,CALA MILLOR 66,Baleares,Illes Balears,Sant Llorenç des Cardassar,66.0,39.583192216511,3.3632980380662,fotovoltaica,Puesta en servicio,RdT,,
-7053.0,CALA MILLOR 66,Baleares,Illes Balears,Sant Llorenç des Cardassar,66.0,39.583192216511,3.3632980380662,hibridacion,Puesta en servicio,RdD,3.97,
-7053.0,CALA MILLOR 66,Baleares,Illes Balears,Sant Llorenç des Cardassar,66.0,39.583192216511,3.3632980380662,hibridacion,Puesta en servicio,RdT,,
-13468.0,TORRENT 66,Baleares,Illes Balears,Santa Eulària des Riu,66.0,38.935837114709,1.4327174149444,fotovoltaica,Puesta en servicio,RdD,3.08,3.28
-13468.0,TORRENT 66,Baleares,Illes Balears,Santa Eulària des Riu,66.0,38.935837114709,1.4327174149444,fotovoltaica,Puesta en servicio,RdT,,
-13468.0,TORRENT 66,Baleares,Illes Balears,Santa Eulària des Riu,66.0,38.935837114709,1.4327174149444,otras,Puesta en servicio,RdD,1.8,1.8
-13468.0,TORRENT 66,Baleares,Illes Balears,Santa Eulària des Riu,66.0,38.935837114709,1.4327174149444,otras,Puesta en servicio,RdT,,
-7055.0,CAN PICAFORT 66,Baleares,Illes Balears,Santa Margalida,66.0,39.747341164881,3.156008160349,almacenamiento,Con permisos,RdD,,2.0
-7055.0,CAN PICAFORT 66,Baleares,Illes Balears,Santa Margalida,66.0,39.747341164881,3.156008160349,almacenamiento,Con permisos,RdT,,
-7055.0,CAN PICAFORT 66,Baleares,Illes Balears,Santa Margalida,66.0,39.747341164881,3.156008160349,fotovoltaica,Con permisos,RdD,17.0,25.0
-7055.0,CAN PICAFORT 66,Baleares,Illes Balears,Santa Margalida,66.0,39.747341164881,3.156008160349,fotovoltaica,Con permisos,RdT,,
-7055.0,CAN PICAFORT 66,Baleares,Illes Balears,Santa Margalida,66.0,39.747341164881,3.156008160349,fotovoltaica,Puesta en servicio,RdD,29.63,30.7
-7055.0,CAN PICAFORT 66,Baleares,Illes Balears,Santa Margalida,66.0,39.747341164881,3.156008160349,fotovoltaica,Puesta en servicio,RdT,,
-7055.0,CAN PICAFORT 66,Baleares,Illes Balears,Santa Margalida,66.0,39.747341164881,3.156008160349,hibridacion,Con permisos,RdD,5.0,
-7055.0,CAN PICAFORT 66,Baleares,Illes Balears,Santa Margalida,66.0,39.747341164881,3.156008160349,hibridacion,Con permisos,RdT,,
-7385.0,SANTA MARIA 66,Baleares,Illes Balears,Santa María del Camí,66.0,39.653157332278,2.8059559733917,almacenamiento,Con permisos,RdD,4.0,8.0
-7385.0,SANTA MARIA 66,Baleares,Illes Balears,Santa María del Camí,66.0,39.653157332278,2.8059559733917,almacenamiento,Con permisos,RdT,36.0,42.0
-7385.0,SANTA MARIA 66,Baleares,Illes Balears,Santa María del Camí,66.0,39.653157332278,2.8059559733917,fotovoltaica,Con permisos,RdD,7.0,19.0
-7385.0,SANTA MARIA 66,Baleares,Illes Balears,Santa María del Camí,66.0,39.653157332278,2.8059559733917,fotovoltaica,Con permisos,RdT,,
-7385.0,SANTA MARIA 66,Baleares,Illes Balears,Santa María del Camí,66.0,39.653157332278,2.8059559733917,fotovoltaica,Puesta en servicio,RdD,5.67,7.29
-7385.0,SANTA MARIA 66,Baleares,Illes Balears,Santa María del Camí,66.0,39.653157332278,2.8059559733917,fotovoltaica,Puesta en servicio,RdT,,
-7385.0,SANTA MARIA 66,Baleares,Illes Balears,Santa María del Camí,66.0,39.653157332278,2.8059559733917,hibridacion,Con permisos,RdD,4.0,
-7385.0,SANTA MARIA 66,Baleares,Illes Balears,Santa María del Camí,66.0,39.653157332278,2.8059559733917,hibridacion,Con permisos,RdT,,
-7385.0,SANTA MARIA 66,Baleares,Illes Balears,Santa María del Camí,66.0,39.653157332278,2.8059559733917,hibridacion,Puesta en servicio,RdD,1.22,
-7385.0,SANTA MARIA 66,Baleares,Illes Balears,Santa María del Camí,66.0,39.653157332278,2.8059559733917,hibridacion,Puesta en servicio,RdT,,
-7072.0,SANTANYI 66,Baleares,Illes Balears,Santanyí,66.0,39.366977531569,3.1175014874416,fotovoltaica,Con permisos,RdD,30.0,35.0
-7072.0,SANTANYI 66,Baleares,Illes Balears,Santanyí,66.0,39.366977531569,3.1175014874416,fotovoltaica,Con permisos,RdT,,
-7072.0,SANTANYI 66,Baleares,Illes Balears,Santanyí,66.0,39.366977531569,3.1175014874416,fotovoltaica,Puesta en servicio,RdD,17.45,17.98
-7072.0,SANTANYI 66,Baleares,Illes Balears,Santanyí,66.0,39.366977531569,3.1175014874416,fotovoltaica,Puesta en servicio,RdT,,
 7078.0,AGÜIMES 66,Canarias,Las Palmas,Agüimes,66.0,27.88831220549,-15.449772932241,almacenamiento,Con permisos,RdD,,
 7078.0,AGÜIMES 66,Canarias,Las Palmas,Agüimes,66.0,27.88831220549,-15.449772932241,almacenamiento,Con permisos,RdT,,6.0
 7078.0,AGÜIMES 66,Canarias,Las Palmas,Agüimes,66.0,27.88831220549,-15.449772932241,eolica,Con permisos,RdD,,
@@ -2157,14 +1937,6 @@
 12886.0,LA PATERNA 66,Canarias,Las Palmas,"Palmas de Gran Canaria, Las",66.0,28.090841448719,-15.453882372282,fotovoltaica,Puesta en servicio,RdT,,
 13004.0,MUELLE GRANDE 66,Canarias,Las Palmas,"Palmas de Gran Canaria, Las",66.0,28.152957978985,-15.417413057995,almacenamiento,Con permisos,RdD,30.0,30.0
 13004.0,MUELLE GRANDE 66,Canarias,Las Palmas,"Palmas de Gran Canaria, Las",66.0,28.152957978985,-15.417413057995,almacenamiento,Con permisos,RdT,,
-13442.0,BARRANCO SECO 66,Canarias,Las Palmas,"Palmas de Gran Canaria, Las",66.0,28.073434101061,-15.440239087472,almacenamiento,Con permisos,RdD,28.0,35.0
-13442.0,BARRANCO SECO 66,Canarias,Las Palmas,"Palmas de Gran Canaria, Las",66.0,28.073434101061,-15.440239087472,almacenamiento,Con permisos,RdT,,
-13442.0,BARRANCO SECO 66,Canarias,Las Palmas,"Palmas de Gran Canaria, Las",66.0,28.073434101061,-15.440239087472,fotovoltaica,Con permisos,RdD,4.0,4.0
-13442.0,BARRANCO SECO 66,Canarias,Las Palmas,"Palmas de Gran Canaria, Las",66.0,28.073434101061,-15.440239087472,fotovoltaica,Con permisos,RdT,,
-13443.0,BUENAVISTA GC 66,Canarias,Las Palmas,"Palmas de Gran Canaria, Las",66.0,28.122055928464,-15.437280181757,almacenamiento,Con permisos,RdD,47.0,49.0
-13443.0,BUENAVISTA GC 66,Canarias,Las Palmas,"Palmas de Gran Canaria, Las",66.0,28.122055928464,-15.437280181757,almacenamiento,Con permisos,RdT,,
-13443.0,BUENAVISTA GC 66,Canarias,Las Palmas,"Palmas de Gran Canaria, Las",66.0,28.122055928464,-15.437280181757,fotovoltaica,Con permisos,RdD,1.0,1.0
-13443.0,BUENAVISTA GC 66,Canarias,Las Palmas,"Palmas de Gran Canaria, Las",66.0,28.122055928464,-15.437280181757,fotovoltaica,Con permisos,RdT,,
 13445.0,LAS PALMAS OESTE 66,Canarias,Las Palmas,"Palmas de Gran Canaria, Las",66.0,28.102485401715,-15.494141706264,fotovoltaica,Con permisos,RdD,1.0,1.0
 13445.0,LAS PALMAS OESTE 66,Canarias,Las Palmas,"Palmas de Gran Canaria, Las",66.0,28.102485401715,-15.494141706264,fotovoltaica,Con permisos,RdT,,
 13446.0,LOMO APOLINARIO 66,Canarias,Las Palmas,"Palmas de Gran Canaria, Las",66.0,28.093803251725,-15.439217918285,almacenamiento,Con permisos,RdD,34.0,40.0
@@ -2241,8 +2013,6 @@
 13449.0,SAN AGUSTIN GC 66,Canarias,Las Palmas,San Bartolomé de Tirajana,66.0,27.768052758586,-15.554175524093,eolica,Con permisos,RdT,,
 13449.0,SAN AGUSTIN GC 66,Canarias,Las Palmas,San Bartolomé de Tirajana,66.0,27.768052758586,-15.554175524093,fotovoltaica,Con permisos,RdD,37.0,37.0
 13449.0,SAN AGUSTIN GC 66,Canarias,Las Palmas,San Bartolomé de Tirajana,66.0,27.768052758586,-15.554175524093,fotovoltaica,Con permisos,RdT,,
-13451.0,BARRANCO TIRAJANA 66,Canarias,Las Palmas,San Bartolomé de Tirajana,66.0,27.806469794917,-15.438574023138,otras,Puesta en servicio,RdD,,
-13451.0,BARRANCO TIRAJANA 66,Canarias,Las Palmas,San Bartolomé de Tirajana,66.0,27.806469794917,-15.438574023138,otras,Puesta en servicio,RdT,37.5,32.34
 7080.0,ALDEA BLANCA 66,Canarias,Las Palmas,Santa Lucía de Tirajana,66.0,27.849011753262,-15.477928431361,almacenamiento,Con permisos,RdD,,
 7080.0,ALDEA BLANCA 66,Canarias,Las Palmas,Santa Lucía de Tirajana,66.0,27.849011753262,-15.477928431361,almacenamiento,Con permisos,RdT,,14.0
 7080.0,ALDEA BLANCA 66,Canarias,Las Palmas,Santa Lucía de Tirajana,66.0,27.849011753262,-15.477928431361,eolica,Con permisos,RdD,,
@@ -2381,10 +2151,6 @@
 12694.0,CHAYOFA 66,Canarias,Santa Cruz De Tenerife,Arona,66.0,28.070280676362,-16.69898433287,fotovoltaica,Con permisos,RdT,,
 12694.0,CHAYOFA 66,Canarias,Santa Cruz De Tenerife,Arona,66.0,28.070280676362,-16.69898433287,otras,Puesta en servicio,RdD,2.22,2.22
 12694.0,CHAYOFA 66,Canarias,Santa Cruz De Tenerife,Arona,66.0,28.070280676362,-16.69898433287,otras,Puesta en servicio,RdT,,
-7092.0,CANDELARIA 66,Canarias,Santa Cruz De Tenerife,Candelaria,66.0,28.381889672813,-16.358183193219,almacenamiento,Con permisos,RdD,,
-7092.0,CANDELARIA 66,Canarias,Santa Cruz De Tenerife,Candelaria,66.0,28.381889672813,-16.358183193219,almacenamiento,Con permisos,RdT,50.0,50.0
-7092.0,CANDELARIA 66,Canarias,Santa Cruz De Tenerife,Candelaria,66.0,28.381889672813,-16.358183193219,otras,Puesta en servicio,RdD,,
-7092.0,CANDELARIA 66,Canarias,Santa Cruz De Tenerife,Candelaria,66.0,28.381889672813,-16.358183193219,otras,Puesta en servicio,RdT,208.2,179.47
 7076.0,ABONA 220,Canarias,Santa Cruz De Tenerife,Granadilla de Abona,220.0,28.079109586248,-16.502214071242,eolica,Con permisos,RdD,,
 7076.0,ABONA 220,Canarias,Santa Cruz De Tenerife,Granadilla de Abona,220.0,28.079109586248,-16.502214071242,eolica,Con permisos,RdT,65.0,69.0
 7076.0,ABONA 220,Canarias,Santa Cruz De Tenerife,Granadilla de Abona,220.0,28.079109586248,-16.502214071242,otras,En curso,RdD,,
@@ -2419,12 +2185,6 @@
 13074.0,POLIGONO GRANADILLA 66,Canarias,Santa Cruz De Tenerife,Granadilla de Abona,66.0,28.080913522236,-16.499335936045,otras,Con permisos,RdT,,
 13074.0,POLIGONO GRANADILLA 66,Canarias,Santa Cruz De Tenerife,Granadilla de Abona,66.0,28.080913522236,-16.499335936045,otras,Puesta en servicio,RdD,1.27,1.27
 13074.0,POLIGONO GRANADILLA 66,Canarias,Santa Cruz De Tenerife,Granadilla de Abona,66.0,28.080913522236,-16.499335936045,otras,Puesta en servicio,RdT,,
-13462.0,SAN ISIDRO 66,Canarias,Santa Cruz De Tenerife,Granadilla de Abona,66.0,28.078380741285,-16.551267249588,eolica,En curso,RdD,,
-13462.0,SAN ISIDRO 66,Canarias,Santa Cruz De Tenerife,Granadilla de Abona,66.0,28.078380741285,-16.551267249588,eolica,En curso,RdT,8.4,8.4
-13462.0,SAN ISIDRO 66,Canarias,Santa Cruz De Tenerife,Granadilla de Abona,66.0,28.078380741285,-16.551267249588,fotovoltaica,Con permisos,RdD,,
-13462.0,SAN ISIDRO 66,Canarias,Santa Cruz De Tenerife,Granadilla de Abona,66.0,28.078380741285,-16.551267249588,fotovoltaica,Con permisos,RdT,32.0,38.0
-13462.0,SAN ISIDRO 66,Canarias,Santa Cruz De Tenerife,Granadilla de Abona,66.0,28.078380741285,-16.551267249588,fotovoltaica,En curso,RdD,,
-13462.0,SAN ISIDRO 66,Canarias,Santa Cruz De Tenerife,Granadilla de Abona,66.0,28.078380741285,-16.551267249588,fotovoltaica,En curso,RdT,7.0,8.0
 12816.0,GUIA DE ISORA 66,Canarias,Santa Cruz De Tenerife,Guía de Isora,66.0,28.222794233775,-16.804390823841,almacenamiento,Con permisos,RdD,,
 12816.0,GUIA DE ISORA 66,Canarias,Santa Cruz De Tenerife,Guía de Isora,66.0,28.222794233775,-16.804390823841,almacenamiento,Con permisos,RdT,47.0,73.0
 12816.0,GUIA DE ISORA 66,Canarias,Santa Cruz De Tenerife,Guía de Isora,66.0,28.222794233775,-16.804390823841,eolica,Puesta en servicio,RdD,1.8,1.8
@@ -2465,10 +2225,6 @@
 13458.0,MANUEL CRUZ 66,Canarias,Santa Cruz De Tenerife,Santa Cruz de Tenerife,66.0,28.469141044334,-16.276519060656,almacenamiento,Con permisos,RdT,,
 12721.0,CUESTA DE LA VILLA 66,Canarias,Santa Cruz De Tenerife,Santa Úrsula,66.0,28.418366525167,-16.498899355458,almacenamiento,Con permisos,RdD,57.0,67.0
 12721.0,CUESTA DE LA VILLA 66,Canarias,Santa Cruz De Tenerife,Santa Úrsula,66.0,28.418366525167,-16.498899355458,almacenamiento,Con permisos,RdT,,
-13463.0,TACORONTE 66,Canarias,Santa Cruz De Tenerife,Tacoronte,66.0,28.474555932939,-16.414646267206,almacenamiento,Con permisos,RdD,18.0,23.0
-13463.0,TACORONTE 66,Canarias,Santa Cruz De Tenerife,Tacoronte,66.0,28.474555932939,-16.414646267206,almacenamiento,Con permisos,RdT,,
-13463.0,TACORONTE 66,Canarias,Santa Cruz De Tenerife,Tacoronte,66.0,28.474555932939,-16.414646267206,fotovoltaica,Con permisos,RdD,30.0,30.0
-13463.0,TACORONTE 66,Canarias,Santa Cruz De Tenerife,Tacoronte,66.0,28.474555932939,-16.414646267206,fotovoltaica,Con permisos,RdT,,
 13466.0,EL PALMAR DE LA GOMERA 66,Canarias,Santa Cruz De Tenerife,Valle Gran Rey,66.0,28.111782414859,-17.304226475203,almacenamiento,Con permisos,RdD,,6.0
 13466.0,EL PALMAR DE LA GOMERA 66,Canarias,Santa Cruz De Tenerife,Valle Gran Rey,66.0,28.111782414859,-17.304226475203,almacenamiento,Con permisos,RdT,,
 13466.0,EL PALMAR DE LA GOMERA 66,Canarias,Santa Cruz De Tenerife,Valle Gran Rey,66.0,28.111782414859,-17.304226475203,eolica,Con permisos,RdD,1.0,3.0
