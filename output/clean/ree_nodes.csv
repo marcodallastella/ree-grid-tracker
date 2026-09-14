@@ -2151,6 +2151,10 @@
 12883.0,LA OLIVA 132,Canarias,Las Palmas,"Oliva, La",132.0,28.748045200404,-13.879521169425,eolica,Con permisos,RdT,20.0,21.0
 12852.0,JINAMAR 66,Canarias,Las Palmas,"Palmas de Gran Canaria, Las",66.0,28.041886643399,-15.411743709619,otras,Puesta en servicio,RdD,,
 12852.0,JINAMAR 66,Canarias,Las Palmas,"Palmas de Gran Canaria, Las",66.0,28.041886643399,-15.411743709619,otras,Puesta en servicio,RdT,317.45,274.99
+12886.0,LA PATERNA 66,Canarias,Las Palmas,"Palmas de Gran Canaria, Las",66.0,28.090841448719,-15.453882372282,almacenamiento,Con permisos,RdD,25.0,25.0
+12886.0,LA PATERNA 66,Canarias,Las Palmas,"Palmas de Gran Canaria, Las",66.0,28.090841448719,-15.453882372282,almacenamiento,Con permisos,RdT,,
+12886.0,LA PATERNA 66,Canarias,Las Palmas,"Palmas de Gran Canaria, Las",66.0,28.090841448719,-15.453882372282,fotovoltaica,Puesta en servicio,RdD,0.77,0.77
+12886.0,LA PATERNA 66,Canarias,Las Palmas,"Palmas de Gran Canaria, Las",66.0,28.090841448719,-15.453882372282,fotovoltaica,Puesta en servicio,RdT,,
 13004.0,MUELLE GRANDE 66,Canarias,Las Palmas,"Palmas de Gran Canaria, Las",66.0,28.152957978985,-15.417413057995,almacenamiento,Con permisos,RdD,30.0,30.0
 13004.0,MUELLE GRANDE 66,Canarias,Las Palmas,"Palmas de Gran Canaria, Las",66.0,28.152957978985,-15.417413057995,almacenamiento,Con permisos,RdT,,
 13442.0,BARRANCO SECO 66,Canarias,Las Palmas,"Palmas de Gran Canaria, Las",66.0,28.073434101061,-15.440239087472,almacenamiento,Con permisos,RdD,28.0,35.0
