@@ -127,19 +127,19 @@ Baleares,otras,Puesta en servicio,RdD,16.7,16.7
 Baleares,otras,Puesta en servicio,RdT,1729.51,1873.88
 Canarias,almacenamiento,Con permisos,RdD,529.0,634.0
 Canarias,almacenamiento,Con permisos,RdT,138.0,253.0
-Canarias,almacenamiento,Puesta en servicio,RdD,,
+Canarias,almacenamiento,Puesta en servicio,RdD,4.0,4.0
 Canarias,almacenamiento,Puesta en servicio,RdT,,5.08
 Canarias,eolica,Con permisos,RdD,74.0,109.0
 Canarias,eolica,Con permisos,RdT,198.0,223.0
 Canarias,eolica,En curso,RdD,,
 Canarias,eolica,En curso,RdT,34.4,43.8
-Canarias,eolica,Puesta en servicio,RdD,128.49,154.44
+Canarias,eolica,Puesta en servicio,RdD,136.36,162.31
 Canarias,eolica,Puesta en servicio,RdT,340.27,498.97
 Canarias,fotovoltaica,Con permisos,RdD,229.0,307.0
 Canarias,fotovoltaica,Con permisos,RdT,94.0,178.0
 Canarias,fotovoltaica,En curso,RdD,10.05,11.4
 Canarias,fotovoltaica,En curso,RdT,7.0,8.0
-Canarias,fotovoltaica,Puesta en servicio,RdD,135.13,142.86
+Canarias,fotovoltaica,Puesta en servicio,RdD,137.03,144.76
 Canarias,fotovoltaica,Puesta en servicio,RdT,91.26,165.8
 Canarias,hibridacion,Con permisos,RdD,35.0,
 Canarias,hibridacion,Con permisos,RdT,29.0,
@@ -152,7 +152,7 @@ Canarias,otras,Con permisos,RdT,,102.0
 Canarias,otras,En curso,RdD,,
 Canarias,otras,En curso,RdT,341.24,353.14
 Canarias,otras,Puesta en servicio,RdD,29.43,29.43
-Canarias,otras,Puesta en servicio,RdT,2464.8,2238.66
+Canarias,otras,Puesta en servicio,RdT,2566.15,2334.18
 Cantabria,almacenamiento,Con permisos,RdD,164.0,179.0
 Cantabria,almacenamiento,Con permisos,RdT,167.0,314.0
 Cantabria,almacenamiento,En curso,RdD,105.0,105.0
@@ -255,36 +255,40 @@ Castilla y León,otras,En curso,RdD,20.0,22.0
 Castilla y León,otras,En curso,RdT,,
 Castilla y León,otras,Puesta en servicio,RdD,726.46,732.62
 Castilla y León,otras,Puesta en servicio,RdT,16.0,16.0
-Cataluña,almacenamiento,Con permisos,RdD,1206.0,1347.0
-Cataluña,almacenamiento,Con permisos,RdT,1128.0,1204.0
-Cataluña,almacenamiento,En curso,RdD,158.9,163.59
+Cataluña,almacenamiento,Con permisos,RdD,1338.0,1505.0
+Cataluña,almacenamiento,Con permisos,RdT,1555.0,1733.0
+Cataluña,almacenamiento,En curso,RdD,265.9,278.59
 Cataluña,almacenamiento,En curso,RdT,1822.38,1851.9
-Cataluña,eolica,Con permisos,RdD,96.0,96.0
-Cataluña,eolica,Con permisos,RdT,871.0,1179.0
-Cataluña,eolica,En curso,RdD,50.6,53.5
+Cataluña,bombeo,Puesta en servicio,RdD,,
+Cataluña,bombeo,Puesta en servicio,RdT,534.0,532.26
+Cataluña,eolica,Con permisos,RdD,180.0,180.0
+Cataluña,eolica,Con permisos,RdT,998.0,1463.0
+Cataluña,eolica,En curso,RdD,167.8,170.7
 Cataluña,eolica,En curso,RdT,229.0,229.0
-Cataluña,eolica,Puesta en servicio,RdD,163.43,163.43
-Cataluña,eolica,Puesta en servicio,RdT,438.33,513.23
-Cataluña,fotovoltaica,Con permisos,RdD,963.0,1176.0
-Cataluña,fotovoltaica,Con permisos,RdT,541.0,966.0
-Cataluña,fotovoltaica,En curso,RdD,23.69,32.52
+Cataluña,eolica,Puesta en servicio,RdD,166.13,166.13
+Cataluña,eolica,Puesta en servicio,RdT,935.62,1184.52
+Cataluña,fotovoltaica,Con permisos,RdD,1622.0,1907.0
+Cataluña,fotovoltaica,Con permisos,RdT,1093.0,1802.0
+Cataluña,fotovoltaica,En curso,RdD,334.99,349.19
 Cataluña,fotovoltaica,En curso,RdT,430.77,436.33
-Cataluña,fotovoltaica,Puesta en servicio,RdD,155.24,178.78
-Cataluña,fotovoltaica,Puesta en servicio,RdT,41.32,42.6
+Cataluña,fotovoltaica,Puesta en servicio,RdD,214.42,256.18
+Cataluña,fotovoltaica,Puesta en servicio,RdT,152.6,323.29
 Cataluña,hibridacion,Con permisos,RdD,102.0,
-Cataluña,hibridacion,Con permisos,RdT,35.0,
+Cataluña,hibridacion,Con permisos,RdT,199.0,
 Cataluña,hibridacion,En curso,RdD,7.63,
 Cataluña,hibridacion,En curso,RdT,,
-Cataluña,hibridacion,Puesta en servicio,RdD,34.63,
-Cataluña,hibridacion,Puesta en servicio,RdT,74.9,
+Cataluña,hibridacion,Puesta en servicio,RdD,47.05,
+Cataluña,hibridacion,Puesta en servicio,RdT,397.5,
 Cataluña,hidraulica,Puesta en servicio,RdD,4.25,4.25
-Cataluña,hidraulica,Puesta en servicio,RdT,261.8,261.28
-Cataluña,otras,Con permisos,RdD,13.0,67.0
+Cataluña,hidraulica,Puesta en servicio,RdT,467.08,464.56
+Cataluña,otras,Con permisos,RdD,98.0,155.0
 Cataluña,otras,Con permisos,RdT,13.0,13.0
 Cataluña,otras,En curso,RdD,,
 Cataluña,otras,En curso,RdT,869.68,869.68
-Cataluña,otras,Puesta en servicio,RdD,822.14,843.14
-Cataluña,otras,Puesta en servicio,RdT,6900.75,7376.39
+Cataluña,otras,Puesta en servicio,RdD,1965.05,1986.05
+Cataluña,otras,Puesta en servicio,RdT,6948.41,7424.05
+Cataluña,termosolar,Puesta en servicio,RdD,22.5,22.5
+Cataluña,termosolar,Puesta en servicio,RdT,,
 Comunidad Valenciana,almacenamiento,Con permisos,RdD,404.0,496.0
 Comunidad Valenciana,almacenamiento,Con permisos,RdT,265.0,812.0
 Comunidad Valenciana,almacenamiento,En curso,RdD,1487.03,1552.48
