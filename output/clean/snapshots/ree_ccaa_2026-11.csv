@@ -1,0 +1,531 @@
+﻿ccaa,technology,status,grid,capacidad_acceso_mw,potencia_instalada_mw
+Andalucía,almacenamiento,Con permisos,RdD,817.0,1770.0
+Andalucía,almacenamiento,Con permisos,RdT,941.0,5357.0
+Andalucía,almacenamiento,En curso,RdD,80.1,101.32
+Andalucía,almacenamiento,En curso,RdT,1042.56,1820.17
+Andalucía,almacenamiento,Puesta en servicio,RdD,,0.6
+Andalucía,almacenamiento,Puesta en servicio,RdT,,71.26
+Andalucía,bombeo,Con permisos,RdD,,
+Andalucía,bombeo,Con permisos,RdT,356.0,356.0
+Andalucía,bombeo,En curso,RdD,,
+Andalucía,bombeo,En curso,RdT,150.0,150.0
+Andalucía,bombeo,Puesta en servicio,RdD,,
+Andalucía,bombeo,Puesta en servicio,RdT,570.0,584.87
+Andalucía,eolica,Con permisos,RdD,207.0,466.0
+Andalucía,eolica,Con permisos,RdT,912.0,1252.0
+Andalucía,eolica,En curso,RdD,81.7,81.7
+Andalucía,eolica,En curso,RdT,481.43,508.73
+Andalucía,eolica,Puesta en servicio,RdD,829.31,1077.01
+Andalucía,eolica,Puesta en servicio,RdT,1782.47,2530.02
+Andalucía,fotovoltaica,Con permisos,RdD,3091.0,3995.0
+Andalucía,fotovoltaica,Con permisos,RdT,5751.0,10117.0
+Andalucía,fotovoltaica,En curso,RdD,1658.51,1510.2
+Andalucía,fotovoltaica,En curso,RdT,1016.07,2400.0
+Andalucía,fotovoltaica,Puesta en servicio,RdD,2553.94,3521.35
+Andalucía,fotovoltaica,Puesta en servicio,RdT,4017.24,8524.76
+Andalucía,hibridacion,Con permisos,RdD,558.0,
+Andalucía,hibridacion,Con permisos,RdT,2111.0,
+Andalucía,hibridacion,En curso,RdD,36.2,
+Andalucía,hibridacion,En curso,RdT,1127.19,
+Andalucía,hibridacion,Puesta en servicio,RdD,881.06,
+Andalucía,hibridacion,Puesta en servicio,RdT,4550.61,
+Andalucía,hidraulica,Puesta en servicio,RdD,15.72,16.88
+Andalucía,hidraulica,Puesta en servicio,RdT,,34.1
+Andalucía,otras,Con permisos,RdD,53.0,69.0
+Andalucía,otras,Con permisos,RdT,,
+Andalucía,otras,En curso,RdD,,
+Andalucía,otras,En curso,RdT,2286.16,2706.63
+Andalucía,otras,Puesta en servicio,RdD,1553.94,1556.41
+Andalucía,otras,Puesta en servicio,RdT,5770.67,6762.2
+Andalucía,termosolar,Con permisos,RdD,,31.0
+Andalucía,termosolar,Con permisos,RdT,,
+Andalucía,termosolar,Puesta en servicio,RdD,266.9,266.9
+Andalucía,termosolar,Puesta en servicio,RdT,549.6,699.6
+Aragón,almacenamiento,Con permisos,RdD,,525.0
+Aragón,almacenamiento,Con permisos,RdT,49.0,2322.0
+Aragón,almacenamiento,En curso,RdD,,
+Aragón,almacenamiento,En curso,RdT,610.9,705.9
+Aragón,bombeo,Puesta en servicio,RdD,,
+Aragón,bombeo,Puesta en servicio,RdT,221.4,219.14
+Aragón,eolica,Con permisos,RdD,262.0,529.0
+Aragón,eolica,Con permisos,RdT,2392.0,7250.0
+Aragón,eolica,En curso,RdD,4.9,4.9
+Aragón,eolica,En curso,RdT,1724.05,1932.29
+Aragón,eolica,Puesta en servicio,RdD,1426.47,1774.61
+Aragón,eolica,Puesta en servicio,RdT,2602.5,4144.74
+Aragón,fotovoltaica,Con permisos,RdD,516.0,930.0
+Aragón,fotovoltaica,Con permisos,RdT,3212.0,8247.0
+Aragón,fotovoltaica,En curso,RdD,,
+Aragón,fotovoltaica,En curso,RdT,532.03,679.97
+Aragón,fotovoltaica,Puesta en servicio,RdD,883.15,1651.76
+Aragón,fotovoltaica,Puesta en servicio,RdT,660.96,3319.79
+Aragón,hibridacion,Con permisos,RdD,193.0,
+Aragón,hibridacion,Con permisos,RdT,2795.0,
+Aragón,hibridacion,En curso,RdD,,
+Aragón,hibridacion,En curso,RdT,285.91,
+Aragón,hibridacion,Puesta en servicio,RdD,1055.27,
+Aragón,hibridacion,Puesta en servicio,RdT,4517.84,
+Aragón,hidraulica,Con permisos,RdD,10.0,13.0
+Aragón,hidraulica,Con permisos,RdT,,
+Aragón,hidraulica,Puesta en servicio,RdD,1.11,1.11
+Aragón,hidraulica,Puesta en servicio,RdT,670.36,674.99
+Aragón,otras,Con permisos,RdD,62.0,103.0
+Aragón,otras,Con permisos,RdT,,85.0
+Aragón,otras,Puesta en servicio,RdD,1141.02,1198.66
+Aragón,otras,Puesta en servicio,RdT,174.3,3410.93
+Asturias,almacenamiento,Con permisos,RdD,737.0,817.0
+Asturias,almacenamiento,Con permisos,RdT,124.0,124.0
+Asturias,almacenamiento,En curso,RdD,257.79,309.77
+Asturias,almacenamiento,En curso,RdT,39.0,39.0
+Asturias,bombeo,Con permisos,RdD,,
+Asturias,bombeo,Con permisos,RdT,247.0,265.0
+Asturias,eolica,Con permisos,RdD,273.0,296.0
+Asturias,eolica,Con permisos,RdT,315.0,315.0
+Asturias,eolica,En curso,RdD,122.0,122.0
+Asturias,eolica,En curso,RdT,,
+Asturias,eolica,Puesta en servicio,RdD,697.08,697.08
+Asturias,eolica,Puesta en servicio,RdT,,
+Asturias,fotovoltaica,Con permisos,RdD,24.0,24.0
+Asturias,fotovoltaica,Con permisos,RdT,,
+Asturias,fotovoltaica,En curso,RdD,39.6,44.6
+Asturias,fotovoltaica,En curso,RdT,,
+Asturias,hibridacion,Con permisos,RdD,39.0,
+Asturias,hibridacion,Con permisos,RdT,,
+Asturias,hidraulica,Con permisos,RdD,5.0,20.0
+Asturias,hidraulica,Con permisos,RdT,,
+Asturias,hidraulica,Puesta en servicio,RdD,867.54,867.54
+Asturias,hidraulica,Puesta en servicio,RdT,,
+Asturias,otras,Con permisos,RdD,,
+Asturias,otras,Con permisos,RdT,50.0,50.0
+Asturias,otras,En curso,RdD,,
+Asturias,otras,En curso,RdT,904.17,1250.42
+Asturias,otras,Puesta en servicio,RdD,165.6,521.21
+Asturias,otras,Puesta en servicio,RdT,1410.37,1762.31
+Baleares,almacenamiento,Con permisos,RdD,545.0,652.0
+Baleares,almacenamiento,Con permisos,RdT,299.0,464.0
+Baleares,almacenamiento,En curso,RdD,23.94,23.94
+Baleares,almacenamiento,En curso,RdT,18.0,38.0
+Baleares,almacenamiento,Puesta en servicio,RdD,,9.67
+Baleares,almacenamiento,Puesta en servicio,RdT,,
+Baleares,eolica,Puesta en servicio,RdD,3.2,3.2
+Baleares,eolica,Puesta en servicio,RdT,,
+Baleares,fotovoltaica,Con permisos,RdD,463.0,663.0
+Baleares,fotovoltaica,Con permisos,RdT,211.0,311.0
+Baleares,fotovoltaica,En curso,RdD,8.0,8.0
+Baleares,fotovoltaica,En curso,RdT,,1.06
+Baleares,fotovoltaica,Puesta en servicio,RdD,237.04,291.54
+Baleares,fotovoltaica,Puesta en servicio,RdT,128.94,188.19
+Baleares,hibridacion,Con permisos,RdD,109.0,
+Baleares,hibridacion,Con permisos,RdT,72.0,
+Baleares,hibridacion,En curso,RdD,,
+Baleares,hibridacion,En curso,RdT,20.0,
+Baleares,hibridacion,Puesta en servicio,RdD,24.99,
+Baleares,hibridacion,Puesta en servicio,RdT,77.05,
+Baleares,otras,Con permisos,RdD,2.0,2.0
+Baleares,otras,Con permisos,RdT,,
+Baleares,otras,Puesta en servicio,RdD,16.7,16.7
+Baleares,otras,Puesta en servicio,RdT,1729.51,1873.88
+Canarias,almacenamiento,Con permisos,RdD,506.0,626.0
+Canarias,almacenamiento,Con permisos,RdT,138.0,253.0
+Canarias,almacenamiento,En curso,RdD,30.0,34.95
+Canarias,almacenamiento,En curso,RdT,,
+Canarias,almacenamiento,Puesta en servicio,RdD,4.0,4.0
+Canarias,almacenamiento,Puesta en servicio,RdT,,5.08
+Canarias,eolica,Con permisos,RdD,77.0,119.0
+Canarias,eolica,Con permisos,RdT,211.0,238.0
+Canarias,eolica,En curso,RdD,,
+Canarias,eolica,En curso,RdT,28.0,33.0
+Canarias,eolica,Puesta en servicio,RdD,131.36,162.31
+Canarias,eolica,Puesta en servicio,RdT,348.6,516.3
+Canarias,fotovoltaica,Con permisos,RdD,224.0,326.0
+Canarias,fotovoltaica,Con permisos,RdT,101.0,185.0
+Canarias,fotovoltaica,En curso,RdD,9.2,9.8
+Canarias,fotovoltaica,En curso,RdT,7.0,7.0
+Canarias,fotovoltaica,Puesta en servicio,RdD,136.73,144.76
+Canarias,fotovoltaica,Puesta en servicio,RdT,91.26,165.8
+Canarias,hibridacion,Con permisos,RdD,52.0,
+Canarias,hibridacion,Con permisos,RdT,29.0,
+Canarias,hibridacion,Puesta en servicio,RdD,29.8,
+Canarias,hibridacion,Puesta en servicio,RdT,198.07,
+Canarias,hidraulica,Con permisos,RdD,11.0,11.0
+Canarias,hidraulica,Con permisos,RdT,,
+Canarias,otras,Con permisos,RdD,,13.0
+Canarias,otras,Con permisos,RdT,74.0,177.0
+Canarias,otras,En curso,RdD,,
+Canarias,otras,En curso,RdT,266.64,278.54
+Canarias,otras,Puesta en servicio,RdD,29.43,29.43
+Canarias,otras,Puesta en servicio,RdT,2603.65,2366.52
+Cantabria,almacenamiento,Con permisos,RdD,166.0,181.0
+Cantabria,almacenamiento,Con permisos,RdT,167.0,314.0
+Cantabria,almacenamiento,En curso,RdD,105.0,105.0
+Cantabria,almacenamiento,En curso,RdT,,
+Cantabria,bombeo,Con permisos,RdD,,
+Cantabria,bombeo,Con permisos,RdT,993.0,993.0
+Cantabria,bombeo,Puesta en servicio,RdD,,
+Cantabria,bombeo,Puesta en servicio,RdT,361.9,360.6
+Cantabria,eolica,Con permisos,RdD,130.0,130.0
+Cantabria,eolica,Con permisos,RdT,274.0,385.0
+Cantabria,eolica,Puesta en servicio,RdD,167.8,167.8
+Cantabria,eolica,Puesta en servicio,RdT,,
+Cantabria,fotovoltaica,Con permisos,RdD,24.0,25.0
+Cantabria,fotovoltaica,Con permisos,RdT,,
+Cantabria,fotovoltaica,Puesta en servicio,RdD,11.19,11.2
+Cantabria,fotovoltaica,Puesta en servicio,RdT,,
+Cantabria,hibridacion,Con permisos,RdD,,
+Cantabria,hibridacion,Con permisos,RdT,105.0,
+Cantabria,hidraulica,Puesta en servicio,RdD,103.41,103.41
+Cantabria,hidraulica,Puesta en servicio,RdT,,
+Cantabria,otras,Con permisos,RdD,17.0,54.0
+Cantabria,otras,Con permisos,RdT,,
+Cantabria,otras,Puesta en servicio,RdD,237.63,237.63
+Cantabria,otras,Puesta en servicio,RdT,175.7,175.7
+Castilla La Mancha,almacenamiento,Con permisos,RdD,,199.0
+Castilla La Mancha,almacenamiento,Con permisos,RdT,20.0,3919.0
+Castilla La Mancha,almacenamiento,En curso,RdD,59.98,84.9
+Castilla La Mancha,almacenamiento,En curso,RdT,265.3,542.95
+Castilla La Mancha,almacenamiento,Puesta en servicio,RdD,,2.0
+Castilla La Mancha,almacenamiento,Puesta en servicio,RdT,,98.2
+Castilla La Mancha,bombeo,Con permisos,RdD,,
+Castilla La Mancha,bombeo,Con permisos,RdT,50.0,50.0
+Castilla La Mancha,bombeo,Puesta en servicio,RdD,,
+Castilla La Mancha,bombeo,Puesta en servicio,RdT,208.0,215.0
+Castilla La Mancha,eolica,Con permisos,RdD,14.0,297.0
+Castilla La Mancha,eolica,Con permisos,RdT,75.0,899.0
+Castilla La Mancha,eolica,En curso,RdD,185.0,185.0
+Castilla La Mancha,eolica,En curso,RdT,,107.0
+Castilla La Mancha,eolica,Puesta en servicio,RdD,523.77,1017.24
+Castilla La Mancha,eolica,Puesta en servicio,RdT,1770.82,3876.33
+Castilla La Mancha,fotovoltaica,Con permisos,RdD,442.0,1177.0
+Castilla La Mancha,fotovoltaica,Con permisos,RdT,1401.0,3627.0
+Castilla La Mancha,fotovoltaica,En curso,RdD,975.07,1073.75
+Castilla La Mancha,fotovoltaica,En curso,RdT,823.58,1497.37
+Castilla La Mancha,fotovoltaica,Puesta en servicio,RdD,1222.78,1600.04
+Castilla La Mancha,fotovoltaica,Puesta en servicio,RdT,1608.34,7309.6
+Castilla La Mancha,hibridacion,Con permisos,RdD,490.0,
+Castilla La Mancha,hibridacion,Con permisos,RdT,909.0,
+Castilla La Mancha,hibridacion,En curso,RdD,65.09,
+Castilla La Mancha,hibridacion,En curso,RdT,612.26,
+Castilla La Mancha,hibridacion,Puesta en servicio,RdD,584.42,
+Castilla La Mancha,hibridacion,Puesta en servicio,RdT,6295.7,
+Castilla La Mancha,hidraulica,Puesta en servicio,RdD,92.95,92.95
+Castilla La Mancha,hidraulica,Puesta en servicio,RdT,,148.1
+Castilla La Mancha,otras,Con permisos,RdD,20.0,117.0
+Castilla La Mancha,otras,Con permisos,RdT,50.0,50.0
+Castilla La Mancha,otras,Puesta en servicio,RdD,744.4,749.59
+Castilla La Mancha,otras,Puesta en servicio,RdT,1419.34,2198.23
+Castilla La Mancha,termosolar,Puesta en servicio,RdD,,
+Castilla La Mancha,termosolar,Puesta en servicio,RdT,247.6,349.4
+Castilla y León,almacenamiento,Con permisos,RdD,1.0,141.0
+Castilla y León,almacenamiento,Con permisos,RdT,313.0,3391.0
+Castilla y León,almacenamiento,En curso,RdD,29.49,29.49
+Castilla y León,almacenamiento,En curso,RdT,1873.24,2042.9
+Castilla y León,almacenamiento,Puesta en servicio,RdD,,12.36
+Castilla y León,almacenamiento,Puesta en servicio,RdT,,39.78
+Castilla y León,bombeo,Con permisos,RdD,,
+Castilla y León,bombeo,Con permisos,RdT,830.0,830.0
+Castilla y León,bombeo,En curso,RdD,,
+Castilla y León,bombeo,En curso,RdT,834.0,834.0
+Castilla y León,bombeo,Puesta en servicio,RdD,,
+Castilla y León,bombeo,Puesta en servicio,RdT,1305.5,1344.47
+Castilla y León,eolica,Con permisos,RdD,115.0,241.0
+Castilla y León,eolica,Con permisos,RdT,2124.0,3873.0
+Castilla y León,eolica,En curso,RdD,254.21,335.68
+Castilla y León,eolica,En curso,RdT,5071.52,5393.27
+Castilla y León,eolica,Puesta en servicio,RdD,835.94,972.02
+Castilla y León,eolica,Puesta en servicio,RdT,3912.96,7205.33
+Castilla y León,fotovoltaica,Con permisos,RdD,199.0,449.0
+Castilla y León,fotovoltaica,Con permisos,RdT,4682.0,9277.0
+Castilla y León,fotovoltaica,En curso,RdD,266.97,351.16
+Castilla y León,fotovoltaica,En curso,RdT,2552.31,2895.48
+Castilla y León,fotovoltaica,Puesta en servicio,RdD,1391.68,1696.54
+Castilla y León,fotovoltaica,Puesta en servicio,RdT,1869.23,5309.26
+Castilla y León,hibridacion,Con permisos,RdD,124.0,
+Castilla y León,hibridacion,Con permisos,RdT,3173.0,
+Castilla y León,hibridacion,En curso,RdD,,
+Castilla y León,hibridacion,En curso,RdT,375.33,
+Castilla y León,hibridacion,Puesta en servicio,RdD,364.61,
+Castilla y León,hibridacion,Puesta en servicio,RdT,4221.35,
+Castilla y León,hidraulica,Con permisos,RdD,4.0,4.0
+Castilla y León,hidraulica,Con permisos,RdT,,
+Castilla y León,hidraulica,Puesta en servicio,RdD,163.19,170.27
+Castilla y León,hidraulica,Puesta en servicio,RdT,1968.8,2040.31
+Castilla y León,otras,Con permisos,RdD,49.0,103.0
+Castilla y León,otras,Con permisos,RdT,48.0,49.0
+Castilla y León,otras,En curso,RdD,20.0,22.0
+Castilla y León,otras,En curso,RdT,,
+Castilla y León,otras,Puesta en servicio,RdD,810.62,816.78
+Castilla y León,otras,Puesta en servicio,RdT,16.0,16.0
+Cataluña,almacenamiento,Con permisos,RdD,1254.0,1425.0
+Cataluña,almacenamiento,Con permisos,RdT,1555.0,1735.0
+Cataluña,almacenamiento,En curso,RdD,301.88,314.57
+Cataluña,almacenamiento,En curso,RdT,1672.39,1701.91
+Cataluña,bombeo,Puesta en servicio,RdD,,
+Cataluña,bombeo,Puesta en servicio,RdT,534.0,532.26
+Cataluña,eolica,Con permisos,RdD,214.0,215.0
+Cataluña,eolica,Con permisos,RdT,998.0,1463.0
+Cataluña,eolica,En curso,RdD,157.8,160.7
+Cataluña,eolica,En curso,RdT,229.0,229.0
+Cataluña,eolica,Puesta en servicio,RdD,248.18,248.18
+Cataluña,eolica,Puesta en servicio,RdT,905.62,1184.52
+Cataluña,fotovoltaica,Con permisos,RdD,1630.0,1923.0
+Cataluña,fotovoltaica,Con permisos,RdT,1093.0,1820.0
+Cataluña,fotovoltaica,En curso,RdD,329.99,344.19
+Cataluña,fotovoltaica,En curso,RdT,430.77,436.33
+Cataluña,fotovoltaica,Puesta en servicio,RdD,222.19,256.53
+Cataluña,fotovoltaica,Puesta en servicio,RdT,152.6,323.29
+Cataluña,hibridacion,Con permisos,RdD,108.0,
+Cataluña,hibridacion,Con permisos,RdT,199.0,
+Cataluña,hibridacion,En curso,RdD,7.63,
+Cataluña,hibridacion,En curso,RdT,,
+Cataluña,hibridacion,Puesta en servicio,RdD,47.05,
+Cataluña,hibridacion,Puesta en servicio,RdT,427.5,
+Cataluña,hidraulica,Puesta en servicio,RdD,4.25,4.25
+Cataluña,hidraulica,Puesta en servicio,RdT,467.08,464.56
+Cataluña,otras,Con permisos,RdD,98.0,157.0
+Cataluña,otras,Con permisos,RdT,13.0,13.0
+Cataluña,otras,En curso,RdD,,
+Cataluña,otras,En curso,RdT,869.68,869.68
+Cataluña,otras,Puesta en servicio,RdD,2007.71,2036.05
+Cataluña,otras,Puesta en servicio,RdT,6948.41,7424.05
+Cataluña,termosolar,Puesta en servicio,RdD,22.5,22.5
+Cataluña,termosolar,Puesta en servicio,RdT,,
+Comunidad Valenciana,almacenamiento,Con permisos,RdD,404.0,519.0
+Comunidad Valenciana,almacenamiento,Con permisos,RdT,265.0,793.0
+Comunidad Valenciana,almacenamiento,En curso,RdD,1564.97,1630.42
+Comunidad Valenciana,almacenamiento,En curso,RdT,139.8,139.8
+Comunidad Valenciana,bombeo,Puesta en servicio,RdD,,
+Comunidad Valenciana,bombeo,Puesta en servicio,RdT,1536.45,1511.95
+Comunidad Valenciana,eolica,Con permisos,RdD,160.0,160.0
+Comunidad Valenciana,eolica,Con permisos,RdT,823.0,944.0
+Comunidad Valenciana,eolica,En curso,RdD,162.0,176.0
+Comunidad Valenciana,eolica,En curso,RdT,302.4,302.4
+Comunidad Valenciana,eolica,Puesta en servicio,RdD,434.93,434.93
+Comunidad Valenciana,eolica,Puesta en servicio,RdT,825.15,966.25
+Comunidad Valenciana,fotovoltaica,Con permisos,RdD,2860.0,3230.0
+Comunidad Valenciana,fotovoltaica,Con permisos,RdT,1990.0,3520.0
+Comunidad Valenciana,fotovoltaica,En curso,RdD,300.75,370.15
+Comunidad Valenciana,fotovoltaica,En curso,RdT,159.95,60.05
+Comunidad Valenciana,fotovoltaica,Puesta en servicio,RdD,820.19,906.96
+Comunidad Valenciana,fotovoltaica,Puesta en servicio,RdT,172.24,278.99
+Comunidad Valenciana,hibridacion,Con permisos,RdD,24.0,
+Comunidad Valenciana,hibridacion,Con permisos,RdT,776.0,
+Comunidad Valenciana,hibridacion,Puesta en servicio,RdD,50.61,
+Comunidad Valenciana,hibridacion,Puesta en servicio,RdT,210.1,
+Comunidad Valenciana,hidraulica,Con permisos,RdD,5.0,5.0
+Comunidad Valenciana,hidraulica,Con permisos,RdT,,
+Comunidad Valenciana,hidraulica,Puesta en servicio,RdD,161.57,161.57
+Comunidad Valenciana,hidraulica,Puesta en servicio,RdT,280.0,289.92
+Comunidad Valenciana,otras,Con permisos,RdD,43.0,65.0
+Comunidad Valenciana,otras,Con permisos,RdT,,
+Comunidad Valenciana,otras,Puesta en servicio,RdD,564.29,564.29
+Comunidad Valenciana,otras,Puesta en servicio,RdT,3815.15,3917.48
+Comunidad Valenciana,termosolar,Puesta en servicio,RdD,81.3,81.3
+Comunidad Valenciana,termosolar,Puesta en servicio,RdT,,
+Extremadura,almacenamiento,Con permisos,RdD,,318.0
+Extremadura,almacenamiento,Con permisos,RdT,22.0,4385.0
+Extremadura,almacenamiento,En curso,RdD,,
+Extremadura,almacenamiento,En curso,RdT,351.0,984.46
+Extremadura,almacenamiento,Puesta en servicio,RdD,,60.56
+Extremadura,almacenamiento,Puesta en servicio,RdT,,4.18
+Extremadura,bombeo,Con permisos,RdD,,
+Extremadura,bombeo,Con permisos,RdT,440.0,440.0
+Extremadura,bombeo,Puesta en servicio,RdD,,
+Extremadura,bombeo,Puesta en servicio,RdT,292.4,292.21
+Extremadura,eolica,Con permisos,RdD,,12.0
+Extremadura,eolica,Con permisos,RdT,33.0,66.0
+Extremadura,eolica,Puesta en servicio,RdD,49.28,49.28
+Extremadura,eolica,Puesta en servicio,RdT,49.5,49.5
+Extremadura,fotovoltaica,Con permisos,RdD,304.0,433.0
+Extremadura,fotovoltaica,Con permisos,RdT,1308.0,2188.0
+Extremadura,fotovoltaica,En curso,RdD,183.9,218.89
+Extremadura,fotovoltaica,En curso,RdT,437.64,1207.62
+Extremadura,fotovoltaica,Puesta en servicio,RdD,1099.71,1674.92
+Extremadura,fotovoltaica,Puesta en servicio,RdT,2181.76,8019.38
+Extremadura,hibridacion,Con permisos,RdD,92.0,
+Extremadura,hibridacion,Con permisos,RdT,1100.0,
+Extremadura,hibridacion,En curso,RdD,,
+Extremadura,hibridacion,En curso,RdT,702.0,
+Extremadura,hibridacion,Puesta en servicio,RdD,524.4,
+Extremadura,hibridacion,Puesta en servicio,RdT,4502.56,
+Extremadura,hidraulica,Con permisos,RdD,3.0,53.0
+Extremadura,hidraulica,Con permisos,RdT,,495.0
+Extremadura,hidraulica,Puesta en servicio,RdD,7.51,7.51
+Extremadura,hidraulica,Puesta en servicio,RdT,1117.7,1200.49
+Extremadura,otras,Puesta en servicio,RdD,240.95,244.78
+Extremadura,otras,Puesta en servicio,RdT,2006.0,2067.03
+Extremadura,termosolar,Puesta en servicio,RdD,149.8,199.8
+Extremadura,termosolar,Puesta en servicio,RdT,349.8,649.6
+Galicia,almacenamiento,Con permisos,RdD,151.0,227.0
+Galicia,almacenamiento,Con permisos,RdT,581.0,716.0
+Galicia,almacenamiento,En curso,RdD,28.4,54.28
+Galicia,almacenamiento,En curso,RdT,870.23,1055.15
+Galicia,almacenamiento,Puesta en servicio,RdD,5.0,5.0
+Galicia,almacenamiento,Puesta en servicio,RdT,,
+Galicia,bombeo,Con permisos,RdD,,
+Galicia,bombeo,Con permisos,RdT,408.0,
+Galicia,bombeo,En curso,RdD,,
+Galicia,bombeo,En curso,RdT,25.0,465.0
+Galicia,bombeo,Puesta en servicio,RdD,,
+Galicia,bombeo,Puesta en servicio,RdT,380.6,425.93
+Galicia,eolica,Con permisos,RdD,1079.0,1107.0
+Galicia,eolica,Con permisos,RdT,3403.0,3576.0
+Galicia,eolica,En curso,RdD,221.4,274.89
+Galicia,eolica,En curso,RdT,1769.68,1959.58
+Galicia,eolica,Puesta en servicio,RdD,3043.25,3856.9
+Galicia,eolica,Puesta en servicio,RdT,716.97,783.47
+Galicia,fotovoltaica,Con permisos,RdD,23.0,24.0
+Galicia,fotovoltaica,Con permisos,RdT,,
+Galicia,fotovoltaica,En curso,RdD,72.88,72.88
+Galicia,fotovoltaica,En curso,RdT,,14.7
+Galicia,fotovoltaica,Puesta en servicio,RdD,7.56,15.84
+Galicia,fotovoltaica,Puesta en servicio,RdT,,
+Galicia,hibridacion,Con permisos,RdD,9.0,
+Galicia,hibridacion,Con permisos,RdT,113.0,
+Galicia,hibridacion,En curso,RdD,39.39,
+Galicia,hibridacion,En curso,RdT,166.57,
+Galicia,hibridacion,Puesta en servicio,RdD,154.15,
+Galicia,hibridacion,Puesta en servicio,RdT,64.21,
+Galicia,hidraulica,Con permisos,RdD,1.0,1.0
+Galicia,hidraulica,Con permisos,RdT,191.0,
+Galicia,hidraulica,Puesta en servicio,RdD,80.2,80.2
+Galicia,hidraulica,Puesta en servicio,RdT,1898.24,2055.67
+Galicia,otras,Con permisos,RdD,32.0,32.0
+Galicia,otras,Con permisos,RdT,,
+Galicia,otras,En curso,RdD,,
+Galicia,otras,En curso,RdT,476.05,485.47
+Galicia,otras,Puesta en servicio,RdD,1642.05,1656.9
+Galicia,otras,Puesta en servicio,RdT,1382.1,2112.4
+La Rioja,almacenamiento,Con permisos,RdD,,
+La Rioja,almacenamiento,Con permisos,RdT,,71.0
+La Rioja,almacenamiento,En curso,RdD,4.95,4.95
+La Rioja,almacenamiento,En curso,RdT,138.0,147.99
+La Rioja,eolica,Con permisos,RdD,10.0,10.0
+La Rioja,eolica,Con permisos,RdT,,
+La Rioja,eolica,En curso,RdD,142.64,145.68
+La Rioja,eolica,En curso,RdT,307.5,311.9
+La Rioja,eolica,Puesta en servicio,RdD,94.87,94.87
+La Rioja,eolica,Puesta en servicio,RdT,367.15,409.15
+La Rioja,fotovoltaica,Con permisos,RdD,32.0,33.0
+La Rioja,fotovoltaica,Con permisos,RdT,268.0,397.0
+La Rioja,fotovoltaica,En curso,RdD,53.5,64.56
+La Rioja,fotovoltaica,En curso,RdT,100.0,100.0
+La Rioja,fotovoltaica,Puesta en servicio,RdD,113.19,114.52
+La Rioja,fotovoltaica,Puesta en servicio,RdT,305.89,377.77
+La Rioja,hibridacion,Con permisos,RdD,,
+La Rioja,hibridacion,Con permisos,RdT,65.0,
+La Rioja,hibridacion,Puesta en servicio,RdD,4.52,
+La Rioja,hibridacion,Puesta en servicio,RdT,40.5,
+La Rioja,hidraulica,Puesta en servicio,RdD,56.21,56.21
+La Rioja,hidraulica,Puesta en servicio,RdT,,
+La Rioja,otras,Con permisos,RdD,,
+La Rioja,otras,Con permisos,RdT,,400.0
+La Rioja,otras,Puesta en servicio,RdD,32.51,36.13
+La Rioja,otras,Puesta en servicio,RdT,784.7,1589.28
+Madrid,almacenamiento,Con permisos,RdD,530.0,620.0
+Madrid,almacenamiento,Con permisos,RdT,174.0,2265.0
+Madrid,almacenamiento,En curso,RdD,751.94,830.04
+Madrid,almacenamiento,En curso,RdT,35.0,35.0
+Madrid,eolica,Con permisos,RdD,4.0,15.0
+Madrid,eolica,Con permisos,RdT,,
+Madrid,eolica,Puesta en servicio,RdD,208.88,208.88
+Madrid,eolica,Puesta en servicio,RdT,,
+Madrid,fotovoltaica,Con permisos,RdD,942.0,1130.0
+Madrid,fotovoltaica,Con permisos,RdT,6200.0,12853.0
+Madrid,fotovoltaica,En curso,RdD,219.22,241.13
+Madrid,fotovoltaica,En curso,RdT,1577.72,1805.05
+Madrid,fotovoltaica,Puesta en servicio,RdD,387.92,477.93
+Madrid,fotovoltaica,Puesta en servicio,RdT,120.0,121.0
+Madrid,hibridacion,Con permisos,RdD,38.0,
+Madrid,hibridacion,Con permisos,RdT,2288.0,
+Madrid,hibridacion,Puesta en servicio,RdD,63.46,
+Madrid,hibridacion,Puesta en servicio,RdT,,
+Madrid,hidraulica,Puesta en servicio,RdD,63.78,63.78
+Madrid,hidraulica,Puesta en servicio,RdT,,
+Madrid,otras,Con permisos,RdD,82.0,25.0
+Madrid,otras,Con permisos,RdT,12.0,12.0
+Madrid,otras,En curso,RdD,,
+Madrid,otras,En curso,RdT,2.0,2.0
+Madrid,otras,Puesta en servicio,RdD,440.69,440.69
+Madrid,otras,Puesta en servicio,RdT,62.6,62.6
+Murcia,almacenamiento,Con permisos,RdD,,37.0
+Murcia,almacenamiento,Con permisos,RdT,,1092.0
+Murcia,eolica,Puesta en servicio,RdD,55.1,55.1
+Murcia,eolica,Puesta en servicio,RdT,167.05,249.09
+Murcia,fotovoltaica,Con permisos,RdD,822.0,979.0
+Murcia,fotovoltaica,Con permisos,RdT,1000.0,1525.0
+Murcia,fotovoltaica,En curso,RdD,750.68,909.61
+Murcia,fotovoltaica,En curso,RdT,214.0,239.04
+Murcia,fotovoltaica,Puesta en servicio,RdD,869.49,958.5
+Murcia,fotovoltaica,Puesta en servicio,RdT,906.73,1911.42
+Murcia,hibridacion,Con permisos,RdD,25.0,
+Murcia,hibridacion,Con permisos,RdT,249.0,
+Murcia,hibridacion,Puesta en servicio,RdD,23.61,
+Murcia,hibridacion,Puesta en servicio,RdT,473.82,
+Murcia,hidraulica,Puesta en servicio,RdD,2.33,2.33
+Murcia,hidraulica,Puesta en servicio,RdT,,
+Murcia,otras,Con permisos,RdD,,3.0
+Murcia,otras,Con permisos,RdT,,
+Murcia,otras,En curso,RdD,,
+Murcia,otras,En curso,RdT,1158.5,1199.25
+Murcia,otras,Puesta en servicio,RdD,305.48,305.48
+Murcia,otras,Puesta en servicio,RdT,3222.84,3263.71
+Murcia,termosolar,Con permisos,RdD,50.0,50.0
+Murcia,termosolar,Con permisos,RdT,,
+Navarra,almacenamiento,Con permisos,RdD,,
+Navarra,almacenamiento,Con permisos,RdT,192.0,352.0
+Navarra,almacenamiento,En curso,RdD,106.91,106.91
+Navarra,almacenamiento,En curso,RdT,1498.09,1525.0
+Navarra,almacenamiento,Puesta en servicio,RdD,1.15,1.15
+Navarra,almacenamiento,Puesta en servicio,RdT,,
+Navarra,eolica,Con permisos,RdD,103.0,129.0
+Navarra,eolica,Con permisos,RdT,73.0,259.0
+Navarra,eolica,En curso,RdD,106.42,108.81
+Navarra,eolica,En curso,RdT,56.19,56.29
+Navarra,eolica,Puesta en servicio,RdD,174.42,174.42
+Navarra,eolica,Puesta en servicio,RdT,1227.52,1413.53
+Navarra,fotovoltaica,Con permisos,RdD,7.0,57.0
+Navarra,fotovoltaica,Con permisos,RdT,656.0,794.0
+Navarra,fotovoltaica,En curso,RdD,37.21,44.29
+Navarra,fotovoltaica,En curso,RdT,,
+Navarra,fotovoltaica,Puesta en servicio,RdD,170.18,188.36
+Navarra,fotovoltaica,Puesta en servicio,RdT,169.7,232.11
+Navarra,hibridacion,Con permisos,RdD,35.0,
+Navarra,hibridacion,Con permisos,RdT,100.0,
+Navarra,hibridacion,Puesta en servicio,RdD,56.55,
+Navarra,hibridacion,Puesta en servicio,RdT,616.2,
+Navarra,hidraulica,Con permisos,RdD,1.0,1.0
+Navarra,hidraulica,Con permisos,RdT,,
+Navarra,hidraulica,Puesta en servicio,RdD,104.03,104.03
+Navarra,hidraulica,Puesta en servicio,RdT,,
+Navarra,otras,Con permisos,RdD,,15.0
+Navarra,otras,Con permisos,RdT,,
+Navarra,otras,Puesta en servicio,RdD,111.42,167.97
+Navarra,otras,Puesta en servicio,RdT,797.36,1222.32
+País Vasco,almacenamiento,Con permisos,RdD,643.0,748.0
+País Vasco,almacenamiento,Con permisos,RdT,279.0,518.0
+País Vasco,almacenamiento,En curso,RdD,5.0,5.0
+País Vasco,almacenamiento,En curso,RdT,152.0,357.0
+País Vasco,almacenamiento,Puesta en servicio,RdD,6.0,11.53
+País Vasco,almacenamiento,Puesta en servicio,RdT,,
+País Vasco,eolica,Con permisos,RdD,1006.0,1057.0
+País Vasco,eolica,Con permisos,RdT,130.0,130.0
+País Vasco,eolica,En curso,RdD,331.65,352.55
+País Vasco,eolica,En curso,RdT,158.0,158.0
+País Vasco,eolica,Puesta en servicio,RdD,150.15,182.45
+País Vasco,eolica,Puesta en servicio,RdT,159.0,161.6
+País Vasco,fotovoltaica,Con permisos,RdD,99.0,113.0
+País Vasco,fotovoltaica,Con permisos,RdT,126.0,136.0
+País Vasco,fotovoltaica,En curso,RdD,240.51,338.64
+País Vasco,fotovoltaica,En curso,RdT,100.0,100.0
+País Vasco,fotovoltaica,Puesta en servicio,RdD,15.59,15.59
+País Vasco,fotovoltaica,Puesta en servicio,RdT,,
+País Vasco,hibridacion,En curso,RdD,,
+País Vasco,hibridacion,En curso,RdT,396.4,
+País Vasco,hibridacion,Puesta en servicio,RdD,32.3,
+País Vasco,hibridacion,Puesta en servicio,RdT,396.4,
+País Vasco,hidraulica,Puesta en servicio,RdD,30.6,30.6
+País Vasco,hidraulica,Puesta en servicio,RdT,,
+País Vasco,otras,En curso,RdD,,
+País Vasco,otras,En curso,RdT,,396.4
+País Vasco,otras,Puesta en servicio,RdD,671.95,684.96
+País Vasco,otras,Puesta en servicio,RdT,1618.62,2015.07

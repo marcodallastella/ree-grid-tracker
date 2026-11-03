@@ -1,28 +1,28 @@
 ﻿zone,zone_detail,node_id,node_name,voltage,lat,lng,section,technology,technology_label,status,grid,value_mw
-PENINSULAR,Peninsular,,,,,,capacidad_acceso,eolica,Eólica,En curso,RdT,10251.34
-PENINSULAR,Peninsular,,,,,,capacidad_acceso,eolica,Eólica,En curso,RdD,1849.1
-PENINSULAR,Peninsular,,,,,,capacidad_acceso,eolica,Eólica,Con permisos,RdT,11730
-PENINSULAR,Peninsular,,,,,,capacidad_acceso,eolica,Eólica,Con permisos,RdD,3591
-PENINSULAR,Peninsular,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdT,14435.71
-PENINSULAR,Peninsular,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdD,8967.23
-PENINSULAR,Peninsular,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdT,7905.27
-PENINSULAR,Peninsular,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdD,5143.78
-PENINSULAR,Peninsular,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,29753
-PENINSULAR,Peninsular,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,11458
-PENINSULAR,Peninsular,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,12329.95
-PENINSULAR,Peninsular,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,9674.52
-PENINSULAR,Peninsular,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdT,9499.39
-PENINSULAR,Peninsular,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdD,3298.44
-PENINSULAR,Peninsular,,,,,,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdT,4662
-PENINSULAR,Peninsular,,,,,,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdD,4707
+PENINSULAR,Peninsular,,,,,,capacidad_acceso,eolica,Eólica,En curso,RdT,10099.77
+PENINSULAR,Peninsular,,,,,,capacidad_acceso,eolica,Eólica,En curso,RdD,1769.72
+PENINSULAR,Peninsular,,,,,,capacidad_acceso,eolica,Eólica,Con permisos,RdT,11552
+PENINSULAR,Peninsular,,,,,,capacidad_acceso,eolica,Eólica,Con permisos,RdD,3577
+PENINSULAR,Peninsular,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdT,14486.71
+PENINSULAR,Peninsular,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdD,8939.43
+PENINSULAR,Peninsular,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdT,7944.07
+PENINSULAR,Peninsular,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdD,5128.79
+PENINSULAR,Peninsular,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,27687
+PENINSULAR,Peninsular,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,11015
+PENINSULAR,Peninsular,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,12164.69
+PENINSULAR,Peninsular,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,9768.76
+PENINSULAR,Peninsular,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdT,8687.51
+PENINSULAR,Peninsular,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdD,3296.41
+PENINSULAR,Peninsular,,,,,,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdT,4682
+PENINSULAR,Peninsular,,,,,,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdD,4703
 PENINSULAR,Peninsular,,,,,,capacidad_acceso,almacenamiento,Baterías,Puesta en servicio,RdT,
 PENINSULAR,Peninsular,,,,,,capacidad_acceso,almacenamiento,Baterías,Puesta en servicio,RdD,12.15
-PENINSULAR,Peninsular,,,,,,capacidad_acceso,hibridacion,Hibridación,En curso,RdT,3036.41
-PENINSULAR,Peninsular,,,,,,capacidad_acceso,hibridacion,Hibridación,En curso,RdD,113.92
-PENINSULAR,Peninsular,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdT,12230
-PENINSULAR,Peninsular,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdD,1559
-PENINSULAR,Peninsular,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdT,26346.11
-PENINSULAR,Peninsular,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdD,3673.79
+PENINSULAR,Peninsular,,,,,,capacidad_acceso,hibridacion,Hibridación,En curso,RdT,3665.66
+PENINSULAR,Peninsular,,,,,,capacidad_acceso,hibridacion,Hibridación,En curso,RdD,148.31
+PENINSULAR,Peninsular,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdT,13983
+PENINSULAR,Peninsular,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdD,1735
+PENINSULAR,Peninsular,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdT,26316.79
+PENINSULAR,Peninsular,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdD,3842.01
 PENINSULAR,Peninsular,,,,,,capacidad_acceso,termosolar,Termosolar,Con permisos,RdT,
 PENINSULAR,Peninsular,,,,,,capacidad_acceso,termosolar,Termosolar,Con permisos,RdD,50
 PENINSULAR,Peninsular,,,,,,capacidad_acceso,termosolar,Termosolar,Puesta en servicio,RdT,1147
@@ -33,34 +33,34 @@ PENINSULAR,Peninsular,,,,,,capacidad_acceso,hidraulica,Hidráulica,Puesta en ser
 PENINSULAR,Peninsular,,,,,,capacidad_acceso,hidraulica,Hidráulica,Puesta en servicio,RdD,1754.4
 PENINSULAR,Peninsular,,,,,,capacidad_acceso,bombeo,Bombeo,En curso,RdT,1009
 PENINSULAR,Peninsular,,,,,,capacidad_acceso,bombeo,Bombeo,En curso,RdD,
-PENINSULAR,Peninsular,,,,,,capacidad_acceso,bombeo,Bombeo,Con permisos,RdT,3356
+PENINSULAR,Peninsular,,,,,,capacidad_acceso,bombeo,Bombeo,Con permisos,RdT,3324
 PENINSULAR,Peninsular,,,,,,capacidad_acceso,bombeo,Bombeo,Con permisos,RdD,
 PENINSULAR,Peninsular,,,,,,capacidad_acceso,bombeo,Bombeo,Puesta en servicio,RdT,5410.25
 PENINSULAR,Peninsular,,,,,,capacidad_acceso,bombeo,Bombeo,Puesta en servicio,RdD,
-PENINSULAR,Peninsular,,,,,,capacidad_acceso,otras,Otras tecnologías,En curso,RdT,4538.06
+PENINSULAR,Peninsular,,,,,,capacidad_acceso,otras,Otras tecnologías,En curso,RdT,5696.56
 PENINSULAR,Peninsular,,,,,,capacidad_acceso,otras,Otras tecnologías,En curso,RdD,20
 PENINSULAR,Peninsular,,,,,,capacidad_acceso,otras,Otras tecnologías,Con permisos,RdT,173
-PENINSULAR,Peninsular,,,,,,capacidad_acceso,otras,Otras tecnologías,Con permisos,RdD,458
+PENINSULAR,Peninsular,,,,,,capacidad_acceso,otras,Otras tecnologías,Con permisos,RdD,456
 PENINSULAR,Peninsular,,,,,,capacidad_acceso,otras,Otras tecnologías,Puesta en servicio,RdT,29604.16
-PENINSULAR,Peninsular,,,,,,capacidad_acceso,otras,Otras tecnologías,Puesta en servicio,RdD,10670.08
-PENINSULAR,Peninsular,,,,,,potencia_instalada,eolica,Eólica,En curso,RdT,11197.29
-PENINSULAR,Peninsular,,,,,,potencia_instalada,eolica,Eólica,En curso,RdD,1996.9
-PENINSULAR,Peninsular,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdT,20426
-PENINSULAR,Peninsular,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdD,4685
-PENINSULAR,Peninsular,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdT,22863.13
-PENINSULAR,Peninsular,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdD,10196.27
-PENINSULAR,Peninsular,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdT,10766.27
-PENINSULAR,Peninsular,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdD,5602.75
-PENINSULAR,Peninsular,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,55833
-PENINSULAR,Peninsular,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,14791
-PENINSULAR,Peninsular,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,35340.64
-PENINSULAR,Peninsular,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,12899.46
-PENINSULAR,Peninsular,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdT,11020.49
-PENINSULAR,Peninsular,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdD,3507.8
-PENINSULAR,Peninsular,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdT,24869
-PENINSULAR,Peninsular,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdD,7277
+PENINSULAR,Peninsular,,,,,,capacidad_acceso,otras,Otras tecnologías,Puesta en servicio,RdD,10670.26
+PENINSULAR,Peninsular,,,,,,potencia_instalada,eolica,Eólica,En curso,RdT,10958.46
+PENINSULAR,Peninsular,,,,,,potencia_instalada,eolica,Eólica,En curso,RdD,1947.91
+PENINSULAR,Peninsular,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdT,20412
+PENINSULAR,Peninsular,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdD,4664
+PENINSULAR,Peninsular,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdT,22973.53
+PENINSULAR,Peninsular,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdD,11010.77
+PENINSULAR,Peninsular,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdT,11435.61
+PENINSULAR,Peninsular,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdD,5584.05
+PENINSULAR,Peninsular,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,54501
+PENINSULAR,Peninsular,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,14522
+PENINSULAR,Peninsular,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,35727.37
+PENINSULAR,Peninsular,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,13090.04
+PENINSULAR,Peninsular,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdT,11097.23
+PENINSULAR,Peninsular,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdD,3576.65
+PENINSULAR,Peninsular,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdT,27354
+PENINSULAR,Peninsular,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdD,7527
 PENINSULAR,Peninsular,,,,,,potencia_instalada,almacenamiento,Baterías,Puesta en servicio,RdT,213.42
-PENINSULAR,Peninsular,,,,,,potencia_instalada,almacenamiento,Baterías,Puesta en servicio,RdD,91.2
+PENINSULAR,Peninsular,,,,,,potencia_instalada,almacenamiento,Baterías,Puesta en servicio,RdD,93.2
 PENINSULAR,Peninsular,,,,,,potencia_instalada,termosolar,Termosolar,Con permisos,RdT,
 PENINSULAR,Peninsular,,,,,,potencia_instalada,termosolar,Termosolar,Con permisos,RdD,81
 PENINSULAR,Peninsular,,,,,,potencia_instalada,termosolar,Termosolar,Puesta en servicio,RdT,1698.6
@@ -75,34 +75,34 @@ PENINSULAR,Peninsular,,,,,,potencia_instalada,bombeo,Bombeo,Con permisos,RdT,293
 PENINSULAR,Peninsular,,,,,,potencia_instalada,bombeo,Bombeo,Con permisos,RdD,
 PENINSULAR,Peninsular,,,,,,potencia_instalada,bombeo,Bombeo,Puesta en servicio,RdT,5486.43
 PENINSULAR,Peninsular,,,,,,potencia_instalada,bombeo,Bombeo,Puesta en servicio,RdD,
-PENINSULAR,Peninsular,,,,,,potencia_instalada,otras,Otras tecnologías,En curso,RdT,5710.6
+PENINSULAR,Peninsular,,,,,,potencia_instalada,otras,Otras tecnologías,En curso,RdT,6909.85
 PENINSULAR,Peninsular,,,,,,potencia_instalada,otras,Otras tecnologías,En curso,RdD,22
 PENINSULAR,Peninsular,,,,,,potencia_instalada,otras,Otras tecnologías,Con permisos,RdT,659
 PENINSULAR,Peninsular,,,,,,potencia_instalada,otras,Otras tecnologías,Con permisos,RdD,743
 PENINSULAR,Peninsular,,,,,,potencia_instalada,otras,Otras tecnologías,Puesta en servicio,RdT,37999.31
 PENINSULAR,Peninsular,,,,,,potencia_instalada,otras,Otras tecnologías,Puesta en servicio,RdD,11217.53
-CCAA,Andalucía,,,,,,capacidad_acceso,eolica,Eólica,En curso,RdT,416.3
-CCAA,Andalucía,,,,,,capacidad_acceso,eolica,Eólica,En curso,RdD,146.18
-CCAA,Andalucía,,,,,,capacidad_acceso,eolica,Eólica,Con permisos,RdT,1002
+CCAA,Andalucía,,,,,,capacidad_acceso,eolica,Eólica,En curso,RdT,481.43
+CCAA,Andalucía,,,,,,capacidad_acceso,eolica,Eólica,En curso,RdD,81.7
+CCAA,Andalucía,,,,,,capacidad_acceso,eolica,Eólica,Con permisos,RdT,912
 CCAA,Andalucía,,,,,,capacidad_acceso,eolica,Eólica,Con permisos,RdD,207
 CCAA,Andalucía,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdT,1782.47
 CCAA,Andalucía,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdD,829.31
-CCAA,Andalucía,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdT,1077.62
-CCAA,Andalucía,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdD,1673.5
-CCAA,Andalucía,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,6270
-CCAA,Andalucía,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,3376
-CCAA,Andalucía,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,4187.78
-CCAA,Andalucía,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,2452.84
-CCAA,Andalucía,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdT,1136.56
+CCAA,Andalucía,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdT,1016.07
+CCAA,Andalucía,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdD,1658.51
+CCAA,Andalucía,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,5751
+CCAA,Andalucía,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,3091
+CCAA,Andalucía,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,4017.24
+CCAA,Andalucía,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,2553.94
+CCAA,Andalucía,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdT,1042.56
 CCAA,Andalucía,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdD,80.1
 CCAA,Andalucía,,,,,,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdT,941
 CCAA,Andalucía,,,,,,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdD,817
-CCAA,Andalucía,,,,,,capacidad_acceso,hibridacion,Hibridación,En curso,RdT,429.2
+CCAA,Andalucía,,,,,,capacidad_acceso,hibridacion,Hibridación,En curso,RdT,1127.19
 CCAA,Andalucía,,,,,,capacidad_acceso,hibridacion,Hibridación,En curso,RdD,36.2
-CCAA,Andalucía,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdT,1828
-CCAA,Andalucía,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdD,433
-CCAA,Andalucía,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdT,4232.97
-CCAA,Andalucía,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdD,837.86
+CCAA,Andalucía,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdT,2111
+CCAA,Andalucía,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdD,558
+CCAA,Andalucía,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdT,4550.61
+CCAA,Andalucía,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdD,881.06
 CCAA,Andalucía,,,,,,capacidad_acceso,termosolar,Termosolar,Puesta en servicio,RdT,549.6
 CCAA,Andalucía,,,,,,capacidad_acceso,termosolar,Termosolar,Puesta en servicio,RdD,266.9
 CCAA,Andalucía,,,,,,capacidad_acceso,hidraulica,Hidráulica,Puesta en servicio,RdT,
@@ -116,25 +116,25 @@ CCAA,Andalucía,,,,,,capacidad_acceso,bombeo,Bombeo,Puesta en servicio,RdD,
 CCAA,Andalucía,,,,,,capacidad_acceso,otras,Otras tecnologías,En curso,RdT,2286.16
 CCAA,Andalucía,,,,,,capacidad_acceso,otras,Otras tecnologías,En curso,RdD,
 CCAA,Andalucía,,,,,,capacidad_acceso,otras,Otras tecnologías,Con permisos,RdT,
-CCAA,Andalucía,,,,,,capacidad_acceso,otras,Otras tecnologías,Con permisos,RdD,55
+CCAA,Andalucía,,,,,,capacidad_acceso,otras,Otras tecnologías,Con permisos,RdD,53
 CCAA,Andalucía,,,,,,capacidad_acceso,otras,Otras tecnologías,Puesta en servicio,RdT,5770.67
-CCAA,Andalucía,,,,,,capacidad_acceso,otras,Otras tecnologías,Puesta en servicio,RdD,1546.42
-CCAA,Andalucía,,,,,,potencia_instalada,eolica,Eólica,En curso,RdT,434.73
-CCAA,Andalucía,,,,,,potencia_instalada,eolica,Eólica,En curso,RdD,146.18
-CCAA,Andalucía,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdT,1351
-CCAA,Andalucía,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdD,468
+CCAA,Andalucía,,,,,,capacidad_acceso,otras,Otras tecnologías,Puesta en servicio,RdD,1553.94
+CCAA,Andalucía,,,,,,potencia_instalada,eolica,Eólica,En curso,RdT,508.73
+CCAA,Andalucía,,,,,,potencia_instalada,eolica,Eólica,En curso,RdD,81.7
+CCAA,Andalucía,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdT,1252
+CCAA,Andalucía,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdD,466
 CCAA,Andalucía,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdT,2530.02
 CCAA,Andalucía,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdD,1077.01
-CCAA,Andalucía,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdT,1685.6
-CCAA,Andalucía,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdD,1528.9
-CCAA,Andalucía,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,10421
-CCAA,Andalucía,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,4162
-CCAA,Andalucía,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,8361.86
-CCAA,Andalucía,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,3362.74
-CCAA,Andalucía,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdT,1122.18
+CCAA,Andalucía,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdT,2400.0
+CCAA,Andalucía,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdD,1510.2
+CCAA,Andalucía,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,10117
+CCAA,Andalucía,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,3995
+CCAA,Andalucía,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,8524.76
+CCAA,Andalucía,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,3521.35
+CCAA,Andalucía,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdT,1820.17
 CCAA,Andalucía,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdD,101.32
-CCAA,Andalucía,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdT,4668
-CCAA,Andalucía,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdD,1636
+CCAA,Andalucía,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdT,5357
+CCAA,Andalucía,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdD,1770
 CCAA,Andalucía,,,,,,potencia_instalada,almacenamiento,Baterías,Puesta en servicio,RdT,71.26
 CCAA,Andalucía,,,,,,potencia_instalada,almacenamiento,Baterías,Puesta en servicio,RdD,0.6
 CCAA,Andalucía,,,,,,potencia_instalada,termosolar,Termosolar,Con permisos,RdT,
@@ -155,25 +155,25 @@ CCAA,Andalucía,,,,,,potencia_instalada,otras,Otras tecnologías,Con permisos,Rd
 CCAA,Andalucía,,,,,,potencia_instalada,otras,Otras tecnologías,Con permisos,RdD,69
 CCAA,Andalucía,,,,,,potencia_instalada,otras,Otras tecnologías,Puesta en servicio,RdT,6762.2
 CCAA,Andalucía,,,,,,potencia_instalada,otras,Otras tecnologías,Puesta en servicio,RdD,1556.41
-CCAA,Aragón,,,,,,capacidad_acceso,eolica,Eólica,En curso,RdT,1614.84
+CCAA,Aragón,,,,,,capacidad_acceso,eolica,Eólica,En curso,RdT,1724.05
 CCAA,Aragón,,,,,,capacidad_acceso,eolica,Eólica,En curso,RdD,4.9
-CCAA,Aragón,,,,,,capacidad_acceso,eolica,Eólica,Con permisos,RdT,2302
+CCAA,Aragón,,,,,,capacidad_acceso,eolica,Eólica,Con permisos,RdT,2392
 CCAA,Aragón,,,,,,capacidad_acceso,eolica,Eólica,Con permisos,RdD,262
 CCAA,Aragón,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdT,2602.5
 CCAA,Aragón,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdD,1426.47
 CCAA,Aragón,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdT,532.03
 CCAA,Aragón,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdD,
-CCAA,Aragón,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,3913
-CCAA,Aragón,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,526
+CCAA,Aragón,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,3212
+CCAA,Aragón,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,516
 CCAA,Aragón,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,660.96
-CCAA,Aragón,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,873.15
-CCAA,Aragón,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdT,710.89
+CCAA,Aragón,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,883.15
+CCAA,Aragón,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdT,610.9
 CCAA,Aragón,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdD,
-CCAA,Aragón,,,,,,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdT,129
+CCAA,Aragón,,,,,,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdT,49
 CCAA,Aragón,,,,,,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdD,
-CCAA,Aragón,,,,,,capacidad_acceso,hibridacion,Hibridación,En curso,RdT,510.95
+CCAA,Aragón,,,,,,capacidad_acceso,hibridacion,Hibridación,En curso,RdT,285.91
 CCAA,Aragón,,,,,,capacidad_acceso,hibridacion,Hibridación,En curso,RdD,
-CCAA,Aragón,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdT,2212
+CCAA,Aragón,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdT,2795
 CCAA,Aragón,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdD,193
 CCAA,Aragón,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdT,4517.84
 CCAA,Aragón,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdD,1055.27
@@ -187,21 +187,21 @@ CCAA,Aragón,,,,,,capacidad_acceso,otras,Otras tecnologías,Con permisos,RdT,
 CCAA,Aragón,,,,,,capacidad_acceso,otras,Otras tecnologías,Con permisos,RdD,62
 CCAA,Aragón,,,,,,capacidad_acceso,otras,Otras tecnologías,Puesta en servicio,RdT,174.3
 CCAA,Aragón,,,,,,capacidad_acceso,otras,Otras tecnologías,Puesta en servicio,RdD,1141.02
-CCAA,Aragón,,,,,,potencia_instalada,eolica,Eólica,En curso,RdT,2007.62
+CCAA,Aragón,,,,,,potencia_instalada,eolica,Eólica,En curso,RdT,1932.29
 CCAA,Aragón,,,,,,potencia_instalada,eolica,Eólica,En curso,RdD,4.9
-CCAA,Aragón,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdT,7026
+CCAA,Aragón,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdT,7250
 CCAA,Aragón,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdD,529
 CCAA,Aragón,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdT,4144.74
 CCAA,Aragón,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdD,1774.61
-CCAA,Aragón,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdT,826.61
+CCAA,Aragón,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdT,679.97
 CCAA,Aragón,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdD,
-CCAA,Aragón,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,8333
-CCAA,Aragón,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,943
+CCAA,Aragón,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,8247
+CCAA,Aragón,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,930
 CCAA,Aragón,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,3319.79
-CCAA,Aragón,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,1639.11
-CCAA,Aragón,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdT,860.39
+CCAA,Aragón,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,1651.76
+CCAA,Aragón,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdT,705.9
 CCAA,Aragón,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdD,
-CCAA,Aragón,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdT,1633
+CCAA,Aragón,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdT,2322
 CCAA,Aragón,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdD,525
 CCAA,Aragón,,,,,,potencia_instalada,hidraulica,Hidráulica,Con permisos,RdT,
 CCAA,Aragón,,,,,,potencia_instalada,hidraulica,Hidráulica,Con permisos,RdD,13
@@ -223,9 +223,9 @@ CCAA,Asturias,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdT,
 CCAA,Asturias,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdD,39.6
 CCAA,Asturias,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,
 CCAA,Asturias,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,24
-CCAA,Asturias,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdT,139
-CCAA,Asturias,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdD,302.79
-CCAA,Asturias,,,,,,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdT,24
+CCAA,Asturias,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdT,39
+CCAA,Asturias,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdD,257.79
+CCAA,Asturias,,,,,,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdT,124
 CCAA,Asturias,,,,,,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdD,737
 CCAA,Asturias,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdT,
 CCAA,Asturias,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdD,39
@@ -251,10 +251,10 @@ CCAA,Asturias,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdT,
 CCAA,Asturias,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdD,44.6
 CCAA,Asturias,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,
 CCAA,Asturias,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,24
-CCAA,Asturias,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdT,139
+CCAA,Asturias,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdT,39
 CCAA,Asturias,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdD,309.77
-CCAA,Asturias,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdT,24
-CCAA,Asturias,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdD,822
+CCAA,Asturias,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdT,124
+CCAA,Asturias,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdD,817
 CCAA,Asturias,,,,,,potencia_instalada,hidraulica,Hidráulica,Con permisos,RdT,
 CCAA,Asturias,,,,,,potencia_instalada,hidraulica,Hidráulica,Con permisos,RdD,20
 CCAA,Asturias,,,,,,potencia_instalada,hidraulica,Hidráulica,Puesta en servicio,RdT,
@@ -267,25 +267,27 @@ CCAA,Asturias,,,,,,potencia_instalada,otras,Otras tecnologías,Con permisos,RdT,
 CCAA,Asturias,,,,,,potencia_instalada,otras,Otras tecnologías,Con permisos,RdD,
 CCAA,Asturias,,,,,,potencia_instalada,otras,Otras tecnologías,Puesta en servicio,RdT,1762.31
 CCAA,Asturias,,,,,,potencia_instalada,otras,Otras tecnologías,Puesta en servicio,RdD,521.21
-CCAA,Canarias,,,,,,capacidad_acceso,eolica,Eólica,En curso,RdT,4
+CCAA,Canarias,,,,,,capacidad_acceso,eolica,Eólica,En curso,RdT,28
 CCAA,Canarias,,,,,,capacidad_acceso,eolica,Eólica,En curso,RdD,
-CCAA,Canarias,,,,,,capacidad_acceso,eolica,Eólica,Con permisos,RdT,228
-CCAA,Canarias,,,,,,capacidad_acceso,eolica,Eólica,Con permisos,RdD,84
-CCAA,Canarias,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdT,340.27
-CCAA,Canarias,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdD,136.36
-CCAA,Canarias,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdT,14
-CCAA,Canarias,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdD,
-CCAA,Canarias,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,94
-CCAA,Canarias,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,242
+CCAA,Canarias,,,,,,capacidad_acceso,eolica,Eólica,Con permisos,RdT,211
+CCAA,Canarias,,,,,,capacidad_acceso,eolica,Eólica,Con permisos,RdD,77
+CCAA,Canarias,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdT,348.6
+CCAA,Canarias,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdD,131.36
+CCAA,Canarias,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdT,7
+CCAA,Canarias,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdD,9.2
+CCAA,Canarias,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,101
+CCAA,Canarias,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,224
 CCAA,Canarias,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,91.26
-CCAA,Canarias,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,137.03
+CCAA,Canarias,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,136.73
+CCAA,Canarias,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdT,
+CCAA,Canarias,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdD,30
 CCAA,Canarias,,,,,,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdT,138
-CCAA,Canarias,,,,,,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdD,534
+CCAA,Canarias,,,,,,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdD,506
 CCAA,Canarias,,,,,,capacidad_acceso,almacenamiento,Baterías,Puesta en servicio,RdT,
 CCAA,Canarias,,,,,,capacidad_acceso,almacenamiento,Baterías,Puesta en servicio,RdD,4
 CCAA,Canarias,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdT,29
-CCAA,Canarias,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdD,39
-CCAA,Canarias,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdT,189.07
+CCAA,Canarias,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdD,52
+CCAA,Canarias,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdT,198.07
 CCAA,Canarias,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdD,29.8
 CCAA,Canarias,,,,,,capacidad_acceso,hidraulica,Hidráulica,Con permisos,RdT,
 CCAA,Canarias,,,,,,capacidad_acceso,hidraulica,Hidráulica,Con permisos,RdD,11
@@ -295,20 +297,22 @@ CCAA,Canarias,,,,,,capacidad_acceso,otras,Otras tecnologías,Con permisos,RdT,74
 CCAA,Canarias,,,,,,capacidad_acceso,otras,Otras tecnologías,Con permisos,RdD,
 CCAA,Canarias,,,,,,capacidad_acceso,otras,Otras tecnologías,Puesta en servicio,RdT,2603.65
 CCAA,Canarias,,,,,,capacidad_acceso,otras,Otras tecnologías,Puesta en servicio,RdD,29.43
-CCAA,Canarias,,,,,,potencia_instalada,eolica,Eólica,En curso,RdT,9
+CCAA,Canarias,,,,,,potencia_instalada,eolica,Eólica,En curso,RdT,33
 CCAA,Canarias,,,,,,potencia_instalada,eolica,Eólica,En curso,RdD,
-CCAA,Canarias,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdT,257
+CCAA,Canarias,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdT,238
 CCAA,Canarias,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdD,119
-CCAA,Canarias,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdT,498.97
+CCAA,Canarias,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdT,516.3
 CCAA,Canarias,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdD,162.31
-CCAA,Canarias,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdT,15
-CCAA,Canarias,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdD,
-CCAA,Canarias,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,178
-CCAA,Canarias,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,331
+CCAA,Canarias,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdT,7
+CCAA,Canarias,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdD,9.8
+CCAA,Canarias,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,185
+CCAA,Canarias,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,326
 CCAA,Canarias,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,165.8
 CCAA,Canarias,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,144.76
+CCAA,Canarias,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdT,
+CCAA,Canarias,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdD,34.95
 CCAA,Canarias,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdT,253
-CCAA,Canarias,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdD,648
+CCAA,Canarias,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdD,626
 CCAA,Canarias,,,,,,potencia_instalada,almacenamiento,Baterías,Puesta en servicio,RdT,5.08
 CCAA,Canarias,,,,,,potencia_instalada,almacenamiento,Baterías,Puesta en servicio,RdD,4
 CCAA,Canarias,,,,,,potencia_instalada,hidraulica,Hidráulica,Con permisos,RdT,
@@ -348,7 +352,7 @@ CCAA,Cantabria,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdD,130
 CCAA,Cantabria,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdT,
 CCAA,Cantabria,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdD,167.8
 CCAA,Cantabria,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,
-CCAA,Cantabria,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,26
+CCAA,Cantabria,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,25
 CCAA,Cantabria,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,
 CCAA,Cantabria,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,11.2
 CCAA,Cantabria,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdT,
@@ -365,28 +369,28 @@ CCAA,Cantabria,,,,,,potencia_instalada,otras,Otras tecnologías,Con permisos,RdT
 CCAA,Cantabria,,,,,,potencia_instalada,otras,Otras tecnologías,Con permisos,RdD,54
 CCAA,Cantabria,,,,,,potencia_instalada,otras,Otras tecnologías,Puesta en servicio,RdT,175.7
 CCAA,Cantabria,,,,,,potencia_instalada,otras,Otras tecnologías,Puesta en servicio,RdD,237.63
-CCAA,Castilla y León,,,,,,capacidad_acceso,eolica,Eólica,En curso,RdT,5298.43
+CCAA,Castilla y León,,,,,,capacidad_acceso,eolica,Eólica,En curso,RdT,5071.52
 CCAA,Castilla y León,,,,,,capacidad_acceso,eolica,Eólica,En curso,RdD,254.21
-CCAA,Castilla y León,,,,,,capacidad_acceso,eolica,Eólica,Con permisos,RdT,2254
+CCAA,Castilla y León,,,,,,capacidad_acceso,eolica,Eólica,Con permisos,RdT,2124
 CCAA,Castilla y León,,,,,,capacidad_acceso,eolica,Eólica,Con permisos,RdD,115
-CCAA,Castilla y León,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdT,3831.96
+CCAA,Castilla y León,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdT,3912.96
 CCAA,Castilla y León,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdD,835.94
-CCAA,Castilla y León,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdT,2550.31
+CCAA,Castilla y León,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdT,2552.31
 CCAA,Castilla y León,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdD,266.97
-CCAA,Castilla y León,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,4862
-CCAA,Castilla y León,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,214
-CCAA,Castilla y León,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,1939.85
+CCAA,Castilla y León,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,4682
+CCAA,Castilla y León,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,199
+CCAA,Castilla y León,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,1869.23
 CCAA,Castilla y León,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,1391.68
-CCAA,Castilla y León,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdT,2144.14
+CCAA,Castilla y León,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdT,1873.24
 CCAA,Castilla y León,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdD,29.49
 CCAA,Castilla y León,,,,,,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdT,313
 CCAA,Castilla y León,,,,,,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdD,1
 CCAA,Castilla y León,,,,,,capacidad_acceso,hibridacion,Hibridación,En curso,RdT,375.33
 CCAA,Castilla y León,,,,,,capacidad_acceso,hibridacion,Hibridación,En curso,RdD,
-CCAA,Castilla y León,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdT,2322
+CCAA,Castilla y León,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdT,3173
 CCAA,Castilla y León,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdD,124
-CCAA,Castilla y León,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdT,4772.41
-CCAA,Castilla y León,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdD,349.89
+CCAA,Castilla y León,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdT,4221.35
+CCAA,Castilla y León,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdD,364.61
 CCAA,Castilla y León,,,,,,capacidad_acceso,hidraulica,Hidráulica,Con permisos,RdT,
 CCAA,Castilla y León,,,,,,capacidad_acceso,hidraulica,Hidráulica,Con permisos,RdD,4
 CCAA,Castilla y León,,,,,,capacidad_acceso,hidraulica,Hidráulica,Puesta en servicio,RdT,1968.8
@@ -403,22 +407,22 @@ CCAA,Castilla y León,,,,,,capacidad_acceso,otras,Otras tecnologías,Con permiso
 CCAA,Castilla y León,,,,,,capacidad_acceso,otras,Otras tecnologías,Con permisos,RdD,49
 CCAA,Castilla y León,,,,,,capacidad_acceso,otras,Otras tecnologías,Puesta en servicio,RdT,16
 CCAA,Castilla y León,,,,,,capacidad_acceso,otras,Otras tecnologías,Puesta en servicio,RdD,810.62
-CCAA,Castilla y León,,,,,,potencia_instalada,eolica,Eólica,En curso,RdT,5620.17
+CCAA,Castilla y León,,,,,,potencia_instalada,eolica,Eólica,En curso,RdT,5393.27
 CCAA,Castilla y León,,,,,,potencia_instalada,eolica,Eólica,En curso,RdD,335.68
-CCAA,Castilla y León,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdT,3998
+CCAA,Castilla y León,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdT,3873
 CCAA,Castilla y León,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdD,241
-CCAA,Castilla y León,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdT,7074.83
+CCAA,Castilla y León,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdT,7205.33
 CCAA,Castilla y León,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdD,972.02
-CCAA,Castilla y León,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdT,2893.48
+CCAA,Castilla y León,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdT,2895.48
 CCAA,Castilla y León,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdD,351.16
-CCAA,Castilla y León,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,9372
-CCAA,Castilla y León,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,464
-CCAA,Castilla y León,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,5282.2
-CCAA,Castilla y León,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,1680.02
-CCAA,Castilla y León,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdT,2323.8
+CCAA,Castilla y León,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,9277
+CCAA,Castilla y León,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,449
+CCAA,Castilla y León,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,5309.26
+CCAA,Castilla y León,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,1696.54
+CCAA,Castilla y León,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdT,2042.9
 CCAA,Castilla y León,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdD,29.49
-CCAA,Castilla y León,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdT,3103
-CCAA,Castilla y León,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdD,128
+CCAA,Castilla y León,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdT,3391
+CCAA,Castilla y León,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdD,141
 CCAA,Castilla y León,,,,,,potencia_instalada,almacenamiento,Baterías,Puesta en servicio,RdT,39.78
 CCAA,Castilla y León,,,,,,potencia_instalada,almacenamiento,Baterías,Puesta en servicio,RdD,12.36
 CCAA,Castilla y León,,,,,,potencia_instalada,hidraulica,Hidráulica,Con permisos,RdT,
@@ -442,23 +446,23 @@ CCAA,Castilla La Mancha,,,,,,capacidad_acceso,eolica,Eólica,En curso,RdD,185
 CCAA,Castilla La Mancha,,,,,,capacidad_acceso,eolica,Eólica,Con permisos,RdT,75
 CCAA,Castilla La Mancha,,,,,,capacidad_acceso,eolica,Eólica,Con permisos,RdD,14
 CCAA,Castilla La Mancha,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdT,1770.82
-CCAA,Castilla La Mancha,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdD,551.77
-CCAA,Castilla La Mancha,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdT,793.93
+CCAA,Castilla La Mancha,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdD,523.77
+CCAA,Castilla La Mancha,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdT,823.58
 CCAA,Castilla La Mancha,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdD,975.07
 CCAA,Castilla La Mancha,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,1401
-CCAA,Castilla La Mancha,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,474
-CCAA,Castilla La Mancha,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,1782.44
-CCAA,Castilla La Mancha,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,1221.78
+CCAA,Castilla La Mancha,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,442
+CCAA,Castilla La Mancha,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,1608.34
+CCAA,Castilla La Mancha,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,1222.78
 CCAA,Castilla La Mancha,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdT,265.3
 CCAA,Castilla La Mancha,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdD,59.98
 CCAA,Castilla La Mancha,,,,,,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdT,20
 CCAA,Castilla La Mancha,,,,,,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdD,
-CCAA,Castilla La Mancha,,,,,,capacidad_acceso,hibridacion,Hibridación,En curso,RdT,541.96
-CCAA,Castilla La Mancha,,,,,,capacidad_acceso,hibridacion,Hibridación,En curso,RdD,70.09
+CCAA,Castilla La Mancha,,,,,,capacidad_acceso,hibridacion,Hibridación,En curso,RdT,612.26
+CCAA,Castilla La Mancha,,,,,,capacidad_acceso,hibridacion,Hibridación,En curso,RdD,65.09
 CCAA,Castilla La Mancha,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdT,909
-CCAA,Castilla La Mancha,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdD,495
-CCAA,Castilla La Mancha,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdT,6121.6
-CCAA,Castilla La Mancha,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdD,546.23
+CCAA,Castilla La Mancha,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdD,490
+CCAA,Castilla La Mancha,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdT,6295.7
+CCAA,Castilla La Mancha,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdD,584.42
 CCAA,Castilla La Mancha,,,,,,capacidad_acceso,termosolar,Termosolar,Puesta en servicio,RdT,247.6
 CCAA,Castilla La Mancha,,,,,,capacidad_acceso,termosolar,Termosolar,Puesta en servicio,RdD,
 CCAA,Castilla La Mancha,,,,,,capacidad_acceso,hidraulica,Hidráulica,Puesta en servicio,RdT,
@@ -473,22 +477,22 @@ CCAA,Castilla La Mancha,,,,,,capacidad_acceso,otras,Otras tecnologías,Puesta en
 CCAA,Castilla La Mancha,,,,,,capacidad_acceso,otras,Otras tecnologías,Puesta en servicio,RdD,744.4
 CCAA,Castilla La Mancha,,,,,,potencia_instalada,eolica,Eólica,En curso,RdT,107
 CCAA,Castilla La Mancha,,,,,,potencia_instalada,eolica,Eólica,En curso,RdD,185
-CCAA,Castilla La Mancha,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdT,865
+CCAA,Castilla La Mancha,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdT,899
 CCAA,Castilla La Mancha,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdD,297
-CCAA,Castilla La Mancha,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdT,3897.93
-CCAA,Castilla La Mancha,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdD,925.29
-CCAA,Castilla La Mancha,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdT,1431.82
+CCAA,Castilla La Mancha,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdT,3876.33
+CCAA,Castilla La Mancha,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdD,1017.24
+CCAA,Castilla La Mancha,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdT,1497.37
 CCAA,Castilla La Mancha,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdD,1073.75
-CCAA,Castilla La Mancha,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,3661
-CCAA,Castilla La Mancha,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,1195
+CCAA,Castilla La Mancha,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,3627
+CCAA,Castilla La Mancha,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,1177
 CCAA,Castilla La Mancha,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,7309.6
-CCAA,Castilla La Mancha,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,1595.09
-CCAA,Castilla La Mancha,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdT,457.79
+CCAA,Castilla La Mancha,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,1600.04
+CCAA,Castilla La Mancha,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdT,542.95
 CCAA,Castilla La Mancha,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdD,84.9
-CCAA,Castilla La Mancha,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdT,3578
-CCAA,Castilla La Mancha,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdD,201
+CCAA,Castilla La Mancha,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdT,3919
+CCAA,Castilla La Mancha,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdD,199
 CCAA,Castilla La Mancha,,,,,,potencia_instalada,almacenamiento,Baterías,Puesta en servicio,RdT,98.2
-CCAA,Castilla La Mancha,,,,,,potencia_instalada,almacenamiento,Baterías,Puesta en servicio,RdD,
+CCAA,Castilla La Mancha,,,,,,potencia_instalada,almacenamiento,Baterías,Puesta en servicio,RdD,2
 CCAA,Castilla La Mancha,,,,,,potencia_instalada,termosolar,Termosolar,Puesta en servicio,RdT,349.4
 CCAA,Castilla La Mancha,,,,,,potencia_instalada,termosolar,Termosolar,Puesta en servicio,RdD,
 CCAA,Castilla La Mancha,,,,,,potencia_instalada,hidraulica,Hidráulica,Puesta en servicio,RdT,148.1
@@ -502,26 +506,26 @@ CCAA,Castilla La Mancha,,,,,,potencia_instalada,otras,Otras tecnologías,Con per
 CCAA,Castilla La Mancha,,,,,,potencia_instalada,otras,Otras tecnologías,Puesta en servicio,RdT,2198.23
 CCAA,Castilla La Mancha,,,,,,potencia_instalada,otras,Otras tecnologías,Puesta en servicio,RdD,749.59
 CCAA,Cataluña,,,,,,capacidad_acceso,eolica,Eólica,En curso,RdT,229
-CCAA,Cataluña,,,,,,capacidad_acceso,eolica,Eólica,En curso,RdD,167.8
+CCAA,Cataluña,,,,,,capacidad_acceso,eolica,Eólica,En curso,RdD,157.8
 CCAA,Cataluña,,,,,,capacidad_acceso,eolica,Eólica,Con permisos,RdT,998
-CCAA,Cataluña,,,,,,capacidad_acceso,eolica,Eólica,Con permisos,RdD,184
-CCAA,Cataluña,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdT,935.62
+CCAA,Cataluña,,,,,,capacidad_acceso,eolica,Eólica,Con permisos,RdD,214
+CCAA,Cataluña,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdT,905.62
 CCAA,Cataluña,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdD,248.18
 CCAA,Cataluña,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdT,430.77
 CCAA,Cataluña,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdD,329.99
 CCAA,Cataluña,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,1093
-CCAA,Cataluña,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,1632
+CCAA,Cataluña,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,1630
 CCAA,Cataluña,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,152.6
-CCAA,Cataluña,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,217.24
-CCAA,Cataluña,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdT,1822.38
-CCAA,Cataluña,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdD,286.91
+CCAA,Cataluña,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,222.19
+CCAA,Cataluña,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdT,1672.39
+CCAA,Cataluña,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdD,301.88
 CCAA,Cataluña,,,,,,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdT,1555
-CCAA,Cataluña,,,,,,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdD,1258
+CCAA,Cataluña,,,,,,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdD,1254
 CCAA,Cataluña,,,,,,capacidad_acceso,hibridacion,Hibridación,En curso,RdT,
 CCAA,Cataluña,,,,,,capacidad_acceso,hibridacion,Hibridación,En curso,RdD,7.63
 CCAA,Cataluña,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdT,199
-CCAA,Cataluña,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdD,104
-CCAA,Cataluña,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdT,397.5
+CCAA,Cataluña,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdD,108
+CCAA,Cataluña,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdT,427.5
 CCAA,Cataluña,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdD,47.05
 CCAA,Cataluña,,,,,,capacidad_acceso,termosolar,Termosolar,Puesta en servicio,RdT,
 CCAA,Cataluña,,,,,,capacidad_acceso,termosolar,Termosolar,Puesta en servicio,RdD,22.5
@@ -534,21 +538,21 @@ CCAA,Cataluña,,,,,,capacidad_acceso,otras,Otras tecnologías,En curso,RdD,
 CCAA,Cataluña,,,,,,capacidad_acceso,otras,Otras tecnologías,Con permisos,RdT,13
 CCAA,Cataluña,,,,,,capacidad_acceso,otras,Otras tecnologías,Con permisos,RdD,98
 CCAA,Cataluña,,,,,,capacidad_acceso,otras,Otras tecnologías,Puesta en servicio,RdT,6948.41
-CCAA,Cataluña,,,,,,capacidad_acceso,otras,Otras tecnologías,Puesta en servicio,RdD,2015.05
+CCAA,Cataluña,,,,,,capacidad_acceso,otras,Otras tecnologías,Puesta en servicio,RdD,2007.71
 CCAA,Cataluña,,,,,,potencia_instalada,eolica,Eólica,En curso,RdT,229
-CCAA,Cataluña,,,,,,potencia_instalada,eolica,Eólica,En curso,RdD,170.7
+CCAA,Cataluña,,,,,,potencia_instalada,eolica,Eólica,En curso,RdD,160.7
 CCAA,Cataluña,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdT,1463
-CCAA,Cataluña,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdD,185
+CCAA,Cataluña,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdD,215
 CCAA,Cataluña,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdT,1184.52
 CCAA,Cataluña,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdD,248.18
 CCAA,Cataluña,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdT,436.33
 CCAA,Cataluña,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdD,344.19
-CCAA,Cataluña,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,1802
+CCAA,Cataluña,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,1820
 CCAA,Cataluña,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,1923
 CCAA,Cataluña,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,323.29
 CCAA,Cataluña,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,256.53
-CCAA,Cataluña,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdT,1851.9
-CCAA,Cataluña,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdD,299.6
+CCAA,Cataluña,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdT,1701.91
+CCAA,Cataluña,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdD,314.57
 CCAA,Cataluña,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdT,1735
 CCAA,Cataluña,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdD,1425
 CCAA,Cataluña,,,,,,potencia_instalada,termosolar,Termosolar,Puesta en servicio,RdT,
@@ -569,20 +573,20 @@ CCAA,Comunidad Valenciana,,,,,,capacidad_acceso,eolica,Eólica,Con permisos,RdT,
 CCAA,Comunidad Valenciana,,,,,,capacidad_acceso,eolica,Eólica,Con permisos,RdD,160
 CCAA,Comunidad Valenciana,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdT,825.15
 CCAA,Comunidad Valenciana,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdD,434.93
-CCAA,Comunidad Valenciana,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdT,110
+CCAA,Comunidad Valenciana,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdT,159.95
 CCAA,Comunidad Valenciana,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdD,300.75
 CCAA,Comunidad Valenciana,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,1990
-CCAA,Comunidad Valenciana,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,2870
+CCAA,Comunidad Valenciana,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,2860
 CCAA,Comunidad Valenciana,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,172.24
-CCAA,Comunidad Valenciana,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,839.68
+CCAA,Comunidad Valenciana,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,820.19
 CCAA,Comunidad Valenciana,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdT,139.8
-CCAA,Comunidad Valenciana,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdD,1536.97
+CCAA,Comunidad Valenciana,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdD,1564.97
 CCAA,Comunidad Valenciana,,,,,,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdT,265
 CCAA,Comunidad Valenciana,,,,,,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdD,404
 CCAA,Comunidad Valenciana,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdT,776
-CCAA,Comunidad Valenciana,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdD,14
+CCAA,Comunidad Valenciana,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdD,24
 CCAA,Comunidad Valenciana,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdT,210.1
-CCAA,Comunidad Valenciana,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdD,31.12
+CCAA,Comunidad Valenciana,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdD,50.61
 CCAA,Comunidad Valenciana,,,,,,capacidad_acceso,termosolar,Termosolar,Puesta en servicio,RdT,
 CCAA,Comunidad Valenciana,,,,,,capacidad_acceso,termosolar,Termosolar,Puesta en servicio,RdD,81.3
 CCAA,Comunidad Valenciana,,,,,,capacidad_acceso,hidraulica,Hidráulica,Con permisos,RdT,
@@ -601,16 +605,16 @@ CCAA,Comunidad Valenciana,,,,,,potencia_instalada,eolica,Eólica,Con permisos,Rd
 CCAA,Comunidad Valenciana,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdD,160
 CCAA,Comunidad Valenciana,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdT,966.25
 CCAA,Comunidad Valenciana,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdD,434.93
-CCAA,Comunidad Valenciana,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdT,60
+CCAA,Comunidad Valenciana,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdT,60.05
 CCAA,Comunidad Valenciana,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdD,370.15
 CCAA,Comunidad Valenciana,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,3520
 CCAA,Comunidad Valenciana,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,3230
 CCAA,Comunidad Valenciana,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,278.99
-CCAA,Comunidad Valenciana,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,909.11
+CCAA,Comunidad Valenciana,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,906.96
 CCAA,Comunidad Valenciana,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdT,139.8
-CCAA,Comunidad Valenciana,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdD,1602.42
+CCAA,Comunidad Valenciana,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdD,1630.42
 CCAA,Comunidad Valenciana,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdT,793
-CCAA,Comunidad Valenciana,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdD,501
+CCAA,Comunidad Valenciana,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdD,519
 CCAA,Comunidad Valenciana,,,,,,potencia_instalada,termosolar,Termosolar,Puesta en servicio,RdT,
 CCAA,Comunidad Valenciana,,,,,,potencia_instalada,termosolar,Termosolar,Puesta en servicio,RdD,81.3
 CCAA,Comunidad Valenciana,,,,,,potencia_instalada,hidraulica,Hidráulica,Con permisos,RdT,
@@ -627,20 +631,20 @@ CCAA,Extremadura,,,,,,capacidad_acceso,eolica,Eólica,Con permisos,RdT,33
 CCAA,Extremadura,,,,,,capacidad_acceso,eolica,Eólica,Con permisos,RdD,
 CCAA,Extremadura,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdT,49.5
 CCAA,Extremadura,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdD,49.28
-CCAA,Extremadura,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdT,438.69
+CCAA,Extremadura,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdT,437.64
 CCAA,Extremadura,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdD,183.9
-CCAA,Extremadura,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,1558
-CCAA,Extremadura,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,344
-CCAA,Extremadura,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,1931.76
+CCAA,Extremadura,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,1308
+CCAA,Extremadura,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,304
+CCAA,Extremadura,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,2181.76
 CCAA,Extremadura,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,1099.71
-CCAA,Extremadura,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdT,356
+CCAA,Extremadura,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdT,351
 CCAA,Extremadura,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdD,
 CCAA,Extremadura,,,,,,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdT,22
 CCAA,Extremadura,,,,,,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdD,
 CCAA,Extremadura,,,,,,capacidad_acceso,hibridacion,Hibridación,En curso,RdT,702
 CCAA,Extremadura,,,,,,capacidad_acceso,hibridacion,Hibridación,En curso,RdD,
 CCAA,Extremadura,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdT,1100
-CCAA,Extremadura,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdD,50
+CCAA,Extremadura,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdD,92
 CCAA,Extremadura,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdT,4502.56
 CCAA,Extremadura,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdD,524.4
 CCAA,Extremadura,,,,,,capacidad_acceso,termosolar,Termosolar,Puesta en servicio,RdT,349.8
@@ -659,16 +663,16 @@ CCAA,Extremadura,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdT,66
 CCAA,Extremadura,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdD,12
 CCAA,Extremadura,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdT,49.5
 CCAA,Extremadura,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdD,49.28
-CCAA,Extremadura,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdT,1208.67
+CCAA,Extremadura,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdT,1207.62
 CCAA,Extremadura,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdD,218.89
-CCAA,Extremadura,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,2546
+CCAA,Extremadura,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,2188
 CCAA,Extremadura,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,433
-CCAA,Extremadura,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,7766.63
+CCAA,Extremadura,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,8019.38
 CCAA,Extremadura,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,1674.92
-CCAA,Extremadura,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdT,991.76
+CCAA,Extremadura,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdT,984.46
 CCAA,Extremadura,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdD,
-CCAA,Extremadura,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdT,4379
-CCAA,Extremadura,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdD,270
+CCAA,Extremadura,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdT,4385
+CCAA,Extremadura,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdD,318
 CCAA,Extremadura,,,,,,potencia_instalada,almacenamiento,Baterías,Puesta en servicio,RdT,4.18
 CCAA,Extremadura,,,,,,potencia_instalada,almacenamiento,Baterías,Puesta en servicio,RdD,60.56
 CCAA,Extremadura,,,,,,potencia_instalada,termosolar,Termosolar,Puesta en servicio,RdT,649.6
@@ -683,37 +687,37 @@ CCAA,Extremadura,,,,,,potencia_instalada,bombeo,Bombeo,Puesta en servicio,RdT,29
 CCAA,Extremadura,,,,,,potencia_instalada,bombeo,Bombeo,Puesta en servicio,RdD,
 CCAA,Extremadura,,,,,,potencia_instalada,otras,Otras tecnologías,Puesta en servicio,RdT,2067.03
 CCAA,Extremadura,,,,,,potencia_instalada,otras,Otras tecnologías,Puesta en servicio,RdD,244.78
-CCAA,Galicia,,,,,,capacidad_acceso,eolica,Eólica,En curso,RdT,1868.68
+CCAA,Galicia,,,,,,capacidad_acceso,eolica,Eólica,En curso,RdT,1769.68
 CCAA,Galicia,,,,,,capacidad_acceso,eolica,Eólica,En curso,RdD,221.4
-CCAA,Galicia,,,,,,capacidad_acceso,eolica,Eólica,Con permisos,RdT,3451
-CCAA,Galicia,,,,,,capacidad_acceso,eolica,Eólica,Con permisos,RdD,1123
+CCAA,Galicia,,,,,,capacidad_acceso,eolica,Eólica,Con permisos,RdT,3403
+CCAA,Galicia,,,,,,capacidad_acceso,eolica,Eólica,Con permisos,RdD,1079
 CCAA,Galicia,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdT,716.97
-CCAA,Galicia,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdD,3043.05
-CCAA,Galicia,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdT,85.65
+CCAA,Galicia,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdD,3043.25
+CCAA,Galicia,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdT,
 CCAA,Galicia,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdD,72.88
 CCAA,Galicia,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,
 CCAA,Galicia,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,23
 CCAA,Galicia,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,
 CCAA,Galicia,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,7.56
-CCAA,Galicia,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdT,868.24
+CCAA,Galicia,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdT,870.23
 CCAA,Galicia,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdD,28.4
 CCAA,Galicia,,,,,,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdT,581
 CCAA,Galicia,,,,,,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdD,151
 CCAA,Galicia,,,,,,capacidad_acceso,almacenamiento,Baterías,Puesta en servicio,RdT,
 CCAA,Galicia,,,,,,capacidad_acceso,almacenamiento,Baterías,Puesta en servicio,RdD,5
-CCAA,Galicia,,,,,,capacidad_acceso,hibridacion,Hibridación,En curso,RdT,80.57
-CCAA,Galicia,,,,,,capacidad_acceso,hibridacion,Hibridación,En curso,RdD,
+CCAA,Galicia,,,,,,capacidad_acceso,hibridacion,Hibridación,En curso,RdT,166.57
+CCAA,Galicia,,,,,,capacidad_acceso,hibridacion,Hibridación,En curso,RdD,39.39
 CCAA,Galicia,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdT,113
 CCAA,Galicia,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdD,9
 CCAA,Galicia,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdT,64.21
-CCAA,Galicia,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdD,104.85
+CCAA,Galicia,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdD,154.15
 CCAA,Galicia,,,,,,capacidad_acceso,hidraulica,Hidráulica,Con permisos,RdT,191
 CCAA,Galicia,,,,,,capacidad_acceso,hidraulica,Hidráulica,Con permisos,RdD,1
 CCAA,Galicia,,,,,,capacidad_acceso,hidraulica,Hidráulica,Puesta en servicio,RdT,1898.24
 CCAA,Galicia,,,,,,capacidad_acceso,hidraulica,Hidráulica,Puesta en servicio,RdD,80.2
 CCAA,Galicia,,,,,,capacidad_acceso,bombeo,Bombeo,En curso,RdT,25
 CCAA,Galicia,,,,,,capacidad_acceso,bombeo,Bombeo,En curso,RdD,
-CCAA,Galicia,,,,,,capacidad_acceso,bombeo,Bombeo,Con permisos,RdT,440
+CCAA,Galicia,,,,,,capacidad_acceso,bombeo,Bombeo,Con permisos,RdT,408
 CCAA,Galicia,,,,,,capacidad_acceso,bombeo,Bombeo,Con permisos,RdD,
 CCAA,Galicia,,,,,,capacidad_acceso,bombeo,Bombeo,Puesta en servicio,RdT,380.6
 CCAA,Galicia,,,,,,capacidad_acceso,bombeo,Bombeo,Puesta en servicio,RdD,
@@ -723,22 +727,22 @@ CCAA,Galicia,,,,,,capacidad_acceso,otras,Otras tecnologías,Con permisos,RdT,
 CCAA,Galicia,,,,,,capacidad_acceso,otras,Otras tecnologías,Con permisos,RdD,32
 CCAA,Galicia,,,,,,capacidad_acceso,otras,Otras tecnologías,Puesta en servicio,RdT,1382.1
 CCAA,Galicia,,,,,,capacidad_acceso,otras,Otras tecnologías,Puesta en servicio,RdD,1642.05
-CCAA,Galicia,,,,,,potencia_instalada,eolica,Eólica,En curso,RdT,1970.18
-CCAA,Galicia,,,,,,potencia_instalada,eolica,Eólica,En curso,RdD,244.5
-CCAA,Galicia,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdT,3624
-CCAA,Galicia,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdD,1156
+CCAA,Galicia,,,,,,potencia_instalada,eolica,Eólica,En curso,RdT,1959.58
+CCAA,Galicia,,,,,,potencia_instalada,eolica,Eólica,En curso,RdD,274.89
+CCAA,Galicia,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdT,3576
+CCAA,Galicia,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdD,1107
 CCAA,Galicia,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdT,783.47
-CCAA,Galicia,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdD,3134.35
-CCAA,Galicia,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdT,100.35
+CCAA,Galicia,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdD,3856.9
+CCAA,Galicia,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdT,14.7
 CCAA,Galicia,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdD,72.88
 CCAA,Galicia,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,
 CCAA,Galicia,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,24
 CCAA,Galicia,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,
 CCAA,Galicia,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,15.84
-CCAA,Galicia,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdT,969.89
-CCAA,Galicia,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdD,28.4
+CCAA,Galicia,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdT,1055.15
+CCAA,Galicia,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdD,54.28
 CCAA,Galicia,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdT,716
-CCAA,Galicia,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdD,191
+CCAA,Galicia,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdD,227
 CCAA,Galicia,,,,,,potencia_instalada,almacenamiento,Baterías,Puesta en servicio,RdT,
 CCAA,Galicia,,,,,,potencia_instalada,almacenamiento,Baterías,Puesta en servicio,RdD,5
 CCAA,Galicia,,,,,,potencia_instalada,hidraulica,Hidráulica,Con permisos,RdT,
@@ -759,20 +763,20 @@ CCAA,Baleares,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdT,
 CCAA,Baleares,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdD,3.2
 CCAA,Baleares,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdT,
 CCAA,Baleares,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdD,8
-CCAA,Baleares,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,176
-CCAA,Baleares,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,460
+CCAA,Baleares,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,211
+CCAA,Baleares,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,463
 CCAA,Baleares,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,128.94
-CCAA,Baleares,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,237.79
-CCAA,Baleares,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdT,87
-CCAA,Baleares,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdD,8.95
+CCAA,Baleares,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,237.04
+CCAA,Baleares,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdT,18
+CCAA,Baleares,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdD,23.94
 CCAA,Baleares,,,,,,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdT,299
 CCAA,Baleares,,,,,,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdD,545
 CCAA,Baleares,,,,,,capacidad_acceso,hibridacion,Hibridación,En curso,RdT,20
 CCAA,Baleares,,,,,,capacidad_acceso,hibridacion,Hibridación,En curso,RdD,
 CCAA,Baleares,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdT,72
-CCAA,Baleares,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdD,113
+CCAA,Baleares,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdD,109
 CCAA,Baleares,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdT,77.05
-CCAA,Baleares,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdD,20.49
+CCAA,Baleares,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdD,24.99
 CCAA,Baleares,,,,,,capacidad_acceso,otras,Otras tecnologías,Con permisos,RdT,
 CCAA,Baleares,,,,,,capacidad_acceso,otras,Otras tecnologías,Con permisos,RdD,2
 CCAA,Baleares,,,,,,capacidad_acceso,otras,Otras tecnologías,Puesta en servicio,RdT,1729.51
@@ -781,16 +785,16 @@ CCAA,Baleares,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdT,
 CCAA,Baleares,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdD,3.2
 CCAA,Baleares,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdT,1.06
 CCAA,Baleares,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdD,8
-CCAA,Baleares,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,276
-CCAA,Baleares,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,668
+CCAA,Baleares,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,311
+CCAA,Baleares,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,663
 CCAA,Baleares,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,188.19
-CCAA,Baleares,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,286.81
-CCAA,Baleares,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdT,107
-CCAA,Baleares,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdD,8.95
+CCAA,Baleares,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,291.54
+CCAA,Baleares,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdT,38
+CCAA,Baleares,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdD,23.94
 CCAA,Baleares,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdT,464
-CCAA,Baleares,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdD,655
+CCAA,Baleares,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdD,652
 CCAA,Baleares,,,,,,potencia_instalada,almacenamiento,Baterías,Puesta en servicio,RdT,
-CCAA,Baleares,,,,,,potencia_instalada,almacenamiento,Baterías,Puesta en servicio,RdD,7.43
+CCAA,Baleares,,,,,,potencia_instalada,almacenamiento,Baterías,Puesta en servicio,RdD,9.67
 CCAA,Baleares,,,,,,potencia_instalada,otras,Otras tecnologías,Con permisos,RdT,
 CCAA,Baleares,,,,,,potencia_instalada,otras,Otras tecnologías,Con permisos,RdD,2
 CCAA,Baleares,,,,,,potencia_instalada,otras,Otras tecnologías,Puesta en servicio,RdT,1873.88
@@ -804,7 +808,7 @@ CCAA,La Rioja,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdD,94.87
 CCAA,La Rioja,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdT,100
 CCAA,La Rioja,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdD,53.5
 CCAA,La Rioja,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,268
-CCAA,La Rioja,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,81
+CCAA,La Rioja,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,32
 CCAA,La Rioja,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,305.89
 CCAA,La Rioja,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,113.19
 CCAA,La Rioja,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdT,138
@@ -821,12 +825,12 @@ CCAA,La Rioja,,,,,,potencia_instalada,eolica,Eólica,En curso,RdT,311.9
 CCAA,La Rioja,,,,,,potencia_instalada,eolica,Eólica,En curso,RdD,145.68
 CCAA,La Rioja,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdT,
 CCAA,La Rioja,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdD,10
-CCAA,La Rioja,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdT,407.65
+CCAA,La Rioja,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdT,409.15
 CCAA,La Rioja,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdD,94.87
 CCAA,La Rioja,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdT,100
 CCAA,La Rioja,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdD,64.56
 CCAA,La Rioja,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,397
-CCAA,La Rioja,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,89
+CCAA,La Rioja,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,33
 CCAA,La Rioja,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,377.77
 CCAA,La Rioja,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,114.52
 CCAA,La Rioja,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdT,147.99
@@ -843,9 +847,9 @@ CCAA,Madrid,,,,,,capacidad_acceso,eolica,Eólica,Con permisos,RdT,
 CCAA,Madrid,,,,,,capacidad_acceso,eolica,Eólica,Con permisos,RdD,4
 CCAA,Madrid,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdT,
 CCAA,Madrid,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdD,208.88
-CCAA,Madrid,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdT,1548.22
+CCAA,Madrid,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdT,1577.72
 CCAA,Madrid,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdD,219.22
-CCAA,Madrid,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,6451
+CCAA,Madrid,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,6200
 CCAA,Madrid,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,942
 CCAA,Madrid,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,120
 CCAA,Madrid,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,387.92
@@ -853,7 +857,7 @@ CCAA,Madrid,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdT,35
 CCAA,Madrid,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdD,751.94
 CCAA,Madrid,,,,,,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdT,174
 CCAA,Madrid,,,,,,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdD,530
-CCAA,Madrid,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdT,2252
+CCAA,Madrid,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdT,2288
 CCAA,Madrid,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdD,38
 CCAA,Madrid,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdT,
 CCAA,Madrid,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdD,63.46
@@ -869,16 +873,16 @@ CCAA,Madrid,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdT,
 CCAA,Madrid,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdD,15
 CCAA,Madrid,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdT,
 CCAA,Madrid,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdD,208.88
-CCAA,Madrid,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdT,1770.25
+CCAA,Madrid,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdT,1805.05
 CCAA,Madrid,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdD,241.13
-CCAA,Madrid,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,13111
+CCAA,Madrid,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,12853
 CCAA,Madrid,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,1130
 CCAA,Madrid,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,121
 CCAA,Madrid,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,477.93
 CCAA,Madrid,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdT,35
 CCAA,Madrid,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdD,830.04
-CCAA,Madrid,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdT,2225
-CCAA,Madrid,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdD,615
+CCAA,Madrid,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdT,2265
+CCAA,Madrid,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdD,620
 CCAA,Madrid,,,,,,potencia_instalada,hidraulica,Hidráulica,Puesta en servicio,RdT,
 CCAA,Madrid,,,,,,potencia_instalada,hidraulica,Hidráulica,Puesta en servicio,RdD,63.78
 CCAA,Madrid,,,,,,potencia_instalada,otras,Otras tecnologías,En curso,RdT,2
@@ -889,42 +893,46 @@ CCAA,Madrid,,,,,,potencia_instalada,otras,Otras tecnologías,Puesta en servicio,
 CCAA,Madrid,,,,,,potencia_instalada,otras,Otras tecnologías,Puesta en servicio,RdD,440.69
 CCAA,Murcia,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdT,167.05
 CCAA,Murcia,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdD,55.1
-CCAA,Murcia,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdT,138.05
+CCAA,Murcia,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdT,214
 CCAA,Murcia,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdD,750.68
-CCAA,Murcia,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,1100
+CCAA,Murcia,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,1000
 CCAA,Murcia,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,822
 CCAA,Murcia,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,906.73
-CCAA,Murcia,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,872.81
+CCAA,Murcia,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,869.49
 CCAA,Murcia,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdT,249
 CCAA,Murcia,,,,,,capacidad_acceso,hibridacion,Hibridación,Con permisos,RdD,25
 CCAA,Murcia,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdT,473.82
-CCAA,Murcia,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdD,20.29
+CCAA,Murcia,,,,,,capacidad_acceso,hibridacion,Hibridación,Puesta en servicio,RdD,23.61
 CCAA,Murcia,,,,,,capacidad_acceso,termosolar,Termosolar,Con permisos,RdT,
 CCAA,Murcia,,,,,,capacidad_acceso,termosolar,Termosolar,Con permisos,RdD,50
 CCAA,Murcia,,,,,,capacidad_acceso,hidraulica,Hidráulica,Puesta en servicio,RdT,
 CCAA,Murcia,,,,,,capacidad_acceso,hidraulica,Hidráulica,Puesta en servicio,RdD,2.33
+CCAA,Murcia,,,,,,capacidad_acceso,otras,Otras tecnologías,En curso,RdT,1158.5
+CCAA,Murcia,,,,,,capacidad_acceso,otras,Otras tecnologías,En curso,RdD,
 CCAA,Murcia,,,,,,capacidad_acceso,otras,Otras tecnologías,Puesta en servicio,RdT,3222.84
 CCAA,Murcia,,,,,,capacidad_acceso,otras,Otras tecnologías,Puesta en servicio,RdD,305.48
 CCAA,Murcia,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdT,249.09
 CCAA,Murcia,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdD,55.1
-CCAA,Murcia,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdT,153.16
+CCAA,Murcia,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdT,239.04
 CCAA,Murcia,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdD,909.61
-CCAA,Murcia,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,1640
-CCAA,Murcia,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,978
-CCAA,Murcia,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,1958.44
+CCAA,Murcia,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,1525
+CCAA,Murcia,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,979
+CCAA,Murcia,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,1911.42
 CCAA,Murcia,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,958.5
-CCAA,Murcia,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdT,760
-CCAA,Murcia,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdD,34
+CCAA,Murcia,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdT,1092
+CCAA,Murcia,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdD,37
 CCAA,Murcia,,,,,,potencia_instalada,termosolar,Termosolar,Con permisos,RdT,
 CCAA,Murcia,,,,,,potencia_instalada,termosolar,Termosolar,Con permisos,RdD,50
 CCAA,Murcia,,,,,,potencia_instalada,hidraulica,Hidráulica,Puesta en servicio,RdT,
 CCAA,Murcia,,,,,,potencia_instalada,hidraulica,Hidráulica,Puesta en servicio,RdD,2.33
+CCAA,Murcia,,,,,,potencia_instalada,otras,Otras tecnologías,En curso,RdT,1199.25
+CCAA,Murcia,,,,,,potencia_instalada,otras,Otras tecnologías,En curso,RdD,
 CCAA,Murcia,,,,,,potencia_instalada,otras,Otras tecnologías,Con permisos,RdT,
 CCAA,Murcia,,,,,,potencia_instalada,otras,Otras tecnologías,Con permisos,RdD,3
 CCAA,Murcia,,,,,,potencia_instalada,otras,Otras tecnologías,Puesta en servicio,RdT,3263.71
 CCAA,Murcia,,,,,,potencia_instalada,otras,Otras tecnologías,Puesta en servicio,RdD,305.48
 CCAA,Navarra,,,,,,capacidad_acceso,eolica,Eólica,En curso,RdT,56.19
-CCAA,Navarra,,,,,,capacidad_acceso,eolica,Eólica,En curso,RdD,111.32
+CCAA,Navarra,,,,,,capacidad_acceso,eolica,Eólica,En curso,RdD,106.42
 CCAA,Navarra,,,,,,capacidad_acceso,eolica,Eólica,Con permisos,RdT,73
 CCAA,Navarra,,,,,,capacidad_acceso,eolica,Eólica,Con permisos,RdD,103
 CCAA,Navarra,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdT,1227.52
@@ -935,7 +943,7 @@ CCAA,Navarra,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,65
 CCAA,Navarra,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,7
 CCAA,Navarra,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,169.7
 CCAA,Navarra,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,170.18
-CCAA,Navarra,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdT,1592.08
+CCAA,Navarra,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdT,1498.09
 CCAA,Navarra,,,,,,capacidad_acceso,almacenamiento,Baterías,En curso,RdD,106.91
 CCAA,Navarra,,,,,,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdT,192
 CCAA,Navarra,,,,,,capacidad_acceso,almacenamiento,Baterías,Con permisos,RdD,
@@ -952,7 +960,7 @@ CCAA,Navarra,,,,,,capacidad_acceso,hidraulica,Hidráulica,Puesta en servicio,RdD
 CCAA,Navarra,,,,,,capacidad_acceso,otras,Otras tecnologías,Puesta en servicio,RdT,797.36
 CCAA,Navarra,,,,,,capacidad_acceso,otras,Otras tecnologías,Puesta en servicio,RdD,111.42
 CCAA,Navarra,,,,,,potencia_instalada,eolica,Eólica,En curso,RdT,56.29
-CCAA,Navarra,,,,,,potencia_instalada,eolica,Eólica,En curso,RdD,113.71
+CCAA,Navarra,,,,,,potencia_instalada,eolica,Eólica,En curso,RdD,108.81
 CCAA,Navarra,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdT,259
 CCAA,Navarra,,,,,,potencia_instalada,eolica,Eólica,Con permisos,RdD,129
 CCAA,Navarra,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdT,1413.53
@@ -961,9 +969,9 @@ CCAA,Navarra,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdT,
 CCAA,Navarra,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdD,44.29
 CCAA,Navarra,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,794
 CCAA,Navarra,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,57
-CCAA,Navarra,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,241.07
+CCAA,Navarra,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,232.11
 CCAA,Navarra,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,188.36
-CCAA,Navarra,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdT,1623.99
+CCAA,Navarra,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdT,1525
 CCAA,Navarra,,,,,,potencia_instalada,almacenamiento,Baterías,En curso,RdD,106.91
 CCAA,Navarra,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdT,352
 CCAA,Navarra,,,,,,potencia_instalada,almacenamiento,Baterías,Con permisos,RdD,
@@ -985,7 +993,7 @@ CCAA,País Vasco,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdT,159
 CCAA,País Vasco,,,,,,capacidad_acceso,eolica,Eólica,Puesta en servicio,RdD,150.15
 CCAA,País Vasco,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdT,100
 CCAA,País Vasco,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,En curso,RdD,240.51
-CCAA,País Vasco,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,191
+CCAA,País Vasco,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdT,126
 CCAA,País Vasco,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Con permisos,RdD,99
 CCAA,País Vasco,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,
 CCAA,País Vasco,,,,,,capacidad_acceso,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,15.59
@@ -1011,7 +1019,7 @@ CCAA,País Vasco,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdT,1
 CCAA,País Vasco,,,,,,potencia_instalada,eolica,Eólica,Puesta en servicio,RdD,182.45
 CCAA,País Vasco,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdT,100
 CCAA,País Vasco,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,En curso,RdD,338.64
-CCAA,País Vasco,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,236
+CCAA,País Vasco,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdT,136
 CCAA,País Vasco,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Con permisos,RdD,113
 CCAA,País Vasco,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdT,
 CCAA,País Vasco,,,,,,potencia_instalada,fotovoltaica,Fotovoltaica,Puesta en servicio,RdD,15.59
